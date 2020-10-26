@@ -39,10 +39,15 @@ def get_posts_limit(subreddit, start, end):
         success = True
         try:
             response = requests.get(url, timeout = 10)
-            resp_json = response.json()
         except:
             success = False
             print("Timeout: Retrying")
+            
+        try:
+            resp_json = response.json()
+        except:
+            success = False
+            print("Input error:: Retrying")
             
     return resp_json['data']
 
@@ -78,7 +83,7 @@ def get_comments_limit(post_id, start = 0):
          
     success = False
     trails = 0
-    while (not success and trails < 10):
+    while (not success):
         success = True
         try:
             response = requests.get(url, timeout = 10)
@@ -96,6 +101,9 @@ def get_comments_limit(post_id, start = 0):
             success = False
             print("Input error: Retrying")
             trails = trails + 1
+            
+        if (trails >= 10):
+            return []               # Invald reponds, return empty string
             
     return resp_json['data']
 
