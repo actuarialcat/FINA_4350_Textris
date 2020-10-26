@@ -38,9 +38,9 @@ def get_posts_limit(subreddit, start, end):
     while (not success):
         success = True
         try:
-            response = requests.get(url, timeout = 1)
-        except :
-            #success = False
+            response = requests.get(url, timeout = 10)
+        except requests.ReadTimeout:
+            success = False
             print("Timeout: Retrying")
             
     resp_json = response.json()
@@ -81,9 +81,12 @@ def get_comments_limit(post_id, start = 0):
         success = True
         try:
             response = requests.get(url, timeout = 10)
-        except:
+        except requests.ReadTimeout:
             success = False
             print("Timeout: Retrying")
+        except:
+            print("No result")
+            return []               # Invald URL, return empty string
             
     resp_json = response.json()
     return resp_json['data']
@@ -189,17 +192,15 @@ def output_json(data, filename):
     
 subreddit = "intel"     #starting from 2011-01
 
-extract_year(subreddit, 2019, 6, 2019, 6, False)
+extract_year(subreddit, 2011, 1, 2011, 1, False)
 
 
 #%%
 
-start = int(datetime.datetime(year = 2019, month = 8, day = 1).timestamp())
-end = int(datetime.datetime(year = 2019, month = 9, day = 1).timestamp()) - 1
-
-
-
-
+# =============================================================================
+# start = int(datetime.datetime(year = 2019, month = 8, day = 1).timestamp())
+# end = int(datetime.datetime(year = 2019, month = 9, day = 1).timestamp()) - 1
+# =============================================================================
 
 
 
