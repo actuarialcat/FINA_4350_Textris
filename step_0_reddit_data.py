@@ -3,6 +3,8 @@
 """
 Created on Mon Oct 26 12:31:58 2020
 
+Extract reddit data from Pushshift
+
 @author: Textrix
 """
 
@@ -121,7 +123,10 @@ def extract_month(subreddit, year, month):
     
     # Parameters
     start = int(datetime.datetime(year = year, month = month, day = 1).timestamp())
-    end = int(datetime.datetime(year = year, month = month + 1, day = 1).timestamp()) - 1
+    if (month == 12):
+        end = int(datetime.datetime(year = year + 1, month = month, day = 1).timestamp()) - 1
+    else:
+        end = int(datetime.datetime(year = year, month = month + 1, day = 1).timestamp()) - 1
     
     # Retrieve data
     post = get_posts_all(subreddit, start, end)
@@ -168,7 +173,7 @@ def output_json(data, filename):
 
 subreddit = "intel"     #starting from 2011-01
 
-extract_month(subreddit, 2019, 1)
+extract_year(subreddit, 2011, 1, 2020, 9)
 
 
 
