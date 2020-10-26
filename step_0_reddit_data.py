@@ -208,7 +208,7 @@ def output_json(data, filename):
     
 subreddit = "intel"     #starting from 2011-01
 
-extract_year(subreddit, 2018, 7, 2020, 9, False)
+extract_year(subreddit, 2011, 1, 2020, 9, False)
 
 
 #%%
