@@ -1,0 +1,57 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 26 15:48:25 2020
+
+@author: Textrix
+"""
+
+import praw
+from praw.models import MoreComments
+
+
+
+#%%
+
+reddit = praw.Reddit(client_id="jZQ7maiTfRUDbQ",
+                     client_secret="fSARbA4jfFMjh5R2nYQ8Wkftmrk",
+                     user_agent="User-Agent: HKU_FINA4350_Course_Project_Textrix: v1.0 (by /u/FINA4350_project)"
+                     )
+
+subreddit = reddit.subreddit("intel")
+
+
+#%%
+
+
+    
+    
+    
+for submission in subreddit.hot(limit=1):
+    print(submission.title)
+    print(submission.body)
+    
+    for top_level_comment in submission.comments:
+        if isinstance(top_level_comment, MoreComments):
+            continue
+        print(top_level_comment.body)
+        
+        
+#%%
+        
+submissions = subreddit.stream.submissions()
+comments = subreddit.stream.comments()
+
+for comment in comments:
+    text = comment.body
+    author = comment.author
+    parent = comment.parent()
+    comtime = comment.created_utc
+    
+    print(text)
+    print(author)
+    print(parent)
+    print(comtime)
+    
+    break
+
