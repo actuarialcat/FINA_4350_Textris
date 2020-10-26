@@ -39,7 +39,7 @@ def get_posts_limit(subreddit, start, end):
         success = True
         try:
             response = requests.get(url, timeout = 10)
-        except requests.ReadTimeout:
+        except:
             success = False
             print("Timeout: Retrying")
             
@@ -143,7 +143,7 @@ def extract_month(subreddit, year, month, with_comments = False):
     # Parameters
     start = int(datetime.datetime(year = year, month = month, day = 1).timestamp())
     if (month == 12):
-        end = int(datetime.datetime(year = year + 1, month = month, day = 1).timestamp()) - 1
+        end = int(datetime.datetime(year = year + 1, month = 1, day = 1).timestamp()) - 1
     else:
         end = int(datetime.datetime(year = year, month = month + 1, day = 1).timestamp()) - 1
     
@@ -192,7 +192,7 @@ def output_json(data, filename):
     
 subreddit = "intel"     #starting from 2011-01
 
-extract_year(subreddit, 2011, 1, 2011, 1, False)
+extract_year(subreddit, 2011, 1, 2020, 9, False)
 
 
 #%%

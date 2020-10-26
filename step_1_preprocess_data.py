@@ -61,7 +61,7 @@ def output_cvs(df, filename):
     
 subreddit = "intel"
 year = 2019
-month = 6
+month = 1
 
 filename = "{0}{1}_{2}{3}.json".format(
     OUTPUT_FILENAME_PREFIX, subreddit, str(year), str(month).zfill(2))
