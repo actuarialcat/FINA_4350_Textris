@@ -17,7 +17,7 @@ import json
 ###################################################
 # Global Param
 
-OUTPUT_PATH = "data/"
+OUTPUT_PATH = "data_true/"
 OUTPUT_FILENAME_PREFIX = "web_data_"
 
 REQUEST_LIMIT = 100
@@ -139,7 +139,10 @@ def extract_comments(post):
     print("Starting extact comments for {0} posts".format(total))
     
     for record in post:
-        record["comments"] = get_comments_all(record["id"])
+        try:
+            record["comments"] = get_comments_all(record["id"])
+        except:
+            record["comments"] = []
         
         # For console output
         i = i + 1
@@ -208,7 +211,7 @@ def output_json(data, filename):
     
 subreddit = "intel"     #starting from 2011-01
 
-extract_year(subreddit, 2011, 1, 2020, 9, False)
+extract_year(subreddit, 2011, 1, 2020, 9, True)
 
 
 #%%

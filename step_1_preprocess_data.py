@@ -12,6 +12,7 @@ import json
 
 import datetime
 import pandas as pd 
+from pandas.io.json import json_normalize
 from pathlib import Path
 
 ###################################################
@@ -52,6 +53,7 @@ def output_cvs(df, filename):
 
 
 
+
     
     
 
@@ -69,3 +71,6 @@ filename = "{0}{1}_{2}{3}.json".format(
 data = load_json(filename)
 
 
+x = json_normalize(data)
+
+y = x[["created_utc","title","selftext","id","full_link"]]
