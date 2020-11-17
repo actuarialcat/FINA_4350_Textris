@@ -17,7 +17,7 @@ import json
 ###################################################
 # Global Param
 
-OUTPUT_PATH = "data_true/"
+OUTPUT_PATH = "data_test/"
 OUTPUT_FILENAME_PREFIX = "web_data_"
 
 REQUEST_LIMIT = 100
@@ -179,7 +179,7 @@ def extract_month(subreddit, year, month, with_comments = False):
     
     
 def extract_year(subreddit, st_year, st_month, end_year, end_month, with_comments = False):
-    while st_year < end_year or st_month <= end_month:
+    while st_year < end_year or (st_year == end_year and st_month <= end_month):
         extract_month(subreddit, st_year, st_month, with_comments)
         
         if (st_month == 12):
@@ -210,6 +210,7 @@ def output_json(data, filename):
 # Main
     
 subreddit = "intel"     #starting from 2011-01
+#subreddit = "amd" 
 
 extract_year(subreddit, 2011, 1, 2020, 9, True)
 
