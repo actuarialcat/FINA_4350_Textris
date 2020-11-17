@@ -48,9 +48,9 @@ def output_cvs(df, filename):
 
 
 ###################################################
-# data cleaning functions
+# data formatting functions
     
-def clean_comments(comments):
+def format_comments(comments):
     """Normalize comments into tables"""
     
     if len(comments) == 0:
@@ -68,12 +68,12 @@ def clean_comments(comments):
     
 
 
-def clean_submission(data):
+def format_submission(data):
     """Normalize data into tables"""
 
     raw_df = pd.json_normalize(data)
     
-    raw_df["comm_text"], raw_df["last_utc"] = zip(*raw_df["comments"].map(clean_comments))
+    raw_df["comm_text"], raw_df["last_utc"] = zip(*raw_df["comments"].map(format_comments))
     raw_df["sub_text"] = raw_df[["title", "selftext"]].apply(lambda x: "\n".join(x), 1)
     
     raw_df["last_utc"] = raw_df[["created_utc", "last_utc"]].apply(lambda x: max(x), 1)
@@ -85,8 +85,8 @@ def clean_submission(data):
     return df
 
 
-def clean_all_year(subreddit, st_year, st_month, end_year, end_month):
-    """Clean all data"""
+def format_all_year(subreddit, st_year, st_month, end_year, end_month):
+    """Format all data"""
     
     df = pd.DataFrame()
     
@@ -95,7 +95,7 @@ def clean_all_year(subreddit, st_year, st_month, end_year, end_month):
             OUTPUT_FILENAME_PREFIX, subreddit, str(st_year), str(st_month).zfill(2))
         
         data = load_json(filename)
-        new_df = clean_submission(data)
+        new_df = format_submission(data)
         
         df = pd.concat([df, new_df])
         print("Completed {0}{1}".format(str(st_year), str(st_month).zfill(2)))
@@ -115,7 +115,7 @@ def clean_all_year(subreddit, st_year, st_month, end_year, end_month):
     
 subreddit = "intel"
 
-df = clean_all_year(subreddit, 2019, 1, 2019, 12)
+df = format_all_year(subreddit, 2011, 1, 2020, 9)
 
 
 #%%
