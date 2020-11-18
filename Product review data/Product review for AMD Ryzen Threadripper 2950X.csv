@@ -1,0 +1,519 @@
+,title,content,date
+0,"
+Boost up my creativity when writing my college papers
+","
+
+  I bought 2950x couple weeks ago. The performance that I’m exprexence it’s astonishing. This processor doubled my writing speed in regards to papers. The 16 cores make me feel like a boss in many college parties. Why do you need a girlfriend when you have the legend threadripper?
+
+","Reviewed in the United States on October 18, 2018"
+1,"
+RIP Intel
+","
+
+  One of of the best and affordable processors money can buy. Can do everything including cad modeling/rendering, 4k/8k editing, gaming, streaming, virtual machines. Worth it if you do video editing or 3D modeling or just love awesome tech. Way better deal than any intel i9.The chip needs to be set and screwed down in the TR4 socket properly. If not it wont read all the memory modules and can cause all kinds of issues. This chip likes low latency C14 memory for the infinity fabric. It is not cheap but it is highly recommended. The memory will read at a much lower speed when you first put them in your motherboard but highend memory should overclock to 3200mhz which makes the system run significantly faster.Get familiar with the ryzen master software it has a lot of settings and a couple different performance configurations like creator or game mode. It will also give you the true temperature readings since many mobos and programs are reading the Threadripper temps incorrectly. If anyone has any issues with installation or configurations send me a message.
+
+","Reviewed in the United States on October 24, 2018"
+2,"
+Amazing CPU but DO YOUR RESEARCH
+","
+
+  I love that Enterprise level hardware is now available to the masses at insane prices ($850 vs $1,800 for i9-7960X) but this also presents a problem with people wanting ""the best"" without properly configuring their PC which leads to a bad experience.  Here's a short list of recommendations:1. Make sure your motherboard has the most recent BIOS updates. Especially if they're a Generation One Threadripper board. Although it is compatible with Gen 2 Ryzen, it may not work without a BIOS update beforehand.2. Make sure your RAM is at least CL 14 - CL 16 with 3200 Mhz DDR4 Ram Quad Channel RAM. Threadripper's Infinity Fabric is EXTREMELY memory hungry and without fast ram, the latency can cause bottlenecking issues under heavy rendering loads. You may have to update your BIOS in order to see your RAM hit anywhere near 3200 Mhz, as mine were pinned at 2400Mhz until I did an update that allowed me to hit higher frequencies.3. GET A PROPER COOLER. A lot of companies are lying about their support for the TR4 platform but really only cover about 75% of the CPU. As of now, only the Cooler Master Wraith Ripper and Enermax TR4 can get the job done properly. I opted for the Enermax (1st gen was trash but 2nd gen seems to me holding up) and I'm seeing temps of 55 - 60 under full load.At the end of the day, yes you'll be able to run Fortnight in 5 different instances while streaming in 1440P BUT I hope anyone who's thinking about getting this type of system to start investing in learning CAD, Adobe Premier, ETC. You now have a machine that is designed with work in mind and it would be a shame to not maximize your return from an investment in hardware like this.
+
+","Reviewed in the United States on October 18, 2018"
+3,"
+Lives up to the hype, in the right circumstances
+","
+
+  I am more than satisfied with my TR2950X, but it is not the right processor for everyone.I purchased this processor for 4K+ video editing and color grading, and it delivers without breaking a sweat. I am able to playback 4K, 5K, and most 6K RED footage at Full Res/Premium quality in real time via DaVinci Resolve. In fact, I can play back two streams of 4K/23.98 RED footage in real time, allowing for dissolves and compositing without having to cache/render. It also crushes video encoding and transcoding tasks. This CPU completely demolishes my Xeon based systems, for significantly less money.That said, if you are not pushing this processor to its full potential, it may actually be slower than a more mainstream model. For example, when working in HD, my Avid Symphony systems based on older i7-7700K processors actually outperform this CPU due to higher clock speeds. Also, Threadrippers are harder to cool than more mainstream processors, which can lead to throttling and slower performance, if not planned for accordingly.So, before hopping on the hype train, make sure you have a plan to use the raw power that this processor is capable of, and not let most of it sit idle. However, if you have high level computing tasks, or do a ton of multitasking, then this processor is a fantastic choice.
+
+","Reviewed in the United States on September 2, 2018"
+4,"
+Over 3000 on cinibench before overclocking! JUST BUY IT! Amazing!
+","
+
+  LOVE IT! Incredible for 3D modeling, 4K editing graphic design and GAMING! Over 3000 on cinibench BEFORE overclocking!!!!!!!! Plays games flawlessly in 4K ultra settings paired with 1080ti. Great value compared to similar intel cpus with more cores and HALF the price! Highly, highly, highly recommended for anyone who can squeeze this guy in the budget.
+
+","Reviewed in the United States on December 5, 2018"
+5,"
+The processor is a great but the shipping needs to handle it as fragile
+","
+
+  The processor is great for workstation needs, buyers ensure that you are pairing this with good ram and a m.board.The shipping had the processor dislodge from the threadripper packaging, more care needed in shipping & packaging.
+
+","Reviewed in the United States on September 11, 2018"
+6,"
+Great power at a great price!
+","
+
+  The 2950x is a great CPU at a much better value than the 1950x. The only complaint is that it’s not “easy” to get it to boost to the 4.4ghz advertised single core boost clock in some cases. All in all though, this chip is fast enough, very powerful, and much less power hungry than the previous generation. It performs especially well in both workstation workloads, and gaming applications where you’re gaming, and streaming from a single machine.Further Nerd stuff regarding 4.4ghz boost clock:You will need a good motherboard with a really strong VRM. While the gen 1 TR motherboards will work, it’s better to use some of the x399 boards that were released specifically for the ThreadRipper 2000 series CPUs. In the “overclocking” software Ryzen Master there are 3 factors which the system uses to determine how high to boost the chip. These are all related to how much power the CPU can get. EDC specifically is related to how many amps the motherboard can provide to the chip, and is more often than not the limiting factor. Without a really good motherboard you’ll have to optimize power distribution to things like your memory, and power settings to allow the board to underclock other cores to get it to hit the 4.4ghz single core.
+
+","Reviewed in the United States on November 3, 2018"
+7,"
+Great CPU, with air cooling!
+","
+
+  My ages old (2007) PC finally died (motherboard). I needed a new PC. The research began. I am an old retired science guy. The only games I play are solitaires. I wanted a machine that could handle multi-threaded programs. The 2950X seemed like a good choice, but everybody was ranting about the necessity of liquid coolers. I have seen what leaking liquid coolers can do.I took a leap and ordered the 2950X, the ASRock X399 gaming MB, 64GB DDR4 ram, 2TB PCIe NVMe boot drive, 750W power supply,  RX 580 8G graphics, Fractal R6 case and the Noctua 140mm air cooler.When I first assembled the PC, the CPU ran warm at full load. I ordered the second fan for the cooler and added 2 Noctua fans to the case (bottom) as well as replacing all the Fractal fans. After tweeking the UEFI fan profiles, the unit ran quiet and peaked at 56DegC (Ryzen Master) running both CPU and Graphics full on for an hour. I'm very satisfied with the outcome. The machine is rock stable and quiet. I have no complaints about any of the component parts. Highly recommend.
+
+","Reviewed in the United States on October 20, 2018"
+8,"
+The Threadripper 2950x a gem and a stubborn install.
+","
+
+  This thing is a beast, but its socket isn't the standard push down and your done. At least that's all the personal cpu chips I've had have been. This one it particular has these hex key orange tool that you have to screw in a certain order to get it to seat properly. You have to start it evenly then proceed in order until the top of the screw driver clicks. I followed this and still had to re-seat the thing. Which involved a nervous bread-boarding of my motherboard and connecting things bit by bit as i wasn't sure if the thing was dead. Its working fine now but that process was very stressful as I thought i was going to have to RMA it. That being said the processor works great and render well for stock settings, and you can tune it to work even better with some simple bios tweaks depending on your board. Id still recommend the CPU for the power but be prepare to sweat a bit if this is your first 16+ core computer install. Oh and my board had a foxcon socket type I'm not sure if that matters but I heard the other version is nicer from other reviews. Im running the thermaltake AIO cooler 360mm, as the Threadripper comes with a AIO cooler adapter in the box which widens your choices of cooler.
+
+","Reviewed in the United States on December 12, 2018"
+9,"
+cool 32 threads
+","
+
+  It is spectacular 32 rendering tiles are displayed.It's enough for simulation with the DCC tool.
+
+","Reviewed in the United States on February 22, 2019"
+10,"
+Absurdely fast. Memory support is better than I thought. Water cooling is a MUST
+","
+
+  With 32 threads above 4 Ghz, it's pretty obvious it is absurdely fast. Games don't require that firepower. I bought it to make my PC a workstation and server as well, so I'll use the full potential of this beast.I was afraid my 3200Mhz memory would not be used on it's full potential because several internet articles say you would need a CAS Latency 14 memory, and my  G.Skill 4x16Gb 3200Mhz Trident Z has a CAS Latency of 16. It worked beautifully. No worries about that.Needs water cooling if you want to use it up to it's full potential. I'm using Corsair Hydro 115i, but you have to buy an adapter sold by Corsair (which is $10, plus $10 shipping).
+
+","Reviewed in the United States on October 18, 2018"
+11,"
+WOW!!! All I can say is WOW
+","
+
+  I'm not sure why this CPU is dropping in price and playing second fiddle to the new Ryzen 3700's because this thing is a MONSTER.  The only issues I have are that some of my programs are not multi-core designed so in my older version of After Effects, it's like I'm running a Celeron or something.  But that's not this CPU's fault.  It's has way more power than what you need for gaming.  But I use it for video editing.When I started editing videos back in the Pentium 4 days, it would take 2-4 X's the length of the video to encode an SD video to a DVD.  So a 1 hour video would take between 2-4 hours.  This CPU takes a 1 hour SD video and spits it out in the same DVD format in a little over 5 minutes (CPU usage is usually only 60% during this process).  My 2011 Quad Core W/ HT i7 will take 30 minutes for the same process. I know that is an extreme example, but it is consistent (an old P4 will never have messed with HD or 4K, so we're keeping things consistent).  And since the CPU is only using 60% while it's encoding, I no longer have to leave the computer overnight to do its thing.  Rather, I can put one video on encode and then pull up another one and do some editing and it doesn't slow things down AT ALL!!!  I'm telling you, if you do heaving multitasking and video editing, you NEED this CPU.  For the $$$, it is the BEST performance you will find.  Obviously don't sink this thing with dumb crap like too little RAM or with anything less than an NVMe drive.  And make sure you use a proper GPU.  And BTW, I have not O/C'd this chip.  It's totally stock with a Noctua fan on it.  This fan is the best option as others have tested water on it and it doesn't seem to be right for this chip.  Find the Noctua cooler/fan combo that fits this chip.  It has a large enough base for the girth this chip brings to your bed.
+
+","Reviewed in the United States on October 24, 2018"
+12,"
+Not as great as expected
+","
+
+  I did not buy this for gaming, I bought it for video editing and 3D animation.  So I can't speak to its gaming performance.  Then again, it isn't really made for gaming.I'm not sure if my expectation for this CPU was simply unrealistic, or if it just doesn't live up to the hype.  I will say that I went from using a very old Pentium 4 based editing rig to a fully-decked-out rid driven by this CPU, and running processes that strictly rely on CPU speed (namely 3D animation rendering), the gains in speed are surprisingly small.I have not yet tried to overclock the CPU.  I didn't figure I would have to, in order to see huge speed gains compared to my decade-old former CPU.  So anyway, take this for what it is worth since I am not the most expert regarding hardware specs.  I expected my mind to be blown, but instead I can say it's a little bit faster than a Pentium 4.  I just wanted more from over ten years of hardware evolution.
+
+","Reviewed in the United States on January 7, 2019"
+13,"
+Good working efficiency as well as appropriate gaming experience
+","
+
+  Good part: with 16 cores and NUMA mode enabled, you can create contents very efficiently while the gaming experience is not dropping a lot compared to game mode.cons: Windows and applications are not optimized enough, so sometimes apps only use 8 cores if NUMA enabled. Also single core performance not as good as imagined, maybe because of IPC problems.
+
+","Reviewed in the United States on January 31, 2020"
+14,"
+superfast processor
+","
+
+  I do primarily photo & video editing - mostly use Lightroom and Photoshop for photo and Corel's Video Studio for drone video editing. When doing batch processing in, for example LR, where I do a raw conversion to jpeg and resize on 100's of images, the time savings are really substantial. A process that used to take (literally) hours now completes in less than 10 minutes.I am not a gamer. The build that this processor went in includes the Gigabyte Aorus Xtreme X399 motherboard, Gigabyte RTX 2080-TI GPU and 64gb of Ballistix Sport LT 64GB Kit (16GBx4) DDR4 3000 ram. I overclock through the bios using the auto method (cores run about 4.0GHz and the memory just under 3
+
+","Reviewed in the United States on July 5, 2019"
+15,"
+16 Cores, what else can I say?
+","
+
+  Go AMD, GO!  This chip is a a monster.  I was not an AMD fan before I bought this chip and this is my first AMD chip.  What else can I say, I am floored.  I plan never to buy another Intel product again as long as I live, well, unless they bring their prices in line with the competition which they will be forced to do if they want to compete.My installation was not entirely stress free.  My first motherboard had a socket that I could not close.  Then the cooler that I bought was not compatible with Threadripper.  I had to update the bios to get the motherboard to recognize my four sticks of RAM.  But other than that, other issues were minor.  I did get 4 channel RAM to take advantage of the 4 channel memory bandwidth.  And I also took advantage of the free RAID 0 nvme setup for 2x nvme speeds.  This is the first computer that I build, I was hesitant to build one before since it seemed daunting, but everything went smoothly.  If you are reading this and you are unsure you want to build your own computer, buying the parts from Amazon certainly helps since they have a generous return policy.  It is not as challenging as most people think, I am a convert and am never going to purchase a pre-built PC again.
+
+","Reviewed in the United States on June 6, 2019"
+16,"
+Great upgrade from the 1950X
+","
+
+  The AMD Ryzen Threadripper 2950X Processor (YD295XA8AFWOF) was a replacement for a 1950X that had suffered several over-temperature events due to a bad Enermax liquid CPU cooler (failed after 1yr 1mo since purchase). When I tried to find a 1950x replacement CPU I found that it had been superseded by the 2950x. The speed difference was 56/1183 to 35/1183 and it is noticeable. I ran the UserBenchmark and the CPU was classified ""UFO"" for its speed in gaming, desktop and workstation. If your budget can handle the $693 web price of this CPU, I believe you will be impressed with the speed.
+
+","Reviewed in the United States on May 3, 2019"
+17,"
+Fast CPU from AMD
+","
+
+  It's been a long time since I used a PC with an AMD processor. I've used their video cards for many years. This Threadripper 2 was one of Amazon's ""deal of the day"" so I got a good price for it. I have since picked up everything else needed to assemble a new PC including a Gigabyte motherboard, RAM, AMD video card, Samsung SSDs, a power supply, and a case. I've built dozens of computers before for myself, family, and friends. This one is screaming fast as you would expect plus it is also very quiet thanks mostly to the CPU's Corsair liquid cooler. The PC is brand new and I haven't really pushed it's capability much yet but that will come. My only criticism would be the packing that the CPU came in. Mine was rattling around inside the box but it didn't seem to be damaged and it is working fine. AMD could do a better job with that.
+
+","Reviewed in the United States on May 10, 2019"
+18,"
+Best CPU for Work and Play
+","
+
+  The 2950X is the best HEDT CPU for those who need to actually get work done during the day and like a good game at night. AMD's Precision Boost 2 basically overclocks the CPU right out of the box, just get a good cooler. I am using the Thermalright Silver Arrow (Because Workstation) and I could not be happier.
+
+","Reviewed in the United States on October 16, 2019"
+19,"
+Surpisingly good in 2020.
+","
+
+  I enabled PBO and observed the CPU's behavior in HW monitor with great interest. All 16 cores will boost to 4.4 GHz individually, and all together have boosted to 4.24 GHz. That was not commonly happening when this CPU was first released and reviewed, and I wonder if this one is just better, or if all the more recently built ones are better silicon overall.I noticed that under a moderate load, the temps hold at about 51 degrees, and under a heavy boost, temps go into the low 60s before the fans spool up and drive them back into the 50s. That's impressive considering I am using a round AIO cooler that doesn't even cover the entire IHS. Looking at the PBO constraints, I find that the limiting factor thus far is not temperature at all but voltage. This makes me wonder if I can undervolt and obtain the 200MHz offset for 4.6 GHz.Not that this really matters, its just a fun and interesting thing to check out. What does matter is that I came from a 1900X, and I am kind of shocked by the difference. Dota2 saw a 22% increase in FPS, and I'm not exactly sure why. Other games it made no difference. I think some games suffered from the first gen TR scheduling, though the 1900X certainly did far better in games than I expected.Interacting with gigantic folders of images in windows is completely different with double the cores. 32 threads is more than enough most of the time for me. I checked. Even with my ""leave everything up when I take a brake to game"" use case, I still found that 4 to 6 of the 32 threads weren't being used. On the other hand, when you do a batch file conversion, its pretty cool that programs use all available resources.I'm glad I was able to get one of these before they disappear. I have an enormous amount of storage with the x399 NVME setup and I don't really feel like building a new system yet. This is a nice stopgap, though I wish the 3960X was a 16 core that fit in X399.I'm not sure that anyone should get this, except if you currently have a 1900x or 1920x, or if you can find a great deal on all the hardware and absolutely need the I/O. Otherwise X570 with 3950X is the way to go.
+
+","Reviewed in the United States on May 21, 2019"
+20,"
+Love it and all its power hungry glory
+","
+
+  I wish my motherboard was more stable with this (asus zenith extreme) however this is such an amazing cpu. Remember to download and install the software that goes with it as it allows you to switch it into different modes if you need to support legacy gaming or find any performance issues with memory (I have no issues and benchmark the same in all modes but did notice vr improvements using local memory mode)
+
+","Reviewed in the United States on October 18, 2018"
+21,"
+Awesome cpu
+","
+
+  Went from an i7  7th gen to this, since i have a plex server and on the intel when i had 4 people watching movies my cpu would max out. With the threadripper i have up to 6 people on the server watching movies and I have also been playing video games at the same time and the cpu does great.
+
+","Reviewed in the United States on October 24, 2018"
+22,"
+Great CPU
+","
+
+  CPU works perfect, easy to install.  The only issue is getting accurate CPU temperatures other than using the AMD Ryzen Master software. Seems most of the 3rd party temp measurement software has yet to catch up.Update,  after  14 months of continual use the CPU failed.  tried replacing everything on the motherboard, GPU, ram, new power supply also tried a brand new motherboard, talked to ASRock a lot,  Bottom line looks like the 2950X is dead for whatever reason.  rather than invest in a new 2950X, better off with a 3950X and new x570 mobo  Have that up and running, no issues.
+
+","Reviewed in the United States on November 21, 2018"
+23,"
+AMD Ryzen is fast!
+","
+
+  I had to rebuild my desktop since it was becoming outdated and my motherboard was starting to have issues. I was always an Intel customer, but this new Threadripper won me over. It works flawlessly with my configuration of computer parts and is very fast. I didn't buy it for the protective packaging it comes in, but it is impressive how AMD's packaging engineers designed a package worthy of this CPU.
+
+","Reviewed in the United States on May 19, 2019"
+24,"
+Not well rounded
+","
+
+  First and foremost I am not a child who bought a TR chip for gaming. I was using the intel X99 platform, specifically the 6900k for a couple years for work and some play after work. I have owned dozens of computers over the past decade (mostly intel up until Ryzen). I still currently own 2nd & 3rd gen Ryzen 7's as well as 6,8&9th gen intel i7's.If you have a way to use all of the TR cores in a specific work load then its perfect. But its a bit of a 1 trick pony. It is not the one size fits all package that a more seasoned intel processor will bring you on a monolith design. Im currently using a 7980XE and hands down it is the best CPU i have ever used. It not only slays in work but also plays games like a champ. All this is done with out having to go into Ryzen master and changing the settings and restarting the computer and getting back to work. The fact that this CPU came out in 2017 and is this for so long is just hands down more impressive to me. Sure people will argue that its a much more expensive chip. But That really isnt the case when its amortized over the ownership it doesnt end up being that bad. Not to mention that im  running at 4.7ghz on more than half of the cores. Sorry AMD fanboys, it just isn't the complete package. Its a good product but compared to its competition i cant say i would recommend it over other offerings.
+
+","Reviewed in the United States on October 24, 2018"
+25,"
+The encouragement you need!
+","
+
+  Beautiful, easy set up, faster than a meteorite and is large. I would say that finding the right cooler or one that fits this large rectangle of a processor is tough. Bios ran at 79° c and  I thought the vomputer would catch fire or morph into a pokemon. I ended up going overboard I think anf getting the Nzxt x72 and it keeps it cool. Called AMD and they said to load their software to run temps, and of course the offset for the processor made it actually 30°c. Sofar the comput is fast and runs well(no games yet) but for 4k editing its a monster. After effect with my 1080ti sc2, seems slower than I thought. Davinci will be my main editor, so i will see how that does. Right now Adobe Prem and AFX is smooth playback and no real hesitation on playback. But sometimes it will lock up or be... ADOBE.Great purchase, great processor.
+
+","Reviewed in the United States on April 16, 2019"
+26,"
+Threadripper make Davey so happy
+","
+
+  This thing is amazing. I have always used Intel in the past but I just couldnt pass up the deal and based on research and reviews decided to give AMD a shot. I am not disappointed. Intel still holds an edge in single thread processing but for the cost difference it doesnt have a big enough edge. I have put this thing through its paces and it handles everything I throw at it beautifully. I utilize an AIO water cooler specifically designed for this chipset (it was the only one at the time not sure if others have them out now). Its fast and still runs games incredibly well!
+
+","Reviewed in the United States on April 23, 2020"
+27,"
+Multitasking Production Monster
+","
+
+  If you want to get the every last frame from a game, sorry to say this is not the CPU for you, but if you want a chip that can take anything you throw at it you have it. Gaming, live streaming, video/audio/photo editing, coding, having more than five tabs open, this will be the heart of a great system.Ryzen Master software is wonderful. It lets you see everything about the chip, from temp, peak speed and power usage. It also has the ability have different modes a creator mode, game mode (for software/games that cannot handle 16 cores), or create your own profile. This includes going in and using their boost to overclock or do it manually on your own.The only negative I have about the chip is the install. It can be daunting holding it and getting it set into the motherboard but with how it slides in goes smooth but I did screw the lid down as tight as needed (the included hardware takes care of it) so had to go back and reseat it.Overall this has been the chip I have been waiting for. If you do any kind of content creation this is worth the investment.
+
+","Reviewed in the United States on December 31, 2018"
+28,"
+Product was bouncing all around inside of box
+","
+
+  So, the processor works great. No problems whatsoever, luckily. However, when I'm paying over $700 for a piece of equipment...I expect that piece to be securely fastened inside the box...not rattling around. By some miracle, it wasn't damaged. It was pretty disappointing to see that. But, the processor works as advertised, so I still recommend buying it. Just thought that was pretty ridiculous.
+
+","Reviewed in the United States on July 12, 2019"
+29,"
+Very good AMD Customer service !
+","
+
+  The Processor was defective (never fired it up... black screen all times) and it takes a lot of time to discover it (like 6 months to be sure of it. You think first about the MEM compatibility , then after the PSU, and maybe the Motherboard, but the last thing you want to think about is : ""maybe it's the CPU?"" Well, IT HAPPENS!! it's the 2nd time in my life ( 40 years exp) that I've seen that!The AMD team was very efficient to change the item ASAP ( after verification of the Serial#)  Congrats!For the miners : XMR ... disappointing!Buy instead the X3970 it's fabulous at XMR ( 14000/20000 H/S)!D.
+
+","Reviewed in the United States on January 15, 2019"
+30,"
+Good product bad packing
+","
+
+  Very good product, I received the product out of the security slot that AMD create for the packing, but ever the product is very solid (some scratches in the top but it works fine), I was testing with design audio and video tools and works impression vs the Int.l  process.the performance of the AMD Processor is very good for workstations
+
+","Reviewed in the United States on October 18, 2018"
+31,"
+Great CPU Running OC at 4ghz
+","
+
+  Running nice at 4ghz overclocked. Using Fryzen to cool it down. Idle temps between 32-38c. At full load I managed to cook it to 80c. Probably should bring down the clock speed for lower temps
+
+","Reviewed in the United States on October 24, 2018"
+32,"
+Excellent CPU
+","
+
+  Excellent single core performance. Outstanding multi core performance. Easy to install. Cool package. I am really happen to have it on my X399 motherboard. Probably keep using it like next 5 years.
+
+","Reviewed in the United States on August 11, 2019"
+33,"
+the bomb!
+","
+
+  most metal name  in PC history. so sweet. runs cool, fast, no issues. awesome!!
+
+","Reviewed in the United States on February 26, 2019"
+34,"
+It’s a nice offering
+","
+
+  It’s a great all around CPU. I mostly game so I have it in game mode effectively turning it into a 2700x with slightly better performance. When it’s time to create content I enable creative mode to enable the 16 cores. It’s a great processor but it still doesn’t game as well as a 7700k (obviously)
+
+","Reviewed in the United States on October 21, 2019"
+35,"
+Value for money
+","
+
+  I am extremely happy with the processor. This processor kills similar priced intel processor and makes intel look like extremely greedy for money. Even after hours of moderate usage temperature is around 45 degree Celsius.
+
+","Reviewed in the United States on May 5, 2019"
+36,"
+Stop waiting, it's worth every penny
+","
+
+  I am a video creator and editor. This chip is the perfect combination of fast and powerful. I may build a second one just for fun. This is a must have.
+
+","Reviewed in the United States on December 28, 2018"
+37,"
+Its Fast, Really Fast
+","
+
+  If you can swing the money, I highly recommend this processor for your PC needs, especially for processing 4K video which is what I am using it for.  Davinci Resolve works well with this processor.
+
+","Reviewed in the United States on September 2, 2019"
+38,"
+came used and not well packaged
+","
+
+  can see old thermal paste on chip and was poorly packaged. the cpu was able to slide about freely in package, surprized the outside looked untouched. will update if it works or is doa
+
+","Reviewed in the United States on July 2, 2019"
+39,"
+Awesome CPU!
+","
+
+  The power is simply amazing!  Video rendering that used to take over an hour now only takes <15 min!  It is expensive, but worth the money.
+
+","Reviewed in the United States on November 20, 2018"
+40,"
+Fast smooth and beautiful
+","
+
+  Simply everything I hoped it would be. Powerful and fast. Adobe Photoshop runs insanely fast and smooth as butter. Games are seamless.Love it.
+
+","Reviewed in the United States on October 18, 2018"
+41,"
+Excelente
+","
+
+  Excelente producto y precio
+
+","Reviewed in the United States on October 24, 2018"
+42,"
+Hot hot hot beware
+","
+
+  Hot hot!!!!!! I am running a watercooling system on an 399x mobo and even with the cpu locked at 3.5ghz it normal temp is 50c thats nuts considering my 1080gpu on the same loop pulls 39c at full load with oc with the cpu unlocked itll hit 65 in 20 min. Thats to much ewkb threadripper waterblock. However the driver fumbled the package when delivered i fear it may be damaged
+
+","Reviewed in the United States on January 26, 2020"
+43,"
+Perfect for a 3D rendering/gaming rig.
+","
+
+  Upgraded from an i7 5820K which is still a decent CPU and my cinebench score has tripled! The processor has cut my rendering times in less than half the amount of time. Gaming is just slightly faster but this was expected. Just make sure you updated your bios first on gen one motherboards.
+
+","Reviewed in the United States on November 14, 2018"
+44,"
+Five Stars
+","
+
+  Highly recommend this CPU
+
+","Reviewed in the United States on June 16, 2019"
+45,"
+Overkill perfection
+","
+
+  This 16 core animal is only for overkill builds. Not necessary even for a highly demanding productivity build.
+
+","Reviewed in the United States on January 18, 2019"
+46,"
+Thermals better that imagined
+","
+
+  The highest temp I have seen under full load is around 68 C which is crazy for a 16 core processor
+
+","Reviewed in the United States on August 28, 2019"
+47,"
+Best Spaceheather/CPU combo ever
+","
+
+  Does not disappoint.For anyone else like me, who wants a good CPU to game with and an excellent space heater, this is it.  The exact model of Threadripper should vary based on your budget and the size of the room you are heating, but any Threadripper can effectively apply a stupid number of physical and virtual cores to any task as well as generating enough heat to burn eggs.
+
+","Reviewed in the United States on October 25, 2018"
+48,"
+Fast Delivery & Intact
+","
+
+  Fast delivery of item, arrived earlier than expected. New product as described. 16 cores of pure awesomeness. Can't wait to benchmark it! Would buy again from seller.
+
+","Reviewed in the United States on July 23, 2019"
+49,"
+CPU loose in the case
+","
+
+  Haven't built my PC yet but I bought this CPU to start it off and as I got it the CPU was already scratched and loose in the case. The product case isn't exactly damaged but there is a footprint of what looks to be a heel (unsure) on the seal part. I cant test it myself to see if it will work so I'm not even going to bother opening it and would rather send it back in hopes to get one packaged properly.
+
+","Reviewed in the United States on November 7, 2020"
+50,"
+2950x: Intel has a run for their money
+","
+
+  Snagged this while on sale for $700, excellent for rendering & multitasking.Averages temps of high 40Cs even under load with an AIO cooler.
+
+","Reviewed in the United States on October 18, 2018"
+51,"
+Very good chip for high end pc uograde.
+","
+
+  A great chip for a new PC.
+
+","Reviewed in the United States on October 24, 2018"
+52,"
+Power and reliability
+","
+
+  As  you would expect from this series. A great solid performer. First non intel build and not at all unhappy. Cost effective video and gamming solution.
+
+","Reviewed in the United States on May 24, 2019"
+53,"
+Great CPU 16 Cores @ 4.2 32 Threads
+","
+
+  What can you say its Awesome for Adobe and Other App's. I do not have any problems play game's
+
+","Reviewed in the United States on May 8, 2019"
+54,"
+Good experience
+","
+
+  Got it only one day before the MB, which is before promised.
+
+","Reviewed in the United States on November 23, 2019"
+55,"
+good
+","
+
+  BIOS problem
+
+","Reviewed in the United States on September 4, 2020"
+56,"
+thnak you
+","
+
+  thnak you
+
+","Reviewed in the United States on October 10, 2019"
+57,"
+Not worth the money
+","
+
+  I wish I would have went with the ryzen 9.
+
+","Reviewed in the United States on April 2, 2019"
+58,"
+Trabaja muy bien a la exigencia de diseño gráfico
+","
+
+  Excelente compra
+
+","Reviewed in the United States on September 9, 2019"
+59,"
+It's a CPU, what do you expect
+","
+
+  Works as expected.
+
+","Reviewed in the United States on May 17, 2020"
+60,"
+Best Value Platform for 4 GPUS.
+","
+
+  Just want to buy Asrock Taichi and put in 4 GPUS. Recomeend.
+
+","Reviewed in the United States on October 18, 2018"
+61,"
+Great cpu
+","
+
+  I got this chip for a workstation build, price was great, works very fast, makes my work so much easier, and I can still play high end games on the side.
+
+","Reviewed in the United States on October 24, 2018"
+62,"
+Very good
+","
+
+  Great CPU with this price
+
+","Reviewed in the United States on November 7, 2020"
+63,"
+The power for the value is almost criminal.
+","
+
+  great product, but its a little scary installing it.
+
+","Reviewed in the United States on February 22, 2019"
+64,"
+AWESOME
+","
+
+  One work AWESOME
+
+","Reviewed in the United States on March 7, 2019"
+65,"
+OUT OF THE BOX DID NOT WORK, STILL WAITING FOR REPLACEMENT
+","
+
+  We ordered this weeks ago, it was dead on arrival when we tried to install it.  We returned it and are waiting for the REFUND - as we would like to try again with a working unit.
+
+","Reviewed in the United States on March 7, 2020"
+66,"
+Best Price to Performance CPU
+","
+
+  Very Happy with this CPU
+
+","Reviewed in the United States on October 30, 2019"
+67,"
+Great value, thanks!
+","
+
+  Unbelievable deal!
+
+","Reviewed in the United States on January 10, 2020"
+68,"
+Amd give their customers their best of the best. They deserve it
+","
+
+  Great improvement over the previous generation. The CPU market has been slow however AMD changes everything with zen. They deserve it even though many people may not appreciate how they contribute to the overall markets. Amd will be remembered from the bottom of my heart. I start buying their product because I support them. I havent upgrade since 10 years Amd changed me and how I'm computing nowaday!.. Thank you!
+
+","Reviewed in the United States on April 19, 2019"
+69,"
+Easily overclocked to 4.1GHz all cores!
+","
+
+  WOW! Easily overclocked to 4.1GHz all cores while keeping reasonable temps. Using a heat sink with push-pull configuration will keep the temps ~ 75C. The best is to use Precision Boost Overdrive (PBO) via Ryzen Master or Asus BIOS. There is really no need to manually OC 2950X as PBO does an excellent job of boosting the cores.I switched from x99 as Intel fan boy to x399, and I am not looking back.Here is my setup:1. Case: CoolerMaster H500 (not H500p) - Relatively cheap, well built and a lot of airflow, RGB is not necessary. Cable management could be better, unless all your HDD/SDD are m.2.2. RAM: 32GB (4x8) G.SKILL Flare X 3200 C14 - SUPER expensive. It is crazy fast and AMD compatible (Samsung B-Die). I was able to run it @ 3200 with C14 with Asus BIOS set to profile 1 with ease. Please note: that you don't have to get a B-Die RAM, or C14 latency, any DDR4 should be fine. PLEASE FOLLOW MOTHERBOARD INSTRUCTIONS ON HOW TO INSTALL RAM; DON'T SIMPLY PLACE RAM IN RANDOM SLOTS.3. Motherboard: Asus Zenith Extreme - I love Asus motherboards. There are a lot of negative comments about Zenith, but honestly I have had 0 problems with Asus. The BIOS interface is the best in this space, and ROG community is very helpful. If you are going to overclock the CPU, you cannot go wrong with Asus. VRM might not have as many phases as MSI MEG, or the best VRM cooling, but overclocking 2950x is quite easy with VRM staying relatively cool.4. CPU Cooler: Deepcool Fryzen TR4 - An amazing CPU cooler, but very hard to find (check Newegg). It covers the entire CPU plate! Better cooling than Cooler Master Wraith Ripper, cheaper, and leaves tons of room for the RAM height. I am not a big fan of AIO cooling. Never the less, try to get a cooler that covers the entire CPU heat plate; although such coolers are hard to find. Noctua NH and Cooler Master MA621P TR4 are available and perform great, but I personally don’t like how they look.5. SSD: WD Black nvme – Fast, no need for 970 PRO, unless you want to go at the speed of light.6. PSU: EVGA SuperNova G2+ 850W – No need for more power, unless you are doing 32 cores overclocked.7. CPU: 2950X - WOW! Easily overclocked to 4.1GHz all cores.
+
+","Reviewed in the United States on November 7, 2019"
+70,"
+This thing flies!
+","
+
+  I don't use the system for gaming but it's amazing for photo and especially video editing.  This renders well over 10 times faster than my previous i7 5930k, which was also quite fast, but nothing compared to this CPU.  I looked at this vs. the 32 core version and this actually is better for video editing than the one that is more than twice the price.  I highly recommend it.One odd thing I noticed with it is that my AMD FirePro W9100 GPU (with 32GB VRAM) actually slowed down slightly with it.  I'm working with AMD on it right now trying to see why.  But overall, I love it and I'm a big fan of AMD across the board.
+
+","Reviewed in the United States on October 18, 2018"
+71,"
+Fantastic for highly threaded workloads
+","
+
+  Single threaded performance is competitive with modern high end CPUs but not as good as the best (but much more expensive) Intel CPUs.  But multithreaded performance is outstanding and multithreaded performance per dollar just can't be beat.  Easy to cool, doesn't require exotic cooling solutions unless you're going to overclock.Do not buy this CPU just to game on, in case that's not obvious.  That's not its strength and gaming value is not there (although I am sure it would do fine, but much cheaper options would do just as fine in gaming if that's what you want a fast CPU for).The worst part about this processor though is the ridiculous packaging it comes in.  It feels terrible to throw away a huge hunk of hard plastic and foam just because someone at AMD thought the packaging needed to be so over the top and dwarf the actual processor.  No more ridiculous packaging please AMD.
+
+","Reviewed in the United States on October 24, 2018"
+72,"
+I feel pretty dumb now
+","
+
+  I RMA'd this cpu thinking it was dead, but really there was minuscule amount of coolant that dripped out when I drained my GPU cooling loop that blew across my motherboard over time and probably ended up insulating the contacts of some surface mounted chip on my motherboard and kept it from even beginning to POST. Saw it, wiped it with a cotton swab and bam, the system started working.
+
+","Reviewed in the United States on October 31, 2018"
+73,"
+Awesome
+","
+
+  Amazing processor
+
+","Reviewed in the United States on December 1, 2018"

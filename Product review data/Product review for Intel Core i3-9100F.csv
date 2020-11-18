@@ -1,0 +1,1062 @@
+,title,content,date
+0,"
+If you're gaming/doing anything non-Production, buy this.
+","
+
+  I can tell you from personal experience, the difference between this $80 CPU and the $520 9th Gen i9 9900K is... $440.  Framerate gain at 1440p was ROUGHLY 2-3 frames per second, small enough to be in the window of error.  I cannot imagine a consumer use case where you're actually going to get ANY use out of the beefier CPUs besides shaving a couple minutes off a video encode (that's encoding, not decoding, aka ""watching stuff"").  Put that $440 into a GPU upgrade and you'll REALLY be helping yourself.  This CPU smokes, and sips power to boot.Do not buy into the hypebeast.  You don't need to spend $950 on a PC before you even get to the graphics card.  Be smart.  Don't throw money into the wastebasket.  Use it better.
+
+","Reviewed in the United States on April 2, 2020"
+1,"
+Good for World of Warcraft
+","
+
+  The main reason I bought this was for playing Word of Warcraft.  It is doing very well at playing World of Warcraft.  No integrated graphics but that doesn't matter since I am using graphics card.  the only negative is no quick sync is available for video transcoding.  Something to think about if you do that kind of thing.
+
+","Reviewed in the United States on August 30, 2019"
+2,"
+Bad and terrible cpu!!!
+","
+
+  This is bad and should not be bought!!!! go buy the one from Amazon because this one is just dumb and so much more complected than the amazon cpu!!!
+
+","Reviewed in the United States on April 2, 2020"
+3,"
+Great value for the buck
+","
+
+  Ok with the Intel lineup if you want to go and spend a ton of cash on a CPU, np. They got you covered well. If you want to save cash and get a strong CPU, then here's the deal.  I replaced my old 3rd Gen Intel I7-3770 with this one which bench marked a bit better than it. I got a 8th/9th Gen Motherboard to go with it.  Now I figure I have this for a year or two and then upgrade as needed to an Intel I5/I7/I9 9th Gen as needed. But for now my I3-9100F has plenty of power. There is no graphics included in the CPU so you'll need a graphics card. Then again most PC builders always get a Graphics card so this won't be a deal breaker. So, I'd snap this one up if you're an ""Intel-Guy"" but I'm sure if you can handle the setup then Ryzen CPU's probably offer more.  But I'm more of plug-n-go type. Also this one came with a Fan which was good. This is a ""Turbo"" CPU as well which saves you electricity when you're just doing low priority tasks. Update: This CPU is still going strong. I paired it with a GTX 1650 Super Gaming X 4GB DDR6 graphics card.  It's doing very well considering the cost versus more expensive CPU's that are out there. I also of 16GB of RAM. In this arrangement I can easily run a basic Hadoop setup on a VirtualBox (From Hortonworks sandbox (CDP)). They need about 12GB of RAM at least and about 50GB + HardDrive space. But, this can push those newer games but will struggle a bit on the most demanding games. For those you'll need an I5 9th gen or greater for you super gamers out there.  But I'm an IT guy running Hadoop and Python and Machine Learning classes.  This is more than enough to do that.
+
+","Reviewed in the United States on August 2, 2019"
+4,"
+Does not support onboard video
+","
+
+  This is a good low budget build processor but don't be that idiot like me that didn't realize you NEED a dedicated graphics card for this CPU. Spent 8 hrs testing 3 board, 2 CPUs and 4 memory sticks before I realy looked a that CPU boxes.
+
+","Reviewed in the United States on August 30, 2019"
+5,"
+Absolute bargain of a CPU
+","
+
+  If you want to build the absolute cheapest gaming PC with decent performance, look no other than this cpu.Sure it's only 4 cores and 4 threads, but for 1080p and 60 - 80 frames per second, it's more than capable.  This cpu gives you about 90% the performance of a 9900K for the price of 2 sticks of RAM.  CPU also runs really cool.  It sustains 4GHZ all the time and never once did it hit higher than 62C.The other option was a Ryzen AF which is 6 core 12 thread.  No doubt that the Ryzen would be a productivity monster, but in gaming performance it's still about the same, if not a tad slower than this Intel in a few titles.  I actually was considering buying the Ryzen AF but I couldn't find a decently priced AM4 motherboard.  I couldn't find anything less than $180.  For a budget build that's way too expensive.  I waited nearly a month to see if AM4 boards would be in stock, but no luck.  I was able to buy an LGA 1151 board for this cpu for only $60!  That's an absolute bargain.Currently I have this cpu paired with an old GTX 970.  It's still a great cpu but the vram limit hurts it's gaming performance from time to time.  A gpu with 6 - 8GB of vram would be best to pair with this.  A GTX 1660 ti or RX 5600XT would make an awesome pair.I played GTAV and BFV with this cpu and I get an average of 80 - 110 fps with a GTX 970.  It could only get better with a nicer gpu.
+
+","Reviewed in the United States on January 4, 2020"
+6,"
+Plan on using your own thermal paste
+","
+
+  Perfect to get if you plan on using a dedicated graphics card and don't need or want to worry about overclocking.I do have a problem with the packaging. The stock cooler came uncovered in a cardboard box. There was lint and little specks of cardboard in the thermal paste. I already planned on using my own paste, but I'd be really annoyed if I didn't plan on it or have any to spare.
+
+","Reviewed in the United States on September 3, 2019"
+7,"
+Great value if you are using a discrete graphics card
+","
+
+  The circuitry for graphics on Core processors is integrated on the CPU, not the motherboard.  If you are using an add-on graphics card,  this is a great value.  Note: even of your motherboard has physical connectors for video, they will not work with this CPU without add-on Graphics, howevee if you plan to have a dedicated card, why pay for what you aren't going to use.
+
+","Reviewed in the United States on July 7, 2020"
+8,"
+New i3 series has taken a turn for the absolute worst. DON'T BUY!
+","
+
+  There was a time when i3's were good, but I couldn't even play a game of CoD on the absolute lowest settings. I was using a 1660 Super (a $300 Graphics Card) so I know it wasn't the card. I was getting maybe 25 fps, and constant freezing. Totally unacceptable for any i series CPU. I'm very very unimpressed. In fact I'm appalled that this CPU hit 100% utilization so easily.For gaming, this CPU is completely non-functional for modern titles.As for general use? It does well, as long as you only plan on doing one task at a time.There is very little room for workload on this CPU. Even my programs were freezing when I had two or more open at a time.I know people test this CPU with solid states and lots of ram so it has no bottleneck, but that's not the price point of this CPU. Most will buy a HDD or an SSHD with 8gb of ram. And for that kind of build, this CPU is slow enough that it gets stuck any time it handles files off a disk drive.My hardware isn't bad either; I'm running a 2TB Firecuda with plenty of space left on it and good SATA cables.So I'm not sure what intel is doing with this CPU, but you'd clearly be better off spending 99 on a 1st or 2nd gen Ryzen 3. Terrible terrible CPU. I've seen Pentium Processors that perform better. Maybe even Celrons.
+
+","Reviewed in the United States on January 20, 2020"
+9,"
+Fabulous and Fantastic Fortnite CPU!
+","
+
+  This processor is amazing.  I did a lot of research on my son's computer.  He is an avid Fortnite player, and likes, more like, loves performance!But, gee whiz, I can't afford to pop $1000 every time new games come out?  Well, the current gaming computer wasn't horrible, but it's been like 8 years since it was majorly upgraded, and it makes a whirlwind of a difference!He was only getting around 40-50 FPS(frames per second) on the old motherboard/CPU, and he was in real need of an upgrade.One thing that I forgot to mention is that a good video card is important too.  He has an AMD 480 in his, so for about $150-200, you'll need to invest in a decent video card.  Personally, I like the EVGA 1660, but the 1650 Super is a good one too for around $200 or less range.Through my research, I found out that not only does the i5-9400F do well, but this i3-9100F does an amazing job at gaming as well.So, for those who love Fortnite, you'll genuinely love this processor as well, and it's worth the upgrade.  Granted, most likely you'll have to get another motherboard, but I got one here as well, and it worked flawlessly!So, for about $75 or even less at times, you'll be astounded how well it performs.  I did a benchmark on the processor within my sons computer, and it almost performed my older i7-3770K!!!  Granted, that processor is about 10 years old now, and the i3 is only a few months old; Intel has done some major great jobs on their lower starting CPU'S!Great job, Intel!Our Build:i3-9100FMSI ProSeries H310 motherboardCorsair Vengence 8gb DDR4 Memory Stick-Just 1 stick 8gb.Antec Case750 Thermaltech PSUAMD RX 480 GPUAnd, we decided to get a new case to package it all together!Please make comments, what do you think?
+
+","Reviewed in the United States on October 22, 2019"
+10,"
+Damaged packaging
+","
+
+  The cpu was shipped in an bubble wrap envelope, I am unsure If the damage occurred in transit or the  item was shipped that way. Also contents sound loose inside that leads me to believe this may be a repackage or returned item. (Listing said new)
+
+","Reviewed in the United States on April 2, 2020"
+11,"
+Excellent gaming and workhorse for the price
+","
+
+  This processor depresses me because it's too good for what I paid for it; how can I justify upgrading when I'm getting rock solid, quality, multi-process, gaming performance out of this little monster? Intel, you did me wrong. I want to have a need to upgrade and you stifled that. You should be ashamed!Seriously though: I use this processor to play new games at 2560x1440 with almost max settings, paired with just a GTX 1660 OC and 16GB of RAM. I also live stream games and have never had any processor or computer related issues. I can't believe how little I paid for this thing! Well worth your money if you're looking for excellent performance for a very low cost!
+
+","Reviewed in the United States on August 30, 2019"
+12,"
+Cheap(ish) build
+","
+
+
+  Your browser does not support HTML5 video.
+
+
+   MY BUILD:Motherboard: Gigabyte 365M ($75 new on amazon)CPU: I3 9100F ($71 new on amazon)GPU: Zotac 1060 6GB (on ebay used for $150)RAM: Oloy DDR4 8x2gb ($52 new on amazon and they look great for cheap DDR4)STORAGE: Kingston 240gb m.2 ($29 new on Amazon)CASE: CoolerMaster QL300 ($50 new on Amazon)PSU: Thermaltake white 500WThis is an amazing deal for the price. At THE MOMENT you cannot make a Ryzen build that is cheaper than this for the same performance in games (July 16th 2020 when ordered) The 9100F is just so good for $71, if you NEED more cores (you dont yet for gaming) then please save yourself the headache and get a Ryzen build or a 10th gen board (for the future upgrade path) but if you just want to game at 1080p then this is great.I installed windows off of a USB drive with the ISO file you can get for free from the windows website. I had to make 0 tweaks from the bios in order to get windows to begin install. I would say from power on to booting into windows took between 7-10 minutes. In my room while browsing or watching youtube this computer barely has to use its fans. While playing warzone the Intel stock cooler gets loud HOWEVER the Zotac 1060 stays quiet and the case fan does too. For my first budget build I love this. I bench marked it against my friends 6th gen i5 6400T 1060 build and it matches and beats it in all of the games that we play. I would definitely recommend this build/motherboard to anyone would like to try a cheap reliable gaming PC build.
+
+","Reviewed in the United States on February 6, 2020"
+13,"
+Amazing Bang-for-Your Buck CPU
+","
+
+  The i3-9100F CPU isn't the most powerful CPU. It's a 4 core / 4 thread chip clocked at 3.6ghz with a 4.2ghz boost (the 8100 it replaced was also a 3.6ghz chip, but with turbo settings disabled). Its RAM memory controller is also limited to 2400mhz, while other Intel 9000 series processors (i5 or better) can take up to 2666mhz without overclocking. Like other F-type CPUs but unlike the previous-gen 8100, the 9100F does not have integrated graphics, so a dedicated graphics solution is a must.All those caveats aside... the i3-9100F is a spectacular bargain that can do 95% of what its more expensive cousins do at half the price or less, for anything but an enthusiast workload. 4 threads is more than adequate for the typical user or gamer, as most typical applications and games are only lightly threaded. In both benchmarks and actual workloads, the 9100F performs nearly on-par with the i5-9400F, which is twice as expensive. The only real distinction between the chips in practice is that the 9400F is a 6 core processor; unless you routinely use heavily threaded applications, there's virtually no benefit to the i5 chips (until you reach the 9600KF, which is almost 3x the cost of the 9100F).Conversely, the new i3-10100 has been recently released on Intel's new LGA-1200 socket, and is a 4 core / 8 thread chip. However, as of now the LGA-1200 motherboards and 10000 series chips are more expensive than the 9000 series and outgoing LGA-1151 motherboards, and in lightly-threaded workloads the differences are very minor.Overall, the 9100F hits the sweet spot of price-performance for many users. Those who need more threads for enthusiast workloads should look at the new Comet Lake CPUs or the AMD Ryzen chips and those who need an onboard graphics solution should look elsewhere. But for regular users and budget-minded gamers, the 9100F is a lot of silicon power for not a lot of money.
+
+","Reviewed in the United States on January 14, 2020"
+14,"
+Paired it with a GTX 1650, Wish is bought an i5
+","
+
+  I wanted to build a budget gaming machine so I paired this i3 with a GTX 1650. PC bottleneck calculator said these two should work just perfectly together. Well there are a lot of games out there that are  processor heavy, so even though the GPU could render the graphics with great detail, this processor wasn't strong enough to maintain 60fps on 1080 across the board. I feel like my graphics card has more to offer me then this processor can handle. Most games run great! It just struggles with the more demanding titles... They still run though. Some games don't run very great, but playable.
+
+","Reviewed in the United States on July 25, 2020"
+15,"
+This CPU is costing me more money than I bought it for.....waaay more.
+","
+
+  I never had an issue with Intel....until now. I will start by saying that I bought the i3f. Since I already had a computer running the same exact processor and i was very happy with it. So for my gf computer i decided to switch her from AMD to Intel (since I always prefer them), when it came time for an upgrade. And the time came. The product arrived on time. No damage to package that I could tell of. Opened it up I noticed the fan wasnt spinning. I was lile ok that sucks since i wanted to use it but, since I had this same processor in my computer, and my computer is liquid cooled, I had an extra fan in working condition. So it was whatever. Plug it all in. Turn on comouter...nothing. No boot nothing. I was like....ok am I missing the cables?...no all cables were connected. I started thinking 'since fan was broken....man i hope processor isnt busted either'. So I plug this processor in my computer. This is where my nightmare begins. Since my comouter was using the same processor, I wanted to test it out 'is it really the processor before i return it's tyoe of thing. Take out my processor, plug in the new one. Same thing. Nothing. I was like ok its the processor. I got a bad processor so let me return it. I start putting my computer back together. Turn it on. Nothing. I was confused now....this was just working before I tested this new processor in it....it was just working i was just listening to music on it. Try again. Nothing. Im thinking about now 'please dont tell me this burned my mobo'. I take my comouter out to make sure I perfectly place that processor back in it place so it can just work....still nothing.So, now my mobo is fried. I can only assume my gf mobo is fried too now. I put my i3 into her mobo to see if somethig happens and again nothing. So now i am pretty sure I have 2 fried mobos and now I pray to got that the mono didnt fry my good processor in return when i turned my compuer back on.....smfh. Now I need to buy 2 processors and 2 mobos to have my computers back. Because i am not putting any of my parts now in mew parts because I'm probably just going to try the new parts too. And its not like I didnt know what i was doing I built all of my computers. All of this happening during stay indoors thing with COVID. What am i going to do now? Read 0_o kidding. Laughter is my only medicine now since I lost 2 computers in 1 night.I'm going to look for AMD mobo and CPU now. I have a really sour taste in my mouth for InTeL now. Pretty sure my experience is not the norm....but damn it sucks.
+
+","Reviewed in the United States on September 24, 2020"
+16,"
+Bang for buck
+","
+
+  If you think this cpu is for budget, think again. For such small price all task (including heavy) are performed just like an intel i5 or i7. The only constraint is as long as you do one thing at a time, not parallel many task at once.You are more than fine as long as you don't have special particular requirements like multithreading software related work or want to do two heavy tasks at same time.For such a small price, the performance is far above a budget cpu.Intel finally made a do it all desktop cpu with an affordable price.
+
+","Reviewed in the United States on October 25, 2020"
+17,"
+Wonderful CPU for the money. Seriously.
+","
+
+  Pros: cheap, quiet, great VR and ultrawide desktop gaming performance, low power consumption, fastCons: not too great at multitaskingOverall, this is a wonderful CPU. I got it for a budget VR setup and I seriously couldn't be happier. I mean, where else are you going to find this price to performance ratio nowadays? VR games run perfectly. I run my system with a GTX 1080 and a Rift S and hold a constant 80 FPS in most games, even while streaming.The only thing you have to keep in mind multitasking - this CPU is just not very good at it. I experience slowdowns if I have too many program open at once. The single core performance is phenomenal, but it only has 4 cores and is not hyperthreaded, so multitasking is difficult for the little CPU that could. If you just make a habit of closing out of everything except your game and maybe discord and a web browser, you'll have no issues.I would highly recommend this to someone looking for a cheap PC build that can still run games and even stream VR.
+
+","Reviewed in the United States on May 23, 2020"
+18,"
+Running WOW Shadowlands prelanch.
+","
+
+  I know Blizzard would disagree with me, but this I3 is running World of Warcraft pre-launch Shadowlands right now, on full parameters in the game, without any problems. I think it is because of the 4 cores and the CPU speed, which we didn't overclock.10-22-20
+
+","Reviewed in the United States on June 4, 2020"
+19,"
+No GPU functionality
+","
+
+  Something to be aware of when selecting a CPU ... some CPUs don't support onboard GPU, so it doesn't matter what mother board you use, you HAVE to install a line card for those functions. The CPU performs well as far as I3s go, and it was cheap. But if I had to do it all over again, I'd do more research.
+
+","Reviewed in the United States on January 28, 2020"
+20,"
+Great value for the money
+","
+
+  Most software benefits very little from more than one or two cores, certainly four cores. This CPU is inexpensive, does not require exotic cooling, and provides more than enough ""oomph"" for almost any gaming or family PC.Workstation professionals in the graphics/video/audio business may wish to look at higher-end models.
+
+","Reviewed in the United States on April 2, 2020"
+21,"
+Solid CPU for low end gaming tower
+","
+
+  Good price, especially since it does not have GPU built in.  This is great because when you are building a gaming computer, you do not need the CPU to have a GPU..  as you will be using your own graphics card anyway.  Just remember, when you build - that when you plug a monitor into the motherboard, you will get no graphics..  You need to install the graphics card.  Even though I knew this when I bought it, I forgot out of ""habit"" and thought I had a MB or CPU issue.
+
+","Reviewed in the United States on August 30, 2019"
+22,"
+Great for budget builders
+","
+
+  perfect for those budget builds.Paired with a 1050ti16g of ddr4430w corsair psuThis thing will run a TON of titles at 60+ fpsBut if you want to avoid bottlenecks and run high settings and games it is better to fork out the cash for an i5 or an i7..Keep in mind you NEED a graphics card for this to run it does not support onboard graphics.
+
+","Reviewed in the United States on December 30, 2019"
+23,"
+Intel need i say more?
+","
+
+  I have been an IT professional for over 20 years I custom build computers, Repair Computers, Tablets, Cellphones, Etc....... I can tell you that Intel Core processors are FAST, Extremely reliable, & easy to overclock (when you know what you are doing) and will last for Many, Many Years. I have customers that are still using computers that I built for them 10,15 years ago and Longer. I have built hundreds of computers Intel and AMD but I do prefer Intel.
+
+","Reviewed in the United States on February 20, 2020"
+24,"
+a strong CPU.
+","
+
+  from the moment i booted this CPU it impressed me how they got this running at 4 plus ghz and still manage the low temps i have no idea but i am impressed enough to buy this again and tell everyone else to do the same this CPU on cold boot stays in my system at around 25 to 35 c most the time like i said i will buy this again.
+
+","Reviewed in the United States on June 14, 2020"
+25,"
+Unbeatable Value
+","
+
+  I really wanted to go with AMD for my first ground up build but for 85 dollars this chip was by far the best value. I'm sure there are far superior options for ultra high end gaming or video editing but for mid range 1080 gaming this is all you need.This is the system I built:Intel i3 9100fMSI Z390 A-pro16 GB Corsair Vengeance RAM 2X81TB Sabrent Rocket NVME M.2 driveAsus TUF Gaming GTX 1660 SuperGamemax VP RGB semi modular 600w PSUEverything was purchased from Amazon and compatible right out of the box. This system easily plays modern AAA titles at 1080p >60fps. The GPU is clearly the bottleneck and I'm sure the chip would keep up with even a high end GPU for gaming purposes. If you want the best chip on the market this certainly is not it. But if you are like me and want to build a system that performs great for gaming without breaking the bank you should really give this one consideration.
+
+","Reviewed in the United States on June 10, 2020"
+26,"
+Absolute beast
+","
+
+  The amount of performance I get out of this thing is unreal. I paired it with an RX 570 and 8GB of cheap RAM and it shreds through Destiny 2 and Modern Warfare 2019 at 1080p. I get around 90 fps on max with a few dips here and there on Destiny. Around 80 fps on Modern Warfare max settings. I only played Rust so thats the only map that was tested.Solid solid solid chip!
+
+","Reviewed in the United States on November 12, 2019"
+27,"
+Excelente calidad precio
+","
+
+  Este pequeño si que vale la pena lo compre para empezar mi pc gamer y realmente me ha salido bueno por su precio y lo que rinde, lo estuve usando con una RX570 SAPPHIRE y iba muy bien sin problemas.Ya cuando actualice mi GPU (RX 5700 XT SAPPHIRE) pues ya allí en algunos juegos me estaba haciendo cuello de botellas pero obviamente que esperas de un procesador de entrada.Me parece excelente estoy contento con este procesador
+
+","Reviewed in the United States on January 7, 2020"
+28,"
+No Integrated Graphics
+","
+
+  The fact that it didn't come with integrated graphics created a lot of problems for me while assembling this PC. I would recommend to just save yourself the trouble and get a CPU with that included. If you are having trouble displaying BIOS because of this, we solved the problem by connecting a really old cheap GPU to the computer instead of the advanced one we needed to install drivers for
+
+","Reviewed in the United States on March 10, 2020"
+29,"
+Cooler is junk - CPU is OK
+","
+
+  Pro: Package arrived early, packaged new. It was sent with an additional note reminding consumer to triple check if this CPU would work with motherboard.Con: First impression of cooler was that it was SUPER cheap. It has these 4 quarter turn locking screws that don't seem to lock onto the motherboard quite well... during OS install and update it shut down with an error that the CPU was overheating and to verify cooler is connected correctly.Summary: If you purchase this CPU, be cautious and potentially look into a different cooler. (That's what I'm doing now)
+
+","Reviewed in the United States on June 23, 2020"
+30,"
+buen buena opción costo rendimiento
+","
+
+  Pros: llega a 4.1 GHZ en los 4 nucleos sin ningun problema , temperaturas buenas , 4 nucleos muy rendidores en multitarea y renderizado , este CPU supera a todos los I5 de la septima generacion , no puedes tener nada mejor por 81 dolarescontra: no tiene ningun video
+
+","Reviewed in the United States on April 2, 2020"
+31,"
+Good value processor
+","
+
+  The processor works well. It doesn't have earth shattering performance, but it is good for most tasks and the value is good. It's nice that you can get a discount now on a processor without integrated graphics since some individuals already own a discrete graphics card.
+
+","Reviewed in the United States on August 30, 2019"
+32,"
+Gj intel
+","
+
+  best cpu for  ""Poor"" gamers9100FH3108gb ramRX 570400watt psuthis setup can run modern games at  1080P  quite well
+
+","Reviewed in the United States on February 28, 2020"
+33,"
+Great value for budget gamers!
+","
+
+  Great CPU however the cooler it comes with doesn’t perform that well and not asthetically pleasing. But other than that it performs amazingly. It easily beats the Ryzen 3 3100 in every gaming task and it’s cheaper...
+
+","Reviewed in the United States on April 23, 2020"
+34,"
+9th gen B0 stepping can essentially run on 200/100 chipsets
+","
+
+  I bought this CPU and installed on my ASUS Prime z270-p mobo. And of course it cannot run. Then I did some research googling. Turns out that this CPU is essentially a 7th gen CPU which higher clock. If the stepping of the CPU is B0, you can just flash a modded mobo bios and it can run.
+
+","Reviewed in the United States on November 20, 2019"
+35,"
+Great value
+","
+
+  Great value for the money. Used for a new budget computer build for a family member who mostly browses the internet and occasionally does some light gaming. Pairs well with a GTX 1660.
+
+","Reviewed in the United States on September 7, 2020"
+36,"
+Great value!
+","
+
+  Good power for a good price. The motherboard I have has an auto overclocking feature in the bios, and this guy was clocking at 3.7ghz without any tweaking. The box said the base speed is 3.4, so an immediate bump to 3.7 is pretty good.
+
+","Reviewed in the United States on January 19, 2020"
+37,"
+Great Value
+","
+
+  Probably the greatest CPU/Motherboard combo you can buy on Amazon for the price. Get yourself a good graphics card like a GTX 1650 Super and you'll get over 120+ fps in games
+
+","Reviewed in the United States on September 27, 2020"
+38,"
+I3-900f NOT compatible with onboard graphics - you'll need a stand alone card for display.
+","
+
+  I was very upset and disappointed with the purchase of two i3-900f CPUs when I discovered through trial, error, frustration and lack of information on the part of product description. These chips WILL NOT run onboard graphic displays such as vga, dvi-d, display port or HDMI. Only option is to take CPU out and return to get a replacement which means PC down for work and that can't happen so I'm out the $. If it wasn't for these issues I'd say the CPU is of great quality but I can't say that.
+
+","Reviewed in the United States on February 25, 2020"
+39,"
+Buyer beware
+","
+
+  Expected a new item but this box was already opened.  I'm not pleased...
+
+","Reviewed in the United States on October 19, 2020"
+40,"
+Lo mejor por el precio.
+","
+
+  Si ha tienes una gráfica así sea básica por el precio este procesador es ideal para el día día en un uso básico incluso en gaming de entry level. Creo que es lo ideal para un PC Gaming de bajo presupuesto
+
+","Reviewed in the United States on April 2, 2020"
+41,"
+Best Value Processor EVER
+","
+
+  I used this in my daily driver gaming rig, and it is able to keep up with almost all modern games, and if you're not getting the performance you want from it, you can overclock it, when paired with an RX560 you can expect 60fps in most games.
+
+","Reviewed in the United States on August 30, 2019"
+42,"
+Love this processor
+","
+
+  Good processor. It's able to run all my games. Playing Horizon Zero Dawn on my gtx1050. It's low. But still looks great because this game is a PC killer.
+
+","Reviewed in the United States on October 21, 2020"
+43,"
+5 stars
+","
+
+  I sold my i3 8100 in my country and bought this. And got +10fps at every games. The best cpu for this price. Better than ryzen 3 3000 and ryzen 5 2000
+
+","Reviewed in the United States on August 4, 2020"
+44,"
+Solid CPU for light use when paired with a GTX 710.0
+","
+
+  Solid CPU for pfsense or HTPC as long as you have a GPU because this does not include an integrated one. I'd suggest pairing with a GTX 710 if you're just looking for connections.
+
+","Reviewed in the United States on September 27, 2020"
+45,"
+It is a Intel I3...
+","
+
+  You might want to buy something with more horsepower for the latest multi core games...  It works great for general purpose tasks...
+
+","Reviewed in the United States on June 19, 2020"
+46,"
+i3 that runs better than my old 2014 i7.
+","
+
+  Speed, Coolness, price.
+
+","Reviewed in the United States on October 20, 2020"
+47,"
+Great budget cpu!
+","
+
+  Paired this with a Nvidia 1650 Super, SSD and 16 ram.... Runs like a high quality champ at 1080p. Verry happy with this CPUs performance, and the stock cooler works just fine.
+
+","Reviewed in the United States on February 19, 2020"
+48,"
+Great 4 core processor
+","
+
+  Great processor upgraded from a G5400 and it's way worth it. Paired with a RX570 8GB I'm getting 80fps at 1080p it's smooth.
+
+","Reviewed in the United States on August 4, 2019"
+49,"
+Don't get fooled by the i3
+","
+
+  Don't think just because it's a i3 series, it won't be enough for gaming. It runs perfectly for games like Valorant, Fortnite (epic settings runs well, BUT you need a pretty good gpu to pair it with) , and Apex Legends. It is also capable to stream at 720p60 at all games that I've played so far. I recommend this to first-time builders.
+
+","Reviewed in the United States on February 17, 2020"
+50,"
+Ok
+","
+
+  This is the second processor I have had to buy as the first burned out with proper ventilation.
+
+","Reviewed in the United States on April 2, 2020"
+51,"
+A nice unit that will get the job done
+","
+
+  It has performed very well and has met my needs in terms of beginning to build my pc. Great for small tasks such as internet browsing, social media and some light gaming.
+
+","Reviewed in the United States on August 30, 2019"
+52,"
+Great product!
+","
+
+  Excellent!!! Great product!
+
+","Reviewed in the United States on February 1, 2020"
+53,"
+Great CPU
+","
+
+  All you really need for gaming. Pair it with a fast SSD system drive and you'll never miss the extra cores.
+
+","Reviewed in the United States on February 2, 2020"
+54,"
+Intel Core i3-9100F Desktop Processor 4 Core Up to 4.2 GHz Without Processor Graphics LGA1151
+","
+
+  i3 processor works very well. Intel makes good products and are very durable.
+
+","Reviewed in the United States on August 26, 2019"
+55,"
+Good cheap value CPU for Living Room Computer.
+","
+
+  I used this CPU in my mini ITX build for my living room Computer. It's a light gaming and streaming box, I haven't run into any issues yet and i would recommend this for someone trying to get the bare minimum at a decent value. Paired it with an RX 480 i got second hand for 50 bucks and works like a champ at most games at 1080.
+
+","Reviewed in the United States on January 3, 2020"
+56,"
+Not for heavy game.
+","
+
+  good CPU. Good price but not for serious game players. Buy the i5 9400 if you want to play AAA games
+
+","Reviewed in the United States on April 15, 2020"
+57,"
+works well
+","
+
+  it works well but I quickly upgraded but that is just because I needed a better processor to play more cpu demanding games video games.
+
+","Reviewed in the United States on November 5, 2020"
+58,"
+If you will never use the Intel Video on the CPU, this is the CPU to buy!
+","
+
+  I love this CPU and its price point. Built over ten machines with this to date.
+
+","Reviewed in the United States on June 23, 2020"
+59,"
+Bargain 9th Gen Intel Processor
+","
+
+  Great price on Core I3 that works flawlessly in my new multitasking build.
+
+","Reviewed in the United States on December 5, 2019"
+60,"
+not future proof but good for begging pc building
+","
+
+  its not bad but its not future proof, so if you are trying to make a budget pc build this is a great cpu for a while but will need to be upgraded
+
+","Reviewed in the United States on April 2, 2020"
+61,"
+Decent
+","
+
+  Very good for games and web browsing but the lack of threads is noticeable in some games.
+
+","Reviewed in the United States on August 30, 2019"
+62,"
+Great value
+","
+
+  Got it at a great price. It's not a processor I would use to stream and game with but it's definitely proved itself worthy to be in my first budget build.Had no issues installing it or anything.
+
+","Reviewed in the United States on August 31, 2020"
+63,"
+Great!
+","
+
+  I love it, I felt like I got a really good deal compared to other places! A great processor, gave me enough power to run all applications I needed
+
+","Reviewed in the United States on September 18, 2020"
+64,"
+Fine
+","
+
+  Fine
+
+","Reviewed in the United States on May 28, 2020"
+65,"
+Great!
+","
+
+  Fast shipping and great item!
+
+","Reviewed in the United States on October 14, 2020"
+66,"
+Excellent for an entry-level gaming pc
+","
+
+  Actually, the performance it shows is very good in gaming, I did not see the need to place a heat sink apart from the stock one since the temperatures never reached over 70C (with a different thermal paste than the one that comes with the stock one)
+
+","Reviewed in the United States on September 7, 2020"
+67,"
+Good for gaming
+","
+
+  Works goood used it for gaming for a while a it pushed out a lot of performance for the price
+
+","Reviewed in the United States on June 17, 2020"
+68,"
+Excellent value CPU
+","
+
+  Great value CPU. It beats the similar specs i5 7600k at a fraction of the price.
+
+","Reviewed in the United States on August 30, 2020"
+69,"
+Excelente
+","
+
+  Todo perfecto
+
+","Reviewed in the United States on September 10, 2020"
+70,"
+Best processor for a new gaming build (under $100)
+","
+
+  Newer generation architecture, high clock speeds, enough cores/threads to game effectively. If you want more performance — you have to pay for it, no way around that. Price:performance ratio can’t be beat under $100
+
+","Reviewed in the United States on April 2, 2020"
+71,"
+Great processor but you will need a graphics card
+","
+
+  The combo package that I got from Amazon was the processor, motherboard and ram works great with windows 10 and is the fastest computer that I have had
+
+","Reviewed in the United States on August 30, 2019"
+72,"
+I love u
+","
+
+  I love it
+
+","Reviewed in the United States on January 9, 2020"
+73,"
+Ruined My Gaming Experience
+","
+
+  It lags my discord calls when I'm gaming. I started to lag everything when I start gaming. It also messed up my mouse programs. I could have just gotten a bad CPU but I recommend getting an i5 or up
+
+","Reviewed in the United States on September 13, 2020"
+74,"
+easy set up
+","
+
+  Very easy to install heat sink. CPU is pared up with GTX 1650 GPU and Prime Z390-P Motherboard. works great for 1080p gaming.
+
+","Reviewed in the United States on February 14, 2020"
+75,"
+Excellent!!!
+","
+
+  Excellent!!!
+
+","Reviewed in the United States on October 25, 2020"
+76,"
+great buy
+","
+
+  like
+
+","Reviewed in the United States on April 29, 2020"
+77,"
+Great CPU
+","
+
+  It is a great CPU for 70 dollars. It is really great. I 100 percent recommend!
+
+","Reviewed in the United States on December 29, 2019"
+78,"
+Great processor
+","
+
+  Great processor made my sons gaming experience so much better
+
+","Reviewed in the United States on December 30, 2019"
+79,"
+I recommend this.
+","
+
+  Great price and handles gaming very well. Plays the latest Battlefield and Call of duty with no problem.
+
+","Reviewed in the United States on October 13, 2020"
+80,"
+Recomendado 100%
+","
+
+  Me parece la mejor opción calidad precios . Es un muy buen procesador y excelente precio .
+
+","Reviewed in the United States on April 2, 2020"
+81,"
+Impressed
+","
+
+  Not a bad buy, if your looking to build a low budget pc this is great for it. Also keep in mind that u need a graphics card as this does not have graphics integrated.
+
+","Reviewed in the United States on August 30, 2019"
+82,"
+This will save you a ton of money!
+","
+
+  If you know how to use it right this can be used in top end pc builds to pull max performance on triple a titles. I run the Witcher 3 on max graphics with this in my build.
+
+","Reviewed in the United States on September 12, 2020"
+83,"
+Muy buen procesador
+","
+
+  Funciona perfectamente, es bueno para los juegos y usos diarios, siempre habrá algo mejor pero este i3 9100f tiene la mejor relación calidad precio que halla visto en mucho tiempo
+
+","Reviewed in the United States on June 23, 2020"
+84,"
+Well worth the value
+","
+
+  Performance was more than I Suspected
+
+","Reviewed in the United States on March 3, 2020"
+85,"
+Breeze to install. Great processor.
+","
+
+  Installation was a breeze for a first-timer. Running completely fine with no hitches. Didn't require thermal paste as the included GPU cooler seemingly already had it.
+
+","Reviewed in the United States on October 16, 2020"
+86,"
+Great Cpu
+","
+
+  It good for what it is. I do plan on upgrading but it’s great for beginners.
+
+","Reviewed in the United States on May 10, 2020"
+87,"
+Little doer
+","
+
+  This is an awesome little processor, it can do it all! With the right set up this can play all games with good frame rates!
+
+","Reviewed in the United States on March 8, 2020"
+88,"
+perfect cpu for price
+","
+
+  it's perfect cpu for price . it's entry level but pretty enough for gaming and some editing. I recommend 16gb ram and gtx 1650super with it . they fits perfect balanced
+
+","Reviewed in the United States on September 11, 2020"
+89,"
+Best budget office working computer
+","
+
+  Best budget for office working computer, under $100, it is the best choice
+
+","Reviewed in the United States on January 1, 2020"
+90,"
+Amazing
+","
+
+  The product is very good arrived on its date that obviously said it is a product that needs the help of a graphic but gives a very good performance and is a cpu that has very good temperatures
+
+","Reviewed in the United States on April 2, 2020"
+91,"
+Impresionado
+","
+
+  No agrego muchas reviews, pero para este producto si que la pongo, excelente inversión para mi equipo, con una combinación de buenas piezas el CPU es una bestia! a pesar de su bajo costo.
+
+","Reviewed in the United States on August 30, 2019"
+92,"
+Core i3-9100F
+","
+
+  My core i3-9100F came in a day or two early in perfect condition and would highly recommend. Ill edit once a get my PC done in a few days after running it.
+
+","Reviewed in the United States on February 23, 2020"
+93,"
+Good deal
+","
+
+  Good
+
+","Reviewed in the United States on January 8, 2020"
+94,"
+Nice to begin in the gamer world
+","
+
+  good for popular games.
+
+","Reviewed in the United States on May 21, 2020"
+95,"
+Buen producto
+","
+
+  Excelente producto relacion precio y calidad, no se calienta y rinde bien en mi configuración con una rx 580 y juegos de ultima generacion
+
+","Reviewed in the United States on August 8, 2020"
+96,"
+Was not new like advertised.
+","
+
+  The i3 was supposed to be new but the package was clearly opened, also the fan did not come pre applied with thermal paste as they do when bought brand new.
+
+","Reviewed in the United States on October 10, 2020"
+97,"
+Bueno
+","
+
+  Buena para un pc económico
+
+","Reviewed in the United States on September 16, 2020"
+98,"
+Good
+","
+
+  nice CPu for small business
+
+","Reviewed in the United States on June 10, 2020"
+99,"
+New CPU
+","
+
+  So far this has been a great budget CPU. I've used it for gaming and have no issues.
+
+","Reviewed in the United States on June 5, 2020"
+100,"
+Bueno por el precio
+","
+
+  Bueno por el precio
+
+","Reviewed in the United States on April 2, 2020"
+101,"
+Great price quality item
+","
+
+  Great performance for videogames, a lot cheaper than amd competitor (ryzen 5 1600), easy to install, overall awesome product
+
+","Reviewed in the United States on August 30, 2019"
+102,"
+Buena Compra
+","
+
+  corresponde a todo y rinde como se esperaba bajo las indicaciones del vendedor
+
+","Reviewed in the United States on September 16, 2020"
+103,"
+very good
+","
+
+  very good
+
+","Reviewed in the United States on July 1, 2020"
+104,"
+Good for Price! Easy to install!
+","
+
+  I liked the price. It's really good for a budget gamer because if your gaming. You're not normally going to run integrated so there's no point in having a CPU with one.
+
+","Reviewed in the United States on July 17, 2020"
+105,"
+Works good
+","
+
+  Nice
+
+","Reviewed in the United States on February 21, 2020"
+106,"
+Excelente
+","
+
+  Hasta el momento esta siendo bastante bueno me encanta
+
+","Reviewed in the United States on January 7, 2020"
+107,"
+Lo mejor
+","
+
+  Lo mejor si no quieres gastar mucho y quieres jugar todos los juegos del mercado
+
+","Reviewed in the United States on June 11, 2020"
+108,"
+This is a great value chip
+","
+
+  Upgrade from previous system ~5years, this chip is only an I3 but has lots of tech built in, great chip for the price.
+
+","Reviewed in the United States on April 15, 2020"
+109,"
+I3 9100f I highly recommended
+","
+
+  I love for the prices is one of the best processor on the market i play also in 4k
+
+","Reviewed in the United States on September 2, 2020"
+110,"
+I DID NOT GET MY REFUND
+","
+
+  Complete piece of crap, and never got my refund.
+
+","Reviewed in the United States on April 2, 2020"
+111,"
+Nice cpu
+","
+
+  Works great
+
+","Reviewed in the United States on August 30, 2019"
+112,"
+Great performance for the price
+","
+
+  Used in budget build paired with a 1650 super. Great performance for the money.
+
+","Reviewed in the United States on July 5, 2020"
+113,"
+Tryst
+","
+
+  Al that I thougt and moyre
+
+","Reviewed in the United States on December 27, 2019"
+114,"
+DOA
+","
+
+  Product was Dead on Arrival.
+
+","Reviewed in the United States on November 1, 2020"
+115,"
+Excelente
+","
+
+  Buena opcion calidad precio
+
+","Reviewed in the United States on November 16, 2019"
+116,"
+good cheap cpu
+","
+
+  good cheap processor does what i need it 2 works great with linux mint
+
+","Reviewed in the United States on October 17, 2020"
+117,"
+Excelente.
+","
+
+  Excelente de entrada al mundo gaming.
+
+","Reviewed in the United States on September 8, 2020"
+118,"
+Awsome!
+","
+
+  Item is perfect!
+
+","Reviewed in the United States on November 29, 2019"
+119,"
+Exelente servicio
+","
+
+  Exelente producto a my buen precio y envio rapido y gratos.
+
+","Reviewed in the United States on October 22, 2020"
+120,"
+Best you can get for the money
+","
+
+  Extremely good for what you pay for
+
+","Reviewed in the United States on April 2, 2020"
+121,"
+Wrong one?
+","
+
+  The thing says 4.2 Ghz but in the product info says 3.2ghz?
+
+","Reviewed in the United States on August 30, 2019"
+122,"
+..
+","
+
+  llego en 10 dias a Antioquia Colombia, buen producto muy satisfecho!
+
+","Reviewed in the United States on January 30, 2020"
+123,"
+Great
+","
+
+  Like everything
+
+","Reviewed in the United States on October 1, 2020"
+124,"
+Budget cpu
+","
+
+  It's best budget choice for gaming in2019-20
+
+","Reviewed in the United States on July 14, 2020"
+125,"
+Great for budget gaming build
+","
+
+  It's a great processor for those looking to build a gaming rig based on budget.
+
+","Reviewed in the United States on September 2, 2020"
+126,"
+It reach and it was no good
+","
+
+  It reach and it was no good
+
+","Reviewed in the United States on July 14, 2020"
+127,"
+Buen.producto
+","
+
+  Buen producto llegó excelente todo en.orden aún no.Lo pruebo
+
+","Reviewed in the United States on March 9, 2020"
+128,"
+Buy it now!
+","
+
+  This is a blazing fast CPU and it’s worth the money
+
+","Reviewed in the United States on July 11, 2020"
+129,"
+Great value for price
+","
+
+  Fantastic CPU
+
+","Reviewed in the United States on March 4, 2020"
+130,"
+Works just fine
+","
+
+  Works just fine
+
+","Reviewed in the United States on April 2, 2020"
+131,"
+It Is fast and cheap.
+","
+
+  Just as advertised
+
+","Reviewed in the United States on August 30, 2019"
+132,"
+Amazon cant be trusted
+","
+
+  Ive been assured it's arriving today. I'm sure the package is good. Thank you
+
+","Reviewed in the United States on February 28, 2020"
+133,"
+Horrible
+","
+
+  No refund yet
+
+","Reviewed in the United States on December 18, 2019"
+134,"
+Can't beat it for the price
+","
+
+  Can't beat the price
+
+","Reviewed in the United States on December 10, 2019"
+135,"
+Good
+","
+
+  Good
+
+","Reviewed in the United States on May 7, 2020"
+136,"
+Ok
+","
+
+  Ok
+
+","Reviewed in the United States on January 27, 2020"
+137,"
+Works
+","
+
+  Works well.
+
+","Reviewed in the United States on August 28, 2020"
+138,"
+Im not use
+","
+
+  Im not use
+
+","Reviewed in the United States on July 1, 2020"
+139,"
+buen producto
+","
+
+  buen producto
+
+","Reviewed in the United States on December 28, 2019"
+140,"
+Es bueno
+","
+
+  Me agrado es de buena calidad
+
+","Reviewed in the United States on April 2, 2020"
+141,"
+good
+","
+
+  good
+
+","Reviewed in the United States on August 30, 2019"
+142,"
+very good
+","
+
+  as described.
+
+","Reviewed in the United States on April 30, 2020"
+143,"
+I3
+","
+
+  It can be better for gaming
+
+","Reviewed in the United States on October 3, 2020"
+144,"
+The ghz
+","
+
+  Its good for my gaming pc
+
+","Reviewed in the United States on July 28, 2020"
+145,"
+Bueno para jugar
+","
+
+  Muy bueno
+
+","Reviewed in the United States on December 10, 2019"
+146,"
+The best processor ever! I bought 3!
+","
+
+  I bought 3 of these for my family members and can say they are the best processors on the market. For the price you can not beat these guys! I play Far Cry 5 on Ultra and have a Rx 5700 Xt. You can get the job done absolutely fine with this! Dont spend all your money on a CPU, go for a cool case or a better GPU before.
+
+","Reviewed in the United States on September 21, 2019"
+147,"
+Good
+","
+
+  Good
+
+","Reviewed in the United States on January 24, 2020"
+148,"
+Amazing bang for the buck!
+","
+
+  I think people don't realize how well this CPU performs for its small price.  Have built many PCs for friends and to sell with this unit and everyone has been 100% satisfied.  Great for a budget gaming build, don't be put off just because it's an i3
+
+","Reviewed in the United States on September 2, 2020"
+149,"
+Bajo consumo y buena potencia
+","
+
+  Esta instalado en un board H310 ITX, con espacio muy reducidos y a pesar de eso sus temperaturas son bajas, máximo 55 grados, lo cual para mi esta excelente, tomando en cuenta la temperatura externa que a veces llega a 40 grados.Este procesador no incluye tarjeta grafica (iGPU), eso significa la F al final de su nombre, por lo que necesitaras de una grafica dedicada, en mi caso use una MSI GT1030, suficiente para tarea cotidianas como ofimática y juegos ocasionales.Si tu presupuesto es corto, es una buena opción de potencia, rendimiento y sobre todo económico.
+
+","Reviewed in the United States on August 21, 2020"
+150,"
+Thanks again for your support
+","
+
+  Thanks
+
+","Reviewed in the United States on April 2, 2020"

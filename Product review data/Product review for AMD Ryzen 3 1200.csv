@@ -1,0 +1,2038 @@
+,title,content,date
+0,"
+4 thread for ~ $100 - Excellent bundled heatsink-fan - Unlocked processor with great chances in ...
+","
+
+  PROS:- A 4 core, 4 thread for ~ $100- Excellent bundled heatsink-fan- Unlocked processor with great chances in the ""silicon lottery""; *everyone* should easily reach 3.7 or 3.8 ghz on the bundled cooler, & some will pull off 3.9 - 4.1 ghz through a combo of luck/fine tuning/aftermarket cooling- For the price conscious, excellent upgrade path with AM4 chipset and the B350 boardsCONS:- IPC performance is edged out by similar Intel offeringsCONCLUSION: From a price-to-performance perspective, these procs are unassailable, especially when Amazon and others have recently marked as low as $99. With Zen+/Zen2 around the corner, expect prices on these Summit Ridge procs to come down even further in 2018. We now have 4C/4T truly at entry level!DETAILS: The packaging is typical for what you'd expect. Install instruction manual is spartan, but sufficient. Thermal paste comes pre-applied. You need to be careful about removing the plastic mould case for the heatsink-fan from the box, as small particles of cardboard from the box may end up in the thermal paste. If this happens, a fine point tweezer will suffice to remove such particles.Others recommend to remove the pre-applied paste and apply your own, but I think this is unnecessary. I have been using the proc with the pre-applied paste for just under a month, and thermals are excellent: 26-28 at complete idle; 30-32 when at desktop doing minor tasks or in a warm room; 45-47 during sustained gaming; never went beyond ~ 60 during 45 min. CPU stress testing; conductivity is excellent as temps return from max back to idle levels after only a couple minutes from ceasing such applications. Be aware, if you are building a system for the first time, that there is a ""burn in"" period after first installing a cpu: initially, when you first run your machine, idle temps will look quite high, like in the 40s, but that is simply because the paste is ""setting in."" After a couple of hours and running some apps, idle temps will stabilize to normal levels of high 20s or 30, and it will idle at those temps from then on.The bundled heatsink-fan, Wraith Stealth, is excellent for a stock part, and will definitely allow overclocking. I have been running at 1.3 volts and 3.80 clockspeed for just under a month with the aforesaid temps. The Wraith Stealth keeps the Ryzen3 cool enough to allow additional ""boost"" clockspeed as temps permit: during heavy gaming, my Ryzen 3 automatically overclocked itself further from 3799 to 3834, as recorded by CPUID's ""Hardware Monitor"" app.All Ryzen procs are unlocked, so overclocking is easily done via the BIOS by simply typing in a new multiplier, for example, typing in ""38"" will yield 3800 mhz. Voltage can be easily adjusted as well. Be aware that you will need the B350 or higher range of motherboards to overclock.There really is no need for anyone to purchase a Ryzen 3 1300X when the Ryzen 3 1200 overclocks so well. Currently, all of the Ryzen procs tend to top out at around 4.0 ghz, so spending an extra $20 on the 1300x in the hopes of getting ""better bin"" is just not the case. The bottom line, is that both the 1200 and 1300X will top out at ~ 3.9 - 4.0 on the Wraith Stealth, so you can save yourself $20 and get the 1200, and put the savings towards an aftermarket heatsink-fan, if you are so inclined. Or, just keep the stock Wraith Stealth and set the proc to 3.8 with no fuss whatsoever and be on your way ;)A note about chipsets: earlier in 2017, there was a lot of gnashing of teeth because Ryzen was not playing nice with certain RAM, not working with Windows 7, not properly addressing its cores in various apps, not accurately reporting temps, etc. These issues have been resolved as far as my testing has seen. I have had zero problems running the latest BIOS/chipset from MSI (September 20 ver.) on a B350 PC Mate in Win 7 64 bit. So the take home for newbie system builders: please, make sure your chipset drivers are properly updated! The mainstay motherboard makes, MSI, Gigabyte, Asus, etc., all have Win 7 hotfixes, USB drivers, etc. to get your Ryzen board running properly with Win 7, if this is something you have been concerned about.Numerous, trusted benchmarkers on YouTube and such will show that IPC performance is generally inferior to Intel offerings. However, you don't buy these types of procs to have ""bleeding edge"" performance with something like a 1080 Ti. Performance testing across the enthusiast space has shown conclusively that the Ryzen 3 will handle up to and including a GTX 1060 6 gig without bottlenecking the card: that is absolutely great news for budget builders. If you are planning on using a higher vid card than that tier, then yes, you will be better served by an i7 or something.But if you are planning on running games at 1080p resolution, at typical refresh rates, you are probably going to be utilizing a vid card in the GTX 1060 range or below, and for that, these Ryzen 3 procs are an excellent option if price-to-performance is highly important to you. In real-world benches, an overclocked Ryzen 3 1200 at 3.9 is only a few percentage points behind an earlier gen i5, such as an i5 2500K, so that must be taken into account.Do not, in other words, get stuck on the idea that these Ryzen 3 are simply an ""i3"" equivalent: no, really what you are getting is a competitive, pre-CoffeeLake i5 equivalent for about $100 price point. That is just awesome, anyway you choose to slice it.This brings us to another point: upgrade path. The Pentium G4560-4620 are still touted as the ""budget kings,"" for $80-$97, but while those Kaby Lake Pentiums are indeed excellent performers (especially as IPC is concerned), they are, in the end, dual-core chips with SMT. The Ryzen 3 is a true 4 core, 4 thread. Further, the Kaby Lake chipsets are a dead end, in terms of upgrade path. Sure, you might be able to swap in an older Kaby Lake i5 or i7 down the road in 2018 to replace your Pentium...but those procs will also be more rare at that point, and competition to get them on places such as eBay will drive prices up to the diminishing-returns-territory.Moving towards 2020, games are going to be going multi threaded and multi core. In past years, single threaded and IPC remained dominant largely because if the Intel i5. But now, with Intel going 4 core on their i3 lineup, not to mention DX12, the market will truly bear multi core and multi thread design for games and apps. This is a very big reason to not saddle yourself with Sky Lake or Kaby Lake at this point.By contrast, AMD's AM4 platform is slated to be supported through 2020, and we have confirmation now that Zen+/Zen 2 will indeed utilize this platform, requiring only a simple BIOS flash. What this means, is that in 2018 or 2019, you will easily be able to swap out your Ryzen 3 with AMD's latest offering, on your existing motherboard/rig, if you find you beed more cores and/or threads for future titles and apps.What this also means, is you can easily go with future, retail, in-the-box parts versus having to do the eBay or Amazaon Marketplace hunt for pre-used parts from say the Kaby Lake lineup.Perhaps most exciting, the market competition will see some great choices for 2018-2020. As Zen+/Zen2 procs start appearing, the original Summit Ridge AMD parts will drop in price. Ryzen 5 1600 can, at the time of writing, already be had for about $190; in 2018, expect prices to drop further as Zen+/Zen2 make their appearance. This is excellent for the budget conscious. You can build a Ryzen 3 rig now, and then down the road swap in something like an R5 1600, new in the box, probably for as little as $130, on the same motherboard.To sum up: if you are looking at Ryzen 3 as a potential choice, it is most likely because you are on a strict budget, or are very budget conscious and like to get the best return for your dollar in price-to-performance. In those cases, the Ryzen 3, and the AM4 platform more generally, are excellent, especially if you take the modicum of effort to overclock your Ryzen 3.The large, established review sites (ex: Tom's Hardware) are, at the time of writing, recommending the lower tier Coffee Lake parts for budget or mid range builds, and this, in my opinion, is just simply ludicrous, if for no other reason than you simply can't even find Coffee Lake procs for purchase. This is to say nothing of the very inane way Intel chose to go with its motherboard lineup.What's more, sites such as Tom's continue to advocate for the Kaby Lake Pentiums as the preferred budget rig: again, this seems completely ludicrous to me. Why someone would decide to go with a dual core and a totally dead motherboard/chipset line, when they could go with a new chipset line set to last through 2020 with a baseline proc that is a true 4C/4T, just for the sake of saving (maybe) about $15 and getting 5-10% higher frames in older, single-threaded games from 2014-2016, is completely beyond me.As one of the absolute best, budget centered options we have seen in a decade, a good B350 board and a Ryzen 3 1200 are very, very hard to beat, especially in light of Coffe Lake's scarcity issues.If you are in the market for a budget rig, and are on the fence between going with budget Kaby or Sky Lake parts versus Ryzen, Ryzen is simply the more efficient and future proof choice.With that said, if you are then on another fence as to if you should go Ryzen 3 1200, 1300X or 1400, the 1200 is the clear winner for price-to-performance, especially if you take a few minutes to go into BIOS and overclock.If you are willing to spend more money for a 1400, you'd be better served going all the way and spending the extra for a 1500X or better yet, a Ryzen 5 1600.For around the $100 - $140 price point, however, you will want to go with the Ryzen 3 1200.
+
+","Reviewed in the United States on December 2, 2017"
+1,"
+Save your money for the rest of your build!
+","
+
+  This is all you need and it it 3 years old tech!!  It is 2020 BABY! Picked up this for $62 because it is all you need to play any game. as long as you are sporting a good GPU. PSU, and at least 8 gigs of RAM.  All of which will cost more than the CPU, including a MB.It says“3.4 GHz Precision Boost (up to 3.45 GHz with XFR)True quad core, unlocked CPU architectureA future proof, VR Ready platform; Includes AMD Wraith Stealth coolerSupported technologies are zen core architecture, amd sensemi technology, avx2, fma3Maximum system memory speed”Out of the box the CPU is 3.1 gig.  I have a decent MB, an B450 Gaming Plus Max which has plenty of tweaks and setting.  Its at 3.3 in gaming mode, and the RAM cannot be fully utilized because the CPU is a 1st gen.  When the 8 cores and 16 threads are $60 in a couple years, I can use everything without any OS installs, file transfers, or back ups.Thanks AM4 CPU Socket!This CPU will handle it all. Be happy they are making $300 and $900 CPUs!**26 July B O R E D!!  This stupid pandemic!  So as you can see i OC'ed the 3.1 to 4.1 and the temps and stress are flawless.  I was playing the division last night, waiting for it to load on my 8 year old flat screen TV, and let me tell you, the ""watch"" image thats there while loading LOOKED LIKE IT WAS coming out of the TV!!  I asked my wife. ""Is it me or is that scary sharp"", and she was like WOW!An 8 GIG MSI GPU doesn't hurt.16AUG20  DO NOT BUY THIS CPU at this price!! NOT a BUY even a little.  I got it for SIXTY TWO BUCKS!!!  THE ONLY reason i got it, other than it is ALL YOU need.  At $150 Get something else ASAP!!
+
+","Reviewed in the United States on May 23, 2019"
+2,"
+Dont let the price fool you. the ryzen 3 1200  Overclocks like a beast  ON STOCK COOLER
+","
+
+  Bought this to update my motherboards bios  so i could just buy a ryzen 2600x  but. honestly this cpu does everything i need  4 cores 4 threads overclocks to 4.0ghz on stock cooler.  i may still upgrade to the 2600x but i am content with the ryzen 3 1200  overclocked to 4.0ghz  i play overwatch,CSGO skyrim wow Doom, assassin's creed origins.  in my experience.  i have a gtx 970.  it will bottleneck at stock speeds  but once you  overclock it to 4.0ghz  and set your ram to 3200mhz  then the bottleneck goes away  i can overclock my gtx 970 and get  better performance now
+
+","Reviewed in the United States on December 2, 2017"
+3,"
+Dont buy unless you want to run a separately graphics card!!!
+","
+
+  Building a budget PC for my father (absolutely not a gamer). First off let me say I am a intel guy (first time ryzen / AMD product buyer here). So I am used to intel HD integrated graphics in everything, and being able to do basic web browsing, watching youtube/ netflix without needing a graphics card(GPU).Anyway found the best deal on a ryzen 3 1200. I bought one NOT realizing that this CPU REQUIRES a separate GPU. So since a ryzen 3 1200 wont even show bios without a GPU installed. I either have to go spend $50+ on a crusty old ebay graphics card. While simultaneously upgrading the brand new 450 watt power supply I just bought to support an old power hungry GPU. Or return the 1200 for a 2200G for a difference of $21. I will be returning this POS 1200 tomorrow. I highly recommend you buy the ryzen 3 2200G unless you plan on running a separate GPU. To be honest I really dont get the point of the ryzen 3 1200's existence. If you want to game and have or plan to buy a nice GPU, your going to want something better then this budget processor. And anybody looking to build a budget PC like me is going to buy the 2200G instead of buying the ryzen 3 1200 and a GPU.
+
+","Reviewed in the United States on January 7, 2020"
+4,"
+Great budget CPU for gaming
+","
+
+  I purchased it for my gaming pc build. Paired with Asus prime b350m mobo, ballistix sport 8g 2666 and pny gtx 1060 3gb. CPU oc to 3.8GHz. Cinebench single core score 150, multicore score 570. Rise of the tomb raider 60 fps at 2k resolution (high, smaa) . Very happy.
+
+","Reviewed in the United States on April 30, 2018"
+5,"
+Great Bang For The Buck
+","
+
+  It's a good beginners cpu for sure. Just a tip for people looking to build a gaming pc, I would recommend ryzen 5 just for the sheer fact it's just a tiny bit more money for way more performance. Please note Idk if ""x"" models come with a cooler. Please check before you buy. Thanks!
+
+","Reviewed in the United States on May 23, 2019"
+6,"
+Solid CPU on a budget-- but a 1060/580 is about your limit...
+","
+
+  Solid CPU for those on a budget.I''m running mine over-clocked to 3.6 and have it paired with a GTX 1060 6GB it can pretty much max out games at 1080p  However the CPU DOES hit 100% utilization with a game like Witcher 3 or GTA5 maxed out. (see pics)Here are my results from a few benchmarks with a 1060 6GB:Fire Strike - 10KSteam VR ready test - 8.3Rise of The Tomb Raider - 83Metro: Last Light (SSAA off)  - 79Shadow of Mordor - 100Witcher 3 (Hairworks off) - 58I've given this CPU 5 Stars based on it price to performance-- meaning it's great for those on a budget doing some gaming at 1080P-- But don't expect to stream with it or play games above 1080P as a 1060/RX580 is going to be about your limit (maybe even a tad past it)
+
+","Reviewed in the United States on September 9, 2017"
+7,"
+Basic Build turns out to me screaming fast.
+","
+
+  I thought this was a budget cpu.  This delivers all the performance I need for a solid desktop with some light gaming. Very easy to overclock (using only stock cooling so nothing crazy).  I could easily have a gaming monster if I upgraded to the GTX 1070 from the 1050ti.  Most games are only using 4 cores anyhow.Ryzen 3 1200Samsung EVO 960 250GB  NVMeCorsair Vengeance LPX 8GB (2x4GB) DDR4 DRAM 3000MHz (PC4-24000)NVidia GForce 1050ti 4GbGIGABYTE GA-AB350M-Gaming 3
+
+","Reviewed in the United States on December 9, 2017"
+8,"
+Great Price/Value. I'm even able to do a little ...
+","
+
+  Great Price/Value. I'm even able to do a little bit of 3D modeling, although I wouldn't recommend it. I was able to overclock to 3.5 but anything over that is pretty unstable. Not every CPU hits the silicon lottery. Awesome stock cooler as well. Though if you want to overclock any higher I would recommend upgrading.
+
+","Reviewed in the United States on August 5, 2017"
+9,"
+It's 12nm
+","
+
+  The one I received was the new 12nm version (ZEN+), make sure your bios is updated. I paired this with the ""ASUS TUF B450-PLUS Gaming"" sold by Amazon and it included the latest (2008 version) bios thankfully.Unfortunately I can't tell you if it's any good for gaming, I quit gaming in 2012. It is good for my video and photo editing. It's been 24 hours and everything is good so far.It is better than my old FX 4100 Bulldozer, I can tell you that much. Very snappy and responsive.
+
+","Reviewed in the United States on September 24, 2017"
+10,"
+Dont set Expectations to high
+","
+
+  I set my expectations to high.  And thats not the products fault.  Its not meant for any AAA games. Not even on all low video settings.  But it does perform fine for most esports.  It lost a star because of how it came.  I did buy 3rd party, but that doesnt excuse the fact that the title clearly says that the item comes with a wraith cooler.  It came with a cheap aftermarket cpu cooler.  I will be keeping this cpu, but just for trouble shooting and flash bios if i have to.  All in all, $80 aint bad for what you get.  The integrated graphics will come in handy for troubleshooting like i stated above.
+
+","Reviewed in the United States on December 2, 2017"
+11,"
+Waste of time
+","
+
+  Literally the most pointless processor you can buy. No onboard graphics at all, so being a budget office CPU is out of the question because you have to buy a dedicated GPU too. The 2200G is $20 more and has onboard graphics so you can actually use it like it was intended. AMD what were you smoking when you made this CPU?
+
+","Reviewed in the United States on May 23, 2019"
+12,"
+but I am very pleased with it
+","
+
+  I've only been using it for about a month, but I am very pleased with it.My wife is a photographer, so I wanted to build her a system that could handle photoshop, lightroom, and other adobe apps at the same time. This new system handles it all with ease without putting much stress on the CPU.
+
+","Reviewed in the United States on May 30, 2020"
+13,"
+A game changer
+","
+
+  This is a fantastic deal for the money.  A modern, fast, (relative to old CPU), low energy, cool running chip at 100$ or less is a real breakthrough for AMD among many others lately.  Perfect for standard users, but it does the job on most games pretty well too, casual gamers rejoice!  You won't find a better value out there, I promise.  Go ahead and get the 2200g now that it's out, it has graphics on the chip itself.  But if you do any sort of gaming besides minesweeper, keep your dedicated video card.  I'm excited about what the future holds for APU's though.  The 2400g can actually play some games on lower settings.Even the 2nd gen still has the single downside to Intel of slightly lower single core performance making Intel a marginally better gaming choice (worse for other things) vs 2000 series, but in time AMD will pass them in that too.  I have a 2600x now and it's just amazing.  This isn't the AMD of a few years ago, they have their act together and Intel is panicked.
+
+","Reviewed in the United States on September 21, 2019"
+14,"
+Before you buy!!!
+","
+
+  Literally no problems with this cpu, really worth the money. However, in order for your pc to work, you will need a graphics card. This cpu does not come with its own graphics. You will have to plug in a vga or hdmi cable into a graphics card.
+
+","Reviewed in the United States on May 18, 2018"
+15,"
+Great CPU for the price.
+","
+
+  It was around double the current price it is right now when it released and now that a few years later it has gone down in price made this the perfect CPU for my build. I recommend this for budget builders who look forward to using a Rx 580/gtx 1060 . This is a true 4 core/4 thread CPU for $50 and it comes with the wraith stealth cooler with satisfied me very nicely. This is great for first time builders like me to want to get into gaming on a budget, although this doesn't have integrated graphics so look for a different CPU if you are looking to build that kind of PC. In my current build I paired this with a Rx 580 and I can get it to run games like R6 on the Ultra preset and get smooth frame rates. As great of a CPU as this is you'll probably only want to use the gtx 1060 and the Rx 580 as going any higher could cause some bottle-necking. I would look into the future to upgrade to a Ryzen 5 CPU for more core and threads if you are looking for content creation, but for gaming purposes this CPU fits just fine for first time gamers who are on a budget.
+
+","Reviewed in the United States on November 27, 2018"
+16,"
+Solid entry into the Ryzen line.
+","
+
+  Charity-build for a disable neighbor who's idea of gaming is Angry Birds.He's happy with it.This is not a CPU suitable for AAA gaming, but if you're going to use the computer for homework, light gaming, internet work, and watching Youtube, you can't go too far wrong with an entry-level Ryzen CPU.If you decide to upgrade later, the unified Ryzen architecture means that you can upgrade the chip and use literally everything else in your case.
+
+","Reviewed in the United States on September 29, 2018"
+17,"
+Beautiful CPU
+","
+
+  excellent CPU, overclock friendly. Some say using this CPU with a 1060 will cap the GPU. While what they say its essentially true, there is literally hardly any noticeable difference. I running this with a 1060 6GB, I play all modern titles and triple A games just fine. Unless you're a perfectionist and care about the 2-3 Frame rate difference, this CPU is perfectly fine, and as i mentioned before, you can overclock it to meet specific GPU specs, although I wouldn't put this with a 1070.
+
+","Reviewed in the United States on September 13, 2019"
+18,"
+Had it done by someone who is comfortable with this stuff
+","
+
+  I'm not the sort who mucks about in my pc's guts. Had it done by someone who is comfortable with this stuff. Now it's done and the pc is zipping right along.  Glad I bought this.
+
+","Reviewed in the United States on January 25, 2019"
+19,"
+Great CPU in general.
+","
+
+  Honestly, this CPU is just great. For people on a budget, for gaming (even tho CS:GO is fickle with it because it values Intel over AMD) and is just a good launching point if you plan to upgrade (like me)Thanks to it's PGA socket, you can't really mess up when installing it. It obviously follows the same rules as other CPUs (Golden Triangle lines up with Golden Triangle) and the stock cooler is great for basic stock performance. The cooler is easy to install, just remember to keep even pressure on the heatsink when screwing it in. Go corner to corner and keep the amount of turns the same until install. Not doing so can result in an uneven spread of thermal paste or even a cracked IHS or CPU die.Honestly, get this if you're on a budget, and already have a graphics card at least. If you don't, or can't afford for for a decent amount of time. Get the one with the integrated graphics. Otherwise, this one.
+
+","Reviewed in the United States on November 9, 2018"
+20,"
+Unbeatable performance for the price.
+","
+
+  I have been using this processor for about year now. I overclocked it to 3.5ghz on day one and haven't had a single issue with it. I could probably go higher but I like knowing I'm 100% stable.I recently upgraded to an rx560 4gb to replace my rx460 2gb and this $100 cpu still isn't my bottleneck.I play PUBG quite a bit and I haven't seen this little guy go above 35% usage which is amazing for $100.Temps are completely fine using a Noctua NH-L9a even after overclocking.Anyon considering the g4560 route, just don't. Go team red and you'll be happy!
+
+","Reviewed in the United States on December 2, 2017"
+21,"
+Build you own blazing fast computer for less money - a lot less.
+","
+
+  Not quite as simple as that classic MacPro desktop was to build and modify -- but far cheaper than trying to upgrade that old case. (I did that for a decade.) With a little help from Amazon, NewEgg, and a 14-year-old grandson, I now have a blazing fast new computer for about a fourth of the cost of a similarly equipped factory-build.
+
+","Reviewed in the United States on May 23, 2019"
+22,"
+Move over, i5.
+","
+
+  This thing is a beast of a 4 core. I was able to achieve 4.1GHz at 1.35V before I had to stop myself from going crazy. The system I put this in isn't for me, after all. And yes, that was with the included stock cooler. I managed to achieve 622 on Cinebench R15, which is awesome when you realize the stock frequency had a score of 436. This was achieved with an ab350m motherboard and 3000mhz dual channel RAM. Under a load (with an RX580 pumping out copious amounts of heat right below it) I was seeing 70°C.I could have tested with the GPU dormant and and then with an even higher overclock, but I just had to get it to the point where it wouldnt bottleneck the GPU and would also be nice and stable. I plan on buying this again for future customers of mine who want a great budget PC.
+
+","Reviewed in the United States on November 14, 2018"
+23,"
+Incredible for the $ spent!
+","
+
+  I have been using a Fx 8350 since the time it was released and have been non stop gaming with it since 2013. It still is a decent chip that held its value all these years. But its starting to show its age with performence. Although its ""8"" cored, its being out performed by this r3 1200!You can not go wrong for the cheap asking price of the zen 1200. Couple it with 8gb ram, an a320 or b350 mother board and you will have yourself a budget gaming pc that will leave the ps4 and xbox in the dust.
+
+","Reviewed in the United States on December 29, 2019"
+24,"
+Great for office apps and light gaming.
+","
+
+  This CPU is perfect for everyday use and some good light gaming. Old games runs PERFECTLY at high settings (Provided you have a decent GPU) for newer games it gets the job done, just dont expect 60fps smooth on something like Control or Horizon Zero Dawn.
+
+","Reviewed in the United States on September 6, 2019"
+25,"
+Will not work with ANY graphics chip installed on your motherboard
+","
+
+  You MUST install a separate video card in the pc as this CPU is not compatible with ANY onboard graphics options.You will not even reach a BIOS screen.Possibly the worst cpu decision I have made in 26 years of building desktop pc's.
+
+","Reviewed in the United States on September 25, 2018"
+26,"
+Btw good cpu but not good for overclocking. [Not recommend for overclocking]
+","
+
+  It’s ok for gaming on med or high some games lag but it’s not ok for overclocking do not overclock it mine just blew long ago screwed up my plug out lit and now my pc is screwed. It was my fault btw.
+
+","Reviewed in the United States on September 5, 2020"
+27,"
+Fast for cheap
+","
+
+  Wow ! Talk about performance on the cheap.  Paired this with an nvme Samsung Evo and 8GB ram.  Over locked easily to 3.9 GHz with a coolermaster 212.  Could probably go higher with more Volts but I'm.happy with it.  I have an old AMD HD 7770 which stresses CPU on newer games.  The ryzen 1200 at 3.9 plays all games with moderate settings.  Soon I am going to get a newer video card and this should get me 3-5 years for less than  $600.
+
+","Reviewed in the United States on March 11, 2020"
+28,"
+A solid CPU for a budget price.
+","
+
+  I originally ordered this for a friend that ended up not needing it. I then used it to update a BIOS to accept a 3700x CPU. I was going to return it, or sell it, but I decided to keep it as it's a solid CPU for basic functionality.
+
+","Reviewed in the United States on February 26, 2020"
+29,"
+Great CPU
+","
+
+  I bought this so I could upgrade the BIOS on the mainboard to support the Ryzen 2200G.  The 1200 fit the bill and did the job perfectly.I did eventually build a system around the Ryzen 1200 and sold that system to a customer. No complaints!
+
+","Reviewed in the United States on July 9, 2018"
+30,"
+Nice CPU for budget pc's
+","
+
+  It is powerful but not by much. I mainly bought this to see if I could build a computer for less than $600. This CPU does what it needs to and it handles many games fine. My only concern is that every time I open task manager the cpu shoots 100 usage and then down to 40 usage. I would blame windows for that because windows 10 sucks.
+
+","Reviewed in the United States on December 2, 2017"
+31,"
+Great silicon
+","
+
+  Absolute best once it's over clocked, on stock cooler I'm pulling 3.9ghz at 1.3v stable, games well, and temps stay pretty low, average about 29-34c. I didn't realise there were so many reviewers that can't read, the stars off for not having an APU architecture is the reviewers fault for not doing the're homework, this processor is amazing and currently 70$, can't beat the price.
+
+","Reviewed in the United States on May 23, 2019"
+32,"
+The perfect beginner CPU
+","
+
+  Installation is very simple and the included cooler allows for a great overclock.  The vast majority of these chips will get to 3800 mHz no sweat, so go get a B350 motherboard or another that supports overclocking!  The bang for your buck is outstanding with these AMD chips.Highly recommended to 1st time builders, value hunters, and AMD enthusiasts!My 1st build -CPU - Ryzen 3 1200 @ 3800 mHzGraphics - GTX 1060 3GBMemory - Patriot Viper Elite 8GB DDR4 (2x4) @ 2666 mHzMotherboard - Gigabyte GA-AB350M-DS3H
+
+","Reviewed in the United States on July 4, 2018"
+33,"
+Only concern I had was stability wise to get a kit of memory to work nice at CPU speed
+","
+
+  Well for an entry level desktop CPU, I was fairly impressed.I matched it with a 1050, 1060 6GB, then a 1070 and the CPU wasn't bottlenecking as much as I thought it would.Plus well, AMD is back now!! Only concern I had was stability wise to get a kit of memory to work nice at CPU speed, but I don't think that's typically the CPU but more the motherboard or, most likely, the ram itself.
+
+","Reviewed in the United States on April 1, 2019"
+34,"
+Excellent!
+","
+
+  So far so good, no problems that I'm aware of yet. I built a rig using this for my brother and so far he's not had any issues. Nothing technical that required me to troubleshoot any sort of error logging. So it looks to me like this thing is in great shape and no dead cores or anything. I'm happy with the results and it works really well. I always did like AMD products and this only improved upon my loyalty to their products.
+
+","Reviewed in the United States on December 7, 2018"
+35,"
+Awesome alternative to i5
+","
+
+  I have always been an Intel fan, until I built my new desktop with this Ryzen 3 as the CPU. No problem running anything I ask it to. I would highly recommend going with the Ryzen CPU's if you would like to save a little money.
+
+","Reviewed in the United States on June 4, 2018"
+36,"
+It does VR
+","
+
+  It can run VR. Watch a tutorial on YouTube if you do not know how to install. You need to screw the screws diagonally and not next to each other first. Get them screwed in a little and then tighten them up once they are all connected to the motherboard. Make sure the AMD logo is parallel to the I/O before you set it down.
+
+","Reviewed in the United States on August 19, 2019"
+37,"
+Great budget processor
+","
+
+  This is really all the processor that's necessary for a straight up gaming computer. Pair it with a fast SSD system drive and a GTX 1660S and you'll never miss the extra cores/threads.
+
+","Reviewed in the United States on December 28, 2017"
+38,"
+bought this before i did all of my research, dont repeat my mistakes!
+","
+
+  this processor works. not much else to say, its nothing special. the cooler that comes with it is more powerful than such a little processor actually needs. if you are building a gaming PC dont be like me and cheap out on the processor. spend the money and get one that will last for years. i will be replacing this with a Ryzen 5 as soon as i can afford it.
+
+","Reviewed in the United States on December 26, 2018"
+39,"
+Ryzen rocks
+","
+
+  Now I wish I had bought a couples of models up. But this thing has been rock solid and a huge speed improvement over by previous AMD Athlon II X3 455. Motherboard was under $90, RAM is a bit expensive right now, but I'm super happy I upgraded and chose to go with AMD.
+
+","Reviewed in the United States on February 1, 2020"
+40,"
+100% Recomendable
+","
+
+  Excelente producto 100% Recomendable y rápida respuesta del vendedor trabaja el procesador muy bien
+
+","Reviewed in the United States on December 2, 2017"
+41,"
+Actually not bad at all
+","
+
+  Oriignally i thought the fan was loud, turns out a cable got into the fan without me realizing. Great cpu for the price. I use this for my budgie ubuntu work pc and it's enough multitasking for the job
+
+","Reviewed in the United States on May 23, 2019"
+42,"
+RYZEN 3 GOAT Value???
+","
+
+  No integrated graphics support?! Even with that said, For $60 this has to be the BEST value for any processor of all time.  I bought one to build a dedicated server for gaming. I am very impressed with how well it performs.
+
+","Reviewed in the United States on September 23, 2018"
+43,"
+Grab this!
+","
+
+  I snagged this cpu for a second pc for basic functions and not gaming. It is very fast, easy to install and runs like a champ.  Value king I would say.
+
+","Reviewed in the United States on July 10, 2019"
+44,"
+No onboard video on this CPU so you probably will need a video card
+","
+
+  No onboard video on this CPU so you probably will need a video card. Nice speed and good price
+
+","Reviewed in the United States on August 13, 2019"
+45,"
+Don’t do it.
+","
+
+  Kind of a trash processor. I wouldn’t waste money on it now with the new Gen AMD out.
+
+","Reviewed in the United States on January 24, 2020"
+46,"
+Good budget CPU with a little overclocking
+","
+
+  Great CPU so far got it running at 3.8 Ghz at 1.2v. I can hit 4ghz but requires to much voltage but happy with performance and temps at 3.8ghz. The  stock heatsink is good enough for 3.8ghz as long as ambient temps are fairly low.
+
+","Reviewed in the United States on August 28, 2020"
+47,"
+You can get a lot out of this CPU
+","
+
+  First gaming build.I can practically run everything even if the game says your CPU is out of date. (One note) If it doesn't meet the requirements of the game, then turn down your settings and keep an eye on the CPU temperature and CPU usage.To sum it up. Very great product, but if you can afford a better card I would go for the Ryzen 5 1600. Just a little bit more but can handle lots more, however; the Ryzen 3 1200 is a great start.
+
+","Reviewed in the United States on August 15, 2020"
+48,"
+Good for its price
+","
+
+  Overclocks easily to 3.8-3.9 GHz. Amazing performance for its price. Coupled with a good gpu, it will run most games.
+
+","Reviewed in the United States on December 2, 2017"
+49,"
+Baby momma
+","
+
+  I want it to have my children.
+
+","Reviewed in the United States on November 1, 2018"
+50,"
+I love it.
+","
+
+  I built the computer I'm using now and it is the fastest box I've ever used. The Ryzen 3 1200 Processor Unit and cooler work perfectly. I haven't really tested its capability yet. I may not ever, but this thing flies. I love it.
+
+","Reviewed in the United States on December 2, 2017"
+51,"
+Cheap but still great.
+","
+
+  i bought this CPU for a cheap build i did for my friends birthday. he wanted a gaming PC. and this seems to have been much better than i expected. much better than any highend FX chip.
+
+","Reviewed in the United States on May 23, 2019"
+52,"
+Great CPU for the price. Pretty much an older intel i5
+","
+
+  Great CPU for the price. I have it overclocked at 4ghz and it runs games just fine with a gtx 1060 6gb. It hits 100% load in more cpu intensive games like overwatch. At 4ghz it's pretty much an older intel i5 like the i5 4690, but for 100 bucks. Overall it's a really great deal.
+
+","Reviewed in the United States on November 4, 2018"
+53,"
+Works great....my bad
+","
+
+  Didn't know it doesn't work with an inboard video card. But it does work with external. Live and learn.
+
+","Reviewed in the United States on September 23, 2018"
+54,"
+Best budget cpu out there
+","
+
+  Amazing gaming value for the price! I paired it with an a320 mobo... i know its weak but it gets 55+fps most games on ultra settings with an rx480 4gb gpu. Would recommend by 1000 miles
+
+","Reviewed in the United States on November 15, 2017"
+55,"
+Amazing CPU with 4 true cores
+","
+
+  Amazing CPU with 4 true cores! A great start to play most of Today's games just fine for anyone wanting to start PC gaming for the first time or get back into it after a long time.
+
+","Reviewed in the United States on March 23, 2020"
+56,"
+Great budget CPU!
+","
+
+  Great budget CPU!  (Note that it does not include integrated graphics).  Would be 5 stars, except the Ryzens have some memory compatibility issues - read very carefully about exactly what kind of RAM is supported, and at what speed.
+
+","Reviewed in the United States on September 18, 2019"
+57,"
+An amazing CPU, I'd definitely buy it again.
+","
+
+  Honestly I love this CPU, I've been using it since 2018 and have it over-clocked to 3.9GHz to.  It's amazing.
+
+","Reviewed in the United States on November 8, 2017"
+58,"
+Honestly I love it! 9/10
+","
+
+  In all honesty came allot sooner than I thought, if your looking for a pretty good starting CPU for low cost I definitely recommend this purchase, mainly cause you do ofc get the i3 cpu but it comes with pre-applied thermal paste and a CPU cooler which really helps out on money so I definitely recommend for such a low cost!!!
+
+","Reviewed in the United States on January 8, 2018"
+59,"
+A good cpu for the price...
+","
+
+  I bought this cpu in 2017 and it is still working but as of now im starting to have problems with it. it worked great until it started overheating and decreasing in performance. This cpu would be a great temporary am4 socket cpu, but dont count on it for more than a couple years.
+
+","Reviewed in the United States on November 4, 2019"
+60,"
+Perfect processor for gaming
+","
+
+  Perfect processor for gaming, at 1080p and 2k as long as you have a decent graphics card too. Point eing overall just strictly speaking about the processor its great! whether you are gaming or you want it to just browse the web its a perfect one.
+
+","Reviewed in the United States on December 2, 2017"
+61,"
+Best speed for money for low level processes
+","
+
+  Super fast for the price. Also keep in mind this does not have a APU built into it. Even though the B350 motherboards have a video output the CPU does not have the APU so you will need a video card.
+
+","Reviewed in the United States on May 23, 2019"
+62,"
+Success
+","
+
+  My son got this to build a gaming desk top. It works well and he is enjoying it.
+
+","Reviewed in the United States on February 22, 2018"
+63,"
+great budget cpu
+","
+
+  Very good budget cpu that is great for beginners who are on the borderline between p.c gaming and web surfing.
+
+","Reviewed in the United States on March 13, 2018"
+64,"
+Great value
+","
+
+  Over clocked to 3.7 gigahertz with stock cooler. 4 core 3.7 gigahertz for 100$, Intel cant beat that
+
+","Reviewed in the United States on March 7, 2020"
+65,"
+Great price for performance factor!!!
+","
+
+  Im not a heavy PC gamer so this entry level CPU is more than enough.  Great Value.  Great Performance.
+
+","Reviewed in the United States on June 20, 2019"
+66,"
+Fantastic
+","
+
+  Works for me
+
+","Reviewed in the United States on August 1, 2018"
+67,"
+perfect for first build
+","
+
+  first computer build, overclocked to 3.9ghz / ram at 2933mhz added aftermarket cooler very stable for gaming, would use again.
+
+","Reviewed in the United States on August 13, 2019"
+68,"
+Ok for first timers
+","
+
+  Ok if you want to play small games not for big size games
+
+","Reviewed in the United States on July 6, 2020"
+69,"
+Value and Performance
+","
+
+  I bought this for my first PC build and it is absolutely a bang for the bucks. With 4 core and 4 thread, the CPU can handle most of the game on the market. This is great for the value but if you guys looking for something more powerful and willing to pay a bit more, I recommend the Ryzen 5 2600.
+
+","Reviewed in the United States on May 18, 2019"
+70,"
+Bottlenecks my RX570
+","
+
+  Don’t buy if you plan to game this bottlenecked my rx 560 and my rx 570 with no other applications running in the background even with the lowest possible settings. But this cpu is great to browse and do simple tasks.
+
+","Reviewed in the United States on December 2, 2017"
+71,"
+Great card, great price
+","
+
+  Without sounding generic, the CPU was a steal at less than $100. It was shipped quickly and arrived pretty fast despite a clerical error, and when it arrived it looked brand new.
+
+","Reviewed in the United States on May 23, 2019"
+72,"
+Great value for the price.
+","
+
+  This CPU is a great buy for the price. The bundled heatsink did not initially work correctly, but after pushing down on its center I heard a ""click"" and not it works correctly.
+
+","Reviewed in the United States on July 17, 2020"
+73,"
+Nice
+","
+
+  A great CPU for my pc build works very well compared to my old amd a8 7600 in my old pc
+
+","Reviewed in the United States on December 31, 2019"
+74,"
+For my son's computer
+","
+
+  Works well for my son's computer. He plays minecraft mostly.
+
+","Reviewed in the United States on January 17, 2018"
+75,"
+For the price its amazing
+","
+
+  Works well for what i needed it for. I'll be upgrading at some point but only in case i need better performance in the future. It has  presented no issues though so overall good purchase.
+
+","Reviewed in the United States on March 7, 2019"
+76,"
+Absolute bargain, can't complain at all!
+","
+
+  All I can say is, it's a truly remarkable CPU for the price.I'm running my R3 on a Corsair H60 because I was going for silent in my rig but it's really not needed if you're not concerned about noise.  The stock cooler is very quiet considering its performance, but it's not totally silent, and because my PC is about 2 feet away from me on my desk, I wanted something totally silent (the H60 with aftermarket fans gives me this).  That said it can handle a 3.7GHz overclock without issues.Mine is clocked at 3.95GHz @ 1.275V on a ASRock X370 Killer SLI/ac. Cinebench score is 605-610 multi test, which is higher than the Core i5 7500 in my other machine scores.  Pretty impressive, this CPU costs half as much and comes with a MASSIVELY better cooler.It handles 1080p gaming with no issues (Just Cause 3, GTA V, Doom, etc).  I will be testing 1440p at Christmas and will edit and report back.EDIT: 1440p time.  Yes, it can handle it.  Mine's paired with a GTX 970.  The CPU does hit 100% CPU usage often in GTA V, but it never stutters or drops frames - not even a little.  Usually sits around 90%.  I get a solid 60fps with the GTX 970 (also overclocked).  In PUBG at 1440p it sits around 50-80% (wildly varying).  Battlefield 1 it's under 50% most of the time.  It's definitely at its limit at 1440p, but it works.  It's a fantastic cheap CPU, plenty for 1080p gaming and generally enough for 1440p.  It could probably handle a GTX 1070 without issues, considering that in more GPU-dependent titles, the CPU is never maxed out.
+
+","Reviewed in the United States on August 21, 2019"
+77,"
+Excellent CPU for beginner PC builders
+","
+
+  Cheap, reasonably powerful, and comes with a fan.
+
+","Reviewed in the United States on July 26, 2019"
+78,"
+Funciona bien y esta económico
+","
+
+  Excelente inversión por su precio no hay competencia
+
+","Reviewed in the United States on November 3, 2017"
+79,"
+I went for this over an i5 for my mom's early Christmas gift.
+","
+
+  Good bang for your buck CPU. I used this in combination with an ASRock AB350 motherboard in an ITX form factor build I built for a gift for my mom. Stock heat sink isn't anything to write home about, but with good case ventilation it keeps temps down to a reasonable level for an air cooler.
+
+","Reviewed in the United States on August 16, 2019"
+80,"
+Five Stars
+","
+
+  Great processor for $110. Cant find anything to fault it for. Overclocks to 3.9ghz easy.
+
+","Reviewed in the United States on December 2, 2017"
+81,"
+Muy bueno
+","
+
+  Magnífico device
+
+","Reviewed in the United States on May 23, 2019"
+82,"
+Nice and functional for what it is
+","
+
+  CPU works great for what I used it for.  Something I could use to get into and upgrade the BIOS on am4 boards.  At the end of the day paired with a budget card like an 570 you can have a  cheap 1080 gaming rig.
+
+","Reviewed in the United States on August 28, 2017"
+83,"
+Good CPU for price
+","
+
+  I bought this for a computer I am building for my grandpa. Works like a charm.
+
+","Reviewed in the United States on December 7, 2019"
+84,"
+Good processor equip with a good video card you can ...
+","
+
+  Good processor equip with a good video card you can play almost any game on high or ultra. There hasn't been any slowdown at all since I bought this thing a year ago.
+
+","Reviewed in the United States on January 4, 2020"
+85,"
+impressive huge round fan!
+","
+
+  built a small micro atx power house!
+
+","Reviewed in the United States on August 17, 2019"
+86,"
+good Processor
+","
+
+  good Processor
+
+","Reviewed in the United States on May 4, 2018"
+87,"
+Love this brand
+","
+
+  Good value for the money  good for a basic pc
+
+","Reviewed in the United States on July 20, 2019"
+88,"
+Great processors.
+","
+
+  Great processors.. All of the Ryzen series.. The performance and value is great. And the compatibility issues been mostly worked out on the board makers..
+
+","Reviewed in the United States on September 8, 2018"
+89,"
+Ryzen!!! Such a great deal.
+","
+
+  Great! Cpu. If you’re looking for a ryzen3 get this and overclock to 4.0ghz. It preforms just like the 1300x so don’t spend the extra $$ on that one. I am really happy with ryzen. AMD is really bringing the A game these days.
+
+","Reviewed in the United States on June 9, 2019"
+90,"
+Really good processor for the price
+","
+
+  Really good processor for the price. Definitely overclock this to at minimum 3800mhz for the best performance. Just youtube how
+
+","Reviewed in the United States on December 2, 2017"
+91,"
+... for my first pc build and It's definitely a great entry level cpu
+","
+
+  I bought this for my first pc build and It's definitely a great entry level cpu. Also I recommend getting a b350 motherboard for overclocking if you decide to buy this cpu.
+
+","Reviewed in the United States on May 23, 2019"
+92,"
+Five Stars
+","
+
+  Great processor. True 4 cores gets the job done.
+
+","Reviewed in the United States on October 6, 2017"
+93,"
+Good little CPU
+","
+
+  Great cpu. I’ve had it for over a month and overclocked mine to 3.8GHz. With the stock cooler and some different thermal paste mine has never ran hotter than 51C.Can’t beat it for the money.
+
+","Reviewed in the United States on August 30, 2017"
+94,"
+Works great for light streaming/moderate gaming
+","
+
+  My 1050 pairs well with this processor and has minimal bottleneck compared to my old X4 880k. Overall great!
+
+","Reviewed in the United States on August 15, 2017"
+95,"
+very good processor
+","
+
+  very good processor/  fast and excellent response timeAt a good price and was pretty easy to install
+
+","Reviewed in the United States on November 18, 2017"
+96,"
+Great budget cpu.
+","
+
+  Great beginning pc cpu, runs most everything I have tried to play. Recommend to a first timer building a budget rig.
+
+","Reviewed in the United States on March 9, 2020"
+97,"
+I basically got scammed
+","
+
+  When I received the package it had thermal paste all of the cpu and it also has bent cpu pins and the box looked like someone through it off a building
+
+","Reviewed in the United States on June 6, 2018"
+98,"
+best budget build processor to date!!
+","
+
+  performs way beyond my expectations, Wife and I both use for college homework and of course play game and streams videos and movies.
+
+","Reviewed in the United States on November 2, 2018"
+99,"
+great CPU from AMD
+","
+
+  I like it
+
+","Reviewed in the United States on August 24, 2018"
+100,"
+Great budget CPU
+","
+
+  Got this for my first PC build and am very happy. Runs better than I was expecting and for a great price
+
+","Reviewed in the United States on December 2, 2017"
+101,"
+Five Stars
+","
+
+  budget build for my daughter is working great
+
+","Reviewed in the United States on May 23, 2019"
+102,"
+Great value
+","
+
+  Great for the price point. I overclocked to 4.0Ghz without any trouble, max temps under load is 52C with stock cooler.
+
+","Reviewed in the United States on December 18, 2019"
+103,"
+Good budget CPU
+","
+
+  Bought this to replace some aging parts in my girlfriends' build that weren't doing so hot with her Oculus Rift. Along with my old GTX 950 and a b350 motherboard, this did the trick. Definitely recommend due to the price alone.
+
+","Reviewed in the United States on January 19, 2018"
+104,"
+Bang for your buck
+","
+
+  Wasn't expecting too much, but I was impressed with what I got out of it
+
+","Reviewed in the United States on February 23, 2018"
+105,"
+,
+","
+
+  Average quality for games
+
+","Reviewed in the United States on February 22, 2020"
+106,"
+Great cpu
+","
+
+  Cpu runs a little hot on full load, but nice cpu for your money.
+
+","Reviewed in the United States on February 27, 2020"
+107,"
+Exactly what is expected
+","
+
+  Exactly what I needed to build mini pc
+
+","Reviewed in the United States on August 3, 2020"
+108,"
+This chip outperforms the i76500u
+","
+
+  POWER. Performs flawlessly, with the quietest stock cooler I've ever had. I'm a big fan of Ryzen now.
+
+","Reviewed in the United States on May 2, 2019"
+109,"
+Price performance king
+","
+
+  For the money this processor is an unbelievable value. You would spend at least double for an intel chip that can do what this little wonder does
+
+","Reviewed in the United States on July 2, 2019"
+110,"
+Price to performance this is a great chip. Also comes with a great stock air ...
+","
+
+  Price to performance this is a great chip.  Also comes with a great stock air cooler.  Huge fan of this line!
+
+","Reviewed in the United States on December 2, 2017"
+111,"
+Just what I needed
+","
+
+  Just what I needed
+
+","Reviewed in the United States on May 23, 2019"
+112,"
+Wonderful CPU
+","
+
+  Not much to complain about. It’s a great CPU, especially for the price. I would recommend this to anyone building a budget PC.
+
+","Reviewed in the United States on January 1, 2018"
+113,"
+Would not recommend
+","
+
+  I put whole gaming system together this item didnt work after replacing everything I found out the problem was the Ryzen 3.
+
+","Reviewed in the United States on August 31, 2019"
+114,"
+Good cpu for a budget gaming build
+","
+
+  Looking for a budget build this cpu is great. No onboard graphics so you will need a dedicated gpu.
+
+","Reviewed in the United States on February 20, 2020"
+115,"
+Happy son
+","
+
+  My son did his research when looking for this item.  He's happy.
+
+","Reviewed in the United States on March 18, 2020"
+116,"
+Good speed at a great price
+","
+
+  Great step up from early intel I-5. Never runs hotter than 40 degrees C even under heavy load.
+
+","Reviewed in the United States on February 15, 2020"
+117,"
+value
+","
+
+  Phenomenal for budget gaming PC
+
+","Reviewed in the United States on July 5, 2018"
+118,"
+Small but Powerful!
+","
+
+  Might be small but it works really well. So far have it running stable at 3.8 GHz. Built my nephew a PC with this and a GTX 1060 and he loves it. Uncle brownie points achieved!
+
+","Reviewed in the United States on January 17, 2018"
+119,"
+Good Product.
+","
+
+  it work fine, the performance feels ok, i think the price should be lower.
+
+","Reviewed in the United States on November 18, 2019"
+120,"
+Works as intended
+","
+
+  Works as intended
+
+","Reviewed in the United States on December 2, 2017"
+121,"
+Awesome
+","
+
+  Sweet
+
+","Reviewed in the United States on May 23, 2019"
+122,"
+Can’t do better for under $100
+","
+
+  Meaty processor for those of us trying to get power on a budget.
+
+","Reviewed in the United States on January 15, 2019"
+123,"
+Great budget CPU, AMD for life.
+","
+
+  Great price and performance. I used the Ryzen 3 1200 to update my old Phenom II based rig. It's a budget CPU, but it's no slouch. It was a great value at $60.
+
+","Reviewed in the United States on May 13, 2019"
+124,"
+Great
+","
+
+  Great
+
+","Reviewed in the United States on June 28, 2018"
+125,"
+fit the budget.
+","
+
+  It's quite fast and no issues at all for my new build with asus prime x370 pro motherboard.
+
+","Reviewed in the United States on February 16, 2020"
+126,"
+Great Quality.
+","
+
+  Works good.
+
+","Reviewed in the United States on December 28, 2019"
+127,"
+Great on a budget, even better overclocked!
+","
+
+  Pretty good for the price. I’d suggest it to anyone on a tight budget and looking for a decent cpu on the money. But if you’re not planning to overclock it, then I’d say save up a bit more money for a better CPU. I OC’ed mine to 3.9 MHZ on stock voltage as simple as 123. Super easy overclock on B350 boards!
+
+","Reviewed in the United States on November 19, 2017"
+128,"
+very nice qaud core
+","
+
+  this processor performs very well.. would not hesitate to use this processor in another build
+
+","Reviewed in the United States on January 4, 2019"
+129,"
+Five Stars
+","
+
+  works great and it came in the mail pretty fast
+
+","Reviewed in the United States on August 12, 2018"
+130,"
+Love it
+","
+
+  Great value for the money
+
+","Reviewed in the United States on December 2, 2017"
+131,"
+Decent Stuff
+","
+
+  Built my first Ryzen PC with this little guy, can’t complain and it performs as expected. Just make sure your Mobo supports overclocking if you wanna do that.
+
+","Reviewed in the United States on May 23, 2019"
+132,"
+Great value
+","
+
+  Easy to install, their website had numerous tutorials on the install of the processor and fan. Very happy with it's performance so far. Been gaming for 3 days straight on a holiday weekend, not a single issue.
+
+","Reviewed in the United States on August 26, 2018"
+133,"
+It runs liquid smooth & is easily overclocked.
+","
+
+  I am soooooo glad I went with the new AMD Ryzen processor!  It runs liquid smooth & is easily overclocked.  I have been running it overclocked from the factory 3.1MHz to 3.5MHz, which is the clock speed of the next in line Ryzen 1300X, since about a week after I got it.  I ran it stock for the first week just to make sure everything was smooth - and it was!  The included Wraith cooler does the job & I have never had any heat issues whatsoever.  It is paired with the ASRock AB350M0HDV motherboard.  I have had ZERO issues, crashes, nothing but 'set it & forget it' performance.  It just WORKS.
+
+","Reviewed in the United States on March 20, 2020"
+134,"
+PRAISE THE SU
+","
+
+  Coming from a locked third gen i3 the difference was huge. It has 4 cores, is unlocked, and has plenty of cache, it's like a 7th Gen i5 but better! Plus the included cooler pretty good too.Shoutout to r/ayymd
+
+","Reviewed in the United States on May 26, 2019"
+135,"
+very nice for the price
+","
+
+  Quick deliver, very nice for the price.
+
+","Reviewed in the United States on October 30, 2017"
+136,"
+Entry to AM4
+","
+
+  This is entry level. With that perspective, it holds it's own.
+
+","Reviewed in the United States on October 24, 2018"
+137,"
+Very good cpu for budget pc gamers
+","
+
+  I love this cpu. I overclocked to 3.8 Ghz on stock cooling and it works PERFECTLY. I definitely recommend the Ryzen 3 1200 for people who are looking into PC gaming but are on a tight budget. make sure to get a compatible motherboard if you want to overclock(not a320)
+
+","Reviewed in the United States on May 8, 2018"
+138,"
+Budget
+","
+
+  Easy to install. Great budget rig cpu. Does what I need it to
+
+","Reviewed in the United States on June 29, 2019"
+139,"
+Perfect for 1050 TI 4gb and up.
+","
+
+  This is perfect for my setup. I built a AMD PC with this Ryzen 3 and other computer components. The wraith cooler is perfect and the fan is quiet. Overall terrific product!!
+
+","Reviewed in the United States on January 10, 2018"
+140,"
+Great entry level
+","
+
+  Can't complain, works just fine for me. Editing videos or gaming nice entry level CPU
+
+","Reviewed in the United States on December 2, 2017"
+141,"
+I was not disappointed and love it
+","
+
+  For the price I paid and the performance and features I receive, I was not disappointed and love it. I did manage to bend a couple pins however but they were minor and still plopped in the mobo just fine.
+
+","Reviewed in the United States on May 23, 2019"
+142,"
+Great product.
+","
+
+  The processor works very well!I had a little trouble with the purchase though, as they didn't take the money out of my account until after it was shipped.
+
+","Reviewed in the United States on March 13, 2020"
+143,"
+Not the best for the money
+","
+
+  It’s a good CPU but you can buy an Amd ryzen 5 3600 for just about 20 dollars more but quite a lot more performance
+
+","Reviewed in the United States on December 3, 2017"
+144,"
+Four Stars
+","
+
+  decent performance overcloked
+
+","Reviewed in the United States on December 2, 2019"
+145,"
+love it so
+","
+
+  son built my computer, love it so far
+
+","Reviewed in the United States on October 23, 2020"
+146,"
+Esta a muy buen precio
+","
+
+  Es muy bueno tal cual la imagenNo demoro la entrega a Bogotá
+
+","Reviewed in the United States on May 2, 2018"
+147,"
+Five Stars
+","
+
+  Great product
+
+","Reviewed in the United States on January 29, 2018"
+148,"
+Fast processor, good value.
+","
+
+  Fast processor, good value
+
+","Reviewed in the United States on February 9, 2020"
+149,"
+Five Stars
+","
+
+  works great have no complaints
+
+","Reviewed in the United States on June 4, 2018"
+150,"
+For beginners
+","
+
+  Nice processor for beginners it goes along well with the gigabyte b450m, 16gb Corsair vengeance lpx 2400mhz, and Radeon rx 570
+
+","Reviewed in the United States on December 2, 2017"
+151,"
+Great processor for the price
+","
+
+  Love that it comes with a good cooler as well.  It is a great processor for the price.
+
+","Reviewed in the United States on May 23, 2019"
+152,"
+What's not to love? That new ""Wraith"" cooler is way better than ...
+","
+
+  What's not to love? That new ""Wraith"" cooler is way better than any stock fan I've encountered in 25 years of building computers, and this thing clocked up with the click of a button and has offered ZERO issues in multiple builds I've used this CPU with.I ran a K6-2 in my first LANbox, then later a dual Athlon MP, an Athlon X2, and most recently an A8 in my laptop and an FX8350 in my desktop. They've all had their pros and cons, but this new Ryzen series is FANTASTIC! Way to knock it out of the park, AMD!
+
+","Reviewed in the United States on February 27, 2020"
+153,"
+AMAZING!
+","
+
+  Holy sh*t. This. Little. Beast. This CPU is asking, screaming, to be overclocked to the top of your board and cooler's capacity. I managed to overclock it up to 3.9 GHz on STOCK cooler with very decent thermals. THIS IS AMAZING. With the OC this CPU reached Cinebench scores similar to those of an i5 6600K on a database for less than half the price. I paired it with a GTX 1060 and have no problem playing games at 1440p high settings, reaching anywhere between steady 70 and 120 fps on Battlefield 1. AMD is back in the game.
+
+","Reviewed in the United States on July 15, 2019"
+154,"
+Don’t be afraid of a budget cpu
+","
+
+  I have a gtx 1050ti and 16 gigs of ram on my very first build along with this CPU and everything runs great, however this is my first build and I plan to upgrade this first, but this cpu is perfect for the first pc you  build right now
+
+","Reviewed in the United States on January 11, 2018"
+155,"
+Five Stars
+","
+
+  Good stuff
+
+","Reviewed in the United States on August 31, 2017"
+156,"
+Great. Thank you
+","
+
+  Great.  Thank you.
+
+","Reviewed in the United States on October 31, 2018"
+157,"
+Five Stars
+","
+
+  Great performance for the price!
+
+","Reviewed in the United States on July 20, 2018"
+158,"
+Five Stars
+","
+
+  Works fine. Didn't notice much difference, but I dont play a lot of games. Works great though
+
+","Reviewed in the United States on March 21, 2018"
+159,"
+Five Stars
+","
+
+  Works great as expected.
+
+","Reviewed in the United States on January 13, 2018"
+160,"
+Five Stars
+","
+
+  Great processor at a great price
+
+","Reviewed in the United States on December 2, 2017"
+161,"
+Superb
+","
+
+  Perfectly capable cpu that blew me away. This is real bang for your buck. And overclock this bad boy and you've got even more power to work with. Flys through every game I've thrown it's way paired with a GTX 1050 ti
+
+","Reviewed in the United States on May 23, 2019"
+162,"
+Great for $60
+","
+
+  Great, 4c 4thread. Gets a little slow when you have a lot open, but that’s what happens when you get 4c 4threads
+
+","Reviewed in the United States on February 20, 2018"
+163,"
+COU
+","
+
+  Great CPU and wonderful packaging. Too bad mine arrived dead.
+
+","Reviewed in the United States on October 27, 2017"
+164,"
+Good for beginners
+","
+
+  Very good for the price
+
+","Reviewed in the United States on February 21, 2020"
+165,"
+Would recommend for all budget builds
+","
+
+  IMO... budget King! was able to stably overclock it to 3.8Ghz with 1.3000V, other went even further
+
+","Reviewed in the United States on September 8, 2017"
+166,"
+Overclocks like a champ
+","
+
+  What an amazing little work-horse! I have this clocked at 3.8GHz with no extra voltage needed on the stock cooler.  A great buy.
+
+","Reviewed in the United States on July 1, 2018"
+167,"
+Overpriced
+","
+
+  Showing its age
+
+","Reviewed in the United States on January 11, 2018"
+168,"
+Great
+","
+
+  Perfect for budget build
+
+","Reviewed in the United States on October 22, 2017"
+169,"
+It is just great for a budget
+","
+
+  It is great as a starting processor for build computers and it is great for budget builds!
+
+","Reviewed in the United States on August 4, 2019"
+170,"
+Five Stars
+","
+
+  Got it to oc to 4.0ghz.
+
+","Reviewed in the United States on December 2, 2017"
+171,"
+Very good budget gaming CPU.
+","
+
+  I built a pc with this for a budget build, and compared it to my mothers Intel core i5 laptop, and my pc was faster.
+
+","Reviewed in the United States on May 23, 2019"
+172,"
+It will hang with the best of them
+","
+
+  Not as fast as the other ryzen processors, but if you want to build a starter-budget gaming rig, then this is IDEAL. It will hang with the best of them.
+
+","Reviewed in the United States on May 1, 2018"
+173,"
+Works fine
+","
+
+  It's the cheapest Ryzen 3 CPu
+
+","Reviewed in the United States on January 12, 2020"
+174,"
+Two Stars
+","
+
+  Worked great when it worked, but mine died after only 2 months.
+
+","Reviewed in the United States on October 22, 2017"
+175,"
+Great product
+","
+
+  Great product. Had no issues and gf is happy with her build.
+
+","Reviewed in the United States on August 2, 2019"
+176,"
+Five Stars
+","
+
+  Works great came on time!
+
+","Reviewed in the United States on June 19, 2018"
+177,"
+Five Stars
+","
+
+  Excellent!
+
+","Reviewed in the United States on February 16, 2018"
+178,"
+Computer
+","
+
+  It shut down my computer completely
+
+","Reviewed in the United States on July 2, 2018"
+179,"
+Temporary for BIOS update needs
+","
+
+  This product was/is used for installing BIOS updates to support the newer CPUs. Great value for the use.
+
+","Reviewed in the United States on June 2, 2018"
+180,"
+Doesn't include GPU, so plan accordingly
+","
+
+  It's a decent processor, but there are 2 things I strongly dislike about this chip.  1> It doesn't include any video capabilities that less expensive processors have and 2> The AM4 socket still has pins instead of a more durable surface-mount like Intel.  My CPU arrived with pins bent and I had to take a razor blade and magnifying glass to bend them back.  Getting tired of AMD's processors arriving with bent pins, and my 50+ year old eyes struggle to see them clearly.
+
+","Reviewed in the United States on December 2, 2017"
+181,"
+Five Stars
+","
+
+  GOOD
+
+","Reviewed in the United States on May 23, 2019"
+182,"
+Best value chip for a gaming build on the cheap
+","
+
+  The Ryzen 3 is a great value cpu and works great with an nvidia gtx 1050 or 1060 without bottle-necking.
+
+","Reviewed in the United States on November 13, 2017"
+183,"
+Five Stars
+","
+
+  great service and products thanks
+
+","Reviewed in the United States on February 16, 2018"
+184,"
+Four Stars
+","
+
+  Still running smoothly
+
+","Reviewed in the United States on October 7, 2017"
+185,"
+Very good
+","
+
+  Great product of to 3.8 with ease
+
+","Reviewed in the United States on March 9, 2018"
+186,"
+Good value for your money
+","
+
+  This is a good entry level gaming cpu.
+
+","Reviewed in the United States on February 11, 2018"
+187,"
+It could take a long time
+","
+
+  It is a good thing but is you got it during coronavirus it takes three months
+
+","Reviewed in the United States on July 25, 2019"
+188,"
+Four Stars
+","
+
+  Everything is good, but not with led cooler. The cooler is with out LED
+
+","Reviewed in the United States on October 7, 2018"
+189,"
+Five Stars
+","
+
+  Good product fr basic computing and entry level gaming.
+
+","Reviewed in the United States on May 8, 2020"
+190,"
+Five Stars
+","
+
+  Easy installation and works perfectly with my 1060 3gb
+
+","Reviewed in the United States on December 2, 2017"
+191,"
+Working good
+","
+
+  Working nice
+
+","Reviewed in the United States on May 23, 2019"
+192,"
+not bad
+","
+
+  good processor but felt a little on the high for price
+
+","Reviewed in the United States on January 16, 2018"
+193,"
+Good for gaming
+","
+
+  Great for gaming. Not for streaming. Or editing
+
+","Reviewed in the United States on December 23, 2019"
+194,"
+best for the price
+","
+
+  Great for gamers that want to build they're first system on the cheap with great frame-rates.
+
+","Reviewed in the United States on October 23, 2018"
+195,"
+Great CPU for the price
+","
+
+  This CPU works perfectly for my little brother's gaming computer
+
+","Reviewed in the United States on September 7, 2018"
+196,"
+So far so good!
+","
+
+  Product came quickly and is totally as described.Installed with no problems and everything is working fine.
+
+","Reviewed in the United States on May 19, 2019"
+197,"
+Goody
+","
+
+  Good for it's price
+
+","Reviewed in the United States on May 14, 2020"
+198,"
+Great company and products with an awesome platform!
+","
+
+  AMD gave me just what I needed, as usual. But Ryzen and Threadripper have changed the game forever. The gauntlet has been thrown down! Now, other hardware and software companies need to get on board. Just as Linux is growing by leaps and bounds, so is AMD! It WILL continue to get better and I fully support and endorse the likes of Linux and AMD along with browsers like Vivaldi to make things great for users in computing!
+
+","Reviewed in the United States on January 3, 2019"
+199,"
+YES!!!
+","
+
+  Works good for beginning PC builds.
+
+","Reviewed in the United States on July 16, 2020"
+200,"
+Great for the money
+","
+
+  Great CPU for the money, I really reccomend this if you're doing a budget build on a PC
+
+","Reviewed in the United States on December 2, 2017"
+201,"
+Works as Expected good budget quad core
+","
+
+  Works as Expected good budget quad core. my only issue was the stock cpu fan wasn’t being detected by my motherboard but that’s probably not a cpu issue so i won’t take a star off for that.
+
+","Reviewed in the United States on May 23, 2019"
+202,"
+Five Stars
+","
+
+  It is what we expected.
+
+","Reviewed in the United States on September 21, 2019"
+203,"
+Good for the price.
+","
+
+  Good CPU for the price. Easy to install.
+
+","Reviewed in the United States on January 17, 2018"
+204,"
+Ryzen
+","
+
+  Quality
+
+","Reviewed in the United States on June 25, 2018"
+205,"
+great for overclocking
+","
+
+  Great cpu, OC @ 3.8 GHz on stock heatsink. No problems
+
+","Reviewed in the United States on January 31, 2020"
+206,"
+Bang for your Buck
+","
+
+  Great Cpu for the money. Used to have a cheap dual core that sucked but upgraded to this in runs every game way better.
+
+","Reviewed in the United States on January 17, 2018"
+207,"
+Great Value For Money
+","
+
+  I really like it, it goes great with my budget gaming build :)
+
+","Reviewed in the United States on July 11, 2018"
+208,"
+Nice entry LV CPU
+","
+
+  it's AMD so good bang for buck CPU you can look at it's specs and know you're limits
+
+","Reviewed in the United States on December 27, 2018"
+209,"
+Good for the price
+","
+
+  Works great easy to install
+
+","Reviewed in the United States on November 6, 2019"
+210,"
+Great CPU
+","
+
+  Best processor you could possibly get at this price point, stop reading reviews and just order it.
+
+","Reviewed in the United States on December 2, 2017"
+211,"
+Ehh
+","
+
+  Get a ryzen 5 instead it cant really play gta5 without 96%usage along with nothing in the background
+
+","Reviewed in the United States on May 23, 2019"
+212,"
+Five Stars
+","
+
+  Loved it
+
+","Reviewed in the United States on August 23, 2018"
+213,"
+exelente
+","
+
+  muy buen procesador
+
+","Reviewed in the United States on June 12, 2019"
+214,"
+Love it all beautiful performance and Beautiful stock fan and heatsinks.
+","
+
+  Does ryzen things. Ram compatibility is terrible right now. But that's should change soon.
+
+","Reviewed in the United States on January 10, 2018"
+215,"
+Five Stars
+","
+
+  L-o-v-i-n-g this processor so far.
+
+","Reviewed in the United States on July 17, 2019"
+216,"
+Nice
+","
+
+  home
+
+","Reviewed in the United States on November 21, 2017"
+217,"
+It meant for computers....Right :/
+","
+
+  I had to return this it would of made a good heater
+
+","Reviewed in the United States on February 3, 2018"
+218,"
+Fantastic CPU!
+","
+
+  Not much to say other than it works and does its job great. The only problem I have is with the included cooler. I noticed a ticking noise in my computer and believe it is being caused by it. There are no cables touching any of the fan blades and the noise comes and goes. I believe it's the cooler because it is the only smart fan that is in my computer and would explain why the noise isn't constant because it would only happen when the fan is spinning fast. This is fine though because I plan to get a new cooler down the line.
+
+","Reviewed in the United States on May 3, 2019"
+219,"
+Great performer for 1080p gaming
+","
+
+  This processor is a fantastic purchase for the rig that I built late last year. It pairs perfectly with a GTX 770.
+
+","Reviewed in the United States on July 3, 2018"
+220,"
+over clocks like hell I got mine to 3
+","
+
+  over clocks like hell I got mine to 3.8. I had a issue at first but was easily fixed with a bios update.
+
+","Reviewed in the United States on December 2, 2017"
+221,"
+Good
+","
+
+  Good
+
+","Reviewed in the United States on May 23, 2019"
+222,"
+Five Stars
+","
+
+  Great performance for price
+
+","Reviewed in the United States on March 12, 2018"
+223,"
+Great cpu
+","
+
+  Good processor for entry level gaming
+
+","Reviewed in the United States on January 2, 2020"
+224,"
+Great quad core processor
+","
+
+  Great quad core processor, paired with MSI b350m mortar, OC'd with stock cooler to 3.9GHz @ 1.29v. Handles daily task easily and multitasking is smooth (10 chrome tabs, music, little RTS game, and netflix)
+
+","Reviewed in the United States on March 15, 2018"
+225,"
+... when I expected it to and has been working great so far
+","
+
+  Came when I expected it to and has been working great so far.
+
+","Reviewed in the United States on December 16, 2019"
+226,"
+Got it
+","
+
+  Got it and that’s what counts. When my ram and motherboard arrives I will update to 5 seeing that all goes well.
+
+","Reviewed in the United States on December 23, 2017"
+227,"
+Excellent CPU. Zero issues so far
+","
+
+  Excellent CPU. Zero issues so far. Easy to overclock, but haven't had the need to yet. Stock fan is nearly silent.
+
+","Reviewed in the United States on January 10, 2018"
+228,"
+Perfect condition
+","
+
+  Item arrived fast and was securely padded. The item runs perfectly and I would recommend this purchase  to a friend.
+
+","Reviewed in the United States on May 6, 2018"
+229,"
+I love this processor.
+","
+
+  Works like a charm.
+
+","Reviewed in the United States on November 6, 2017"
+230,"
+Five Stars
+","
+
+  Great processor. Hit 4.015GHz with stock cooler.
+
+","Reviewed in the United States on December 2, 2017"
+231,"
+Five Stars
+","
+
+  Very good performance for such a cheap cpu. No complaints
+
+","Reviewed in the United States on May 23, 2019"
+232,"
+Great value
+","
+
+  Amazing for the price
+
+","Reviewed in the United States on November 16, 2017"
+233,"
+QUICK AND PAINLESS-JUST WHAT YOU NEED.
+","
+
+  IT ARRIVED 2 DAYS EARLY THEN WHEN IT ADVERTISED !!! WOOT WOOT!!
+
+","Reviewed in the United States on June 13, 2018"
+234,"
+Five Stars
+","
+
+  I got amazed by the performance of this processor comparing to what I have paid for it.
+
+","Reviewed in the United States on February 22, 2019"
+235,"
+Good for budget gaming,good 4 core processor that can handle most games well
+","
+
+  Got mine to 3.7ghz at good temps
+
+","Reviewed in the United States on May 16, 2018"
+236,"
+Five Stars
+","
+
+  grate I plaid minecrafft and got 60 fsp
+
+","Reviewed in the United States on October 1, 2017"
+237,"
+CPU+COOLER-COST= A GREAT CPU!!!!
+","
+
+  Great entry level CPU for Ryzen. a True quad core and quad thread cpu. All Ryzen cpus come unlocked so you are able to overclock them right out the box with the correct motherboard. If the fact that this cpu is unlocked and a true quad core then the fact that they include a good cpu fan should seal the deal for you. So you get the cpu and fan all for just over a hundred at the time of this review.
+
+","Reviewed in the United States on December 1, 2017"
+238,"
+Five Stars
+","
+
+  10/10 would buy again.
+
+","Reviewed in the United States on August 28, 2017"
+239,"
+Good
+","
+
+  Bought this to upgrade my home media / file share server.  Makes Serviio transcoding extra snappy!  65w TPD is also a plus.  Happy to NOT support Intel this time.  This chip is not ideal for every situation but suits my needs nicely.
+
+","Reviewed in the United States on January 13, 2018"
+240,"
+First PC build
+","
+
+  Works just fine
+
+","Reviewed in the United States on December 2, 2017"
+241,"
+Sweet little CPU.
+","
+
+  Really nice CPU for the price. for four cores it's impressive what AMD is doing. IMO it's worth buying one of these and a B350 motherboard to overclock it past what you would get out of box with a 1300X. If you have no interest or just don't know hoe to overclock just go for the 1300X for the extra performance.
+
+","Reviewed in the United States on May 23, 2019"
+242,"
+nice
+","
+
+  Very good processor for it's price and comes with nice packaging and a free cooler!
+
+","Reviewed in the United States on July 2, 2018"
+243,"
+Five Stars
+","
+
+  Great processor for the value
+
+","Reviewed in the United States on October 27, 2017"
+244,"
+Ideal for the application.
+","
+
+  Installed easily and works perfectly.
+
+","Reviewed in the United States on February 6, 2018"
+245,"
+Excellent, just bear in mind...
+","
+
+  Please read before, this Cpu does NOT have integrated graphics. Doesn't matter to me because i bought a GPU as well, but someone else may not be as fortunate. I than that... Awesome
+
+","Reviewed in the United States on March 27, 2018"
+246,"
+Great and depressing story
+","
+
+  got so excited when i got it. built my first computer and then........ the motherboard is defective. but the results on youtube can clearly tell me its a great CPU and my friend owns one and he tells me it can kick the Pentiums butt, even the i5's (if OC correctly)
+
+","Reviewed in the United States on January 28, 2018"
+247,"
+Won the silicon lottery, got almost 4Ghz stable
+","
+
+  Won the silicon lottery on this one, got it overclocked to 3.95Ghz stable in gaming, rendering and other applications that are workload inducing.Performs fantastically in situations like blender, it doesn't bottleneck the dual GPU setup that I have for rendering.
+
+","Reviewed in the United States on October 27, 2017"
+248,"
+Oustanding
+","
+
+  So far my absolute favorite processor. I does everything I ask and more (as a gamer at least). I'm able to overclock mine to 4.2 ghz at max safe voltages
+
+","Reviewed in the United States on September 9, 2017"
+249,"
+Doa
+","
+
+  Doa
+
+","Reviewed in the United States on January 29, 2018"
+250,"
+good budget cpu
+","
+
+  This cpu is great for the price a good cpu for a budget gaming rig or for minor editing
+
+","Reviewed in the United States on December 2, 2017"
+251,"
+Five Stars
+","
+
+  exactly as described.
+
+","Reviewed in the United States on May 23, 2019"
+252,"
+Even setting it to 37 GHz needed more voltage than I was comfortable giving it
+","
+
+  Got unlucky. Even setting it to 37 GHz needed more voltage than I was comfortable giving it.
+
+","Reviewed in the United States on December 16, 2017"
+253,"
+Ryzen!
+","
+
+  1st time purchasing an AMD cpu worked out great for a budget pc I built for friend
+
+","Reviewed in the United States on October 29, 2017"
+254,"
+Five Stars
+","
+
+  So far it's running fine. The cooler is nice and big.
+
+","Reviewed in the United States on November 6, 2017"
+255,"
+Good CPU
+","
+
+  Great starter CPU till I can get a 7
+
+","Reviewed in the United States on October 6, 2017"
+256,"
+Five Stars
+","
+
+  fast speed and is easy to set install
+
+","Reviewed in the United States on November 6, 2017"
+257,"
+Excellent
+","
+
+  One of the best buy's I ever had
+
+","Reviewed in the United States on November 15, 2017"
+258,"
+This thing is great. Love it
+","
+
+  WOW AMD.  JUST WOW.  Built a rig for my friends sons Christmas.  This thing is great.  Love it.
+
+","Reviewed in the United States on October 22, 2017"
+259,"
+bad ass lil chip
+","
+
+  kicks ass in pbug day z ext
+
+","Reviewed in the United States on October 10, 2017"
+260,"
+Four Stars
+","
+
+  Runs all the games I have fine. Stutters a bit but is definitely not a bottleneck.
+
+","Reviewed in the United States on December 2, 2017"
+261,"
+Trashed
+","
+
+  I'm pretty sure I ordered a NEW processor. What I got was a trashed and used piece of junk. The proof was that when I opened it there was old thermal paste on the cpu dried and cracked and pins in the corners were completely bent. Needless to say I'm pretty pissed.
+
+","Reviewed in the United States on May 23, 2019"
+262,"
+Arrived Bended
+","
+
+  Arrived Bended
+
+","Reviewed in the United States on November 23, 2017"
+263,"
+Dont buy
+","
+
+  Came dead on arrival.  Thanks for a broken part
+
+","Reviewed in the United States on April 5, 2018"
+264,"
+Short screw
+","
+
+  I cant even get the screws to fit to put it on the motherboard. Someone help me
+
+","Reviewed in the United States on June 2, 2018"
+265,"
+This world is full of low IQ people
+","
+
+  I made this review to counter the clown who wrote ""I get it, this is budget friendly, but the ryzen 5 1400 is only $50 more and you get way better performance. I've tested all of the ryzens out and I must say that the ryzen 5 1400 gives you the most bang for your low buck. Don't get this, get the ryzen 5 1400, ryzen 3 should not exist.""Obviously the Ryzen 5s are more expensive and the Ryzen 3s are here to complete against the Intel i3 processors.  A ridiculous review as the one mentioned above was written by a complete clown, is a waste of everyone's time and prevents real customers from purchasing products they normally otherwise would.
+
+","Reviewed in the United States on May 20, 2018"
+266,"
+I received this product about two weeks ago and installed ...
+","
+
+  I received this product about two weeks ago and installed my last computer piece only to find that the CPU is defective.
+
+","Reviewed in the United States on December 23, 2017"
+267,"
+The 1200 is a decent performer.
+","
+
+  I decided to upgrade my FX 6300 since it was showing it's age, especially in Destiny 2. Since there's a refresh coming to the Ryzen line next year I went with the mid-range Asus ROG Strix B350 motherboard, a higher-end G.Skill XFlare 16GB DDR4 3200 kit, and a budget CPU to hold me over. That's where the Ryzen 3 1200 comes into the picture. I'm still using my Asus Strix R9 390 for a GPU, as it's a fairly solid performer. A Vega 56 is in my future, though.I decided to do some overclocking with the chip and pushed it to 3.8GHz. I hit a voltage wall after 3.8 and didn't manage to push it any further under the safe maximum of 1.4v, as per AMD's recommendation. Still, 700MHz over stock on a budget chip isn't bad, especially using the stock cooler.The 1200 is a decent performer. In the EDZ, a part of Destiny 2 with areas that have really poor optimization, the 6300 was choking and dropping my framerate as low as the mid-20s. That's even on low settings. It was only in certain spots, but it still made the game feel like a slide show in those areas. The lowest dips I see now in those same areas are the mid-40s with medium settings. It's still not ideal, but it's a hell of a lot better than it was. It's important to note that my framerate is now 90+ everywhere else in the game, including Crucible and Strikes. This is just a couple areas where I notice some serious bottlenecking at the CPU. It's interesting to note that in those same areas my GPU usage drops very low, so it's just the CPU at fault for the slowdown.I did try a few other games with it, but they mostly didn't show significant improvement since they were older titles and I cap my framerate at 142 through the driver. Doom with Vulkan floored me, though. It's gorgeous, and I can run it at max settings with a framerate over 100fps. That's pretty impressive from a budget CPU.I'd strongly recommend that anyone looking at a Ryzen chip for gaming go with at least the 1600, especially if you're interested in playing Destiny 2, or other newer titles. Benchmarks indicate that the 1600X posts around 20fps higher than the 1200 in D2 on the bottom end, and even more on average.  If you're mostly interested in older titles, or if you're just building a budget PC, this chip is a great choice. I'm happy with what I got for the time being, but I'm looking forward to the next generation of Ryzen to go with a higher core-count CPU.EDIT: I've done some experimenting with several older titles and noticed improved performance over the 6300. However, other newer titles also choke this CPU. I picked up Space Hulk: Deathwing, and I have the same issue with it that I have with Destiny 2: sporadic framerate dips with 0 GPU usage because the CPU just can't draw a frame fast enough. If you're building a Ryzen system and you're looking to game, spend the extra $100-200 and get either the 1600X or 1700. It's a lot more future proof.
+
+","Reviewed in the United States on August 6, 2017"
+268,"
+One Star
+","
+
+  Just built my computer, and the CPU cooler is not working right out of the box.
+
+","Reviewed in the United States on February 16, 2018"
+269,"
+Best Performance for the Price
+","
+
+  This little processor is definitely a bang for for your buckI see this CPU as the starter to go to, if not go for the Ryzen 3 1300x as you’d get a bit more power for just 20 dollars more, and trust me this processor could use a bit more power so you wouldn’t be missing out if you went ahead with the 1300xBut what you’re getting with the 1200 is not only the power needed to play some great games, but you’re also getting a processor that frankly in my experience, doesn’t have any issues with heat unless there’s something technically wrong underneath, and not to mention this is only around 100 dollars??100 dollars?? Next to a 60 dollar case, 250Dollar GPU, 80 dollar PSU, and various technical things like fans and ram, this is definitely a budget friendly CPU that gets you into that pc market. Just don’t expect to play anything too physically demanding.On BeamNG drive I can spawn about 4 vehicles before frames start to dive.Stormworks can play on low settings relatively well as of writing this review!And while I’ve seen reviews stating this processor can 60fps GTA 5, I’m here to say in my experience it doesn’t, it’ll get around 40-50 in city. Maybe 60 out of the city with minimal chaos, and that’s on medium graphic settings which kinda bummed me out a bit as I had read this processor could do well on there, however my gpu could be to blame.ANYWAY, I think this CPU is the perfect price for the performance, it’s also overclockable however I have not done so myself as my motherboard doesn’t support it.Be wise in pairing this with a good GPU as the processor is definitely weak without one to help back it up.
+
+","Reviewed in the United States on December 13, 2017"
+270,"
+Its pointless buying a cpu more expensive than this if you will do gaming at a 60hz monitor
+","
+
+  extremely fast considering how much you paid for, im actually using this with a gtx 1080ti since i wanted to know how far could this go comparing to a skylake i5, my 1080ti its running at 70-80 percent in most games without maxing out the anti aliasing, with games with super sampling anti aliasing you can use the 1080ti at 100% even with overclock, you will play virtually all titles at 60 frames per second no matter the resolution, since the resolution only taxes the gpu, the only two game that couldnt run at 60hz stable was Rise of the tomb rider in geothermal valley, and the evil within 2 in some scenes, the rest of games like crysis 3, the witcher 3, PUBG, etc, runs perfect. The only complain was the memory compatibility, its a pain in the ass if you dont have enoght knowledge about overclock and timings, sometimes you hare using it at 2933mhz for 1 week and suddenly its not stable anymore, sometimes it doent recognize the dual channel, it appears the two sticks in the bios but in the system appears like “system memory reserved” one of tour entire stick of ram.
+
+","Reviewed in the United States on December 2, 2017"
+271,"
+Best Budget CPU
+","
+
+  Knowing me and my salary- I always go for the cheapest option. Now let me tell you something before you decide to purchase this CPU. The Ryzen 1200 is overall an excellent budget gaming Processor that everyone with a small budget can enjoy. But don’t expect much from the Ryzen 1200. She may be powerful but she can’t win every fight. Of course, there’s the option to OverClock which I recommend. But don’t be dumb and push it pass 3.5GHz unless you have an aftermarket CPU cooler. So, do I recommend buying this for your future rig? Of course. If you’re on a budget. But if I were you I would save an extra $50 to get the Ryzen 1600.
+
+","Reviewed in the United States on May 23, 2019"
+272,"
+This CPU rocks!
+","
+
+  I'm definitely happy with this CPU. I have it rocking a 3.7 Overclock on the stock cooler, and paired with ma 3gb GTX1060, and my oh my, I'm getting 110~ fps in Overwatch completely maxed out. Video editing has also been a breeze with this CPU, if you're on a budget I'd totally recommend getting this CPU, however, the prices for Ryzen CPU are dropping significantly if you move up the ladder. You might be lucky to find a R5-1600 for 179.99. (Current MicroCenter Pricing)
+
+","Reviewed in the United States on April 5, 2018"
+273,"
+Nice budget product for gaming
+","
+
+  Use on a xmas build for my nephew; paired with an Asrock AB350, no issue at all.  Was easy to overclock to 3.8 on first try.  Would highly recommend for a budget gaming build.
+
+","Reviewed in the United States on January 2, 2020"
+274,"
+Cheap, Unlocked, 4 cores for the price of 2
+","
+
+  PROSUnlocked (all of the new AMD CPU's can be overclocked w/o paying a price premium, compared to intel which makes you pay more for them to not lock your CPU)Included Heatsink is very good, on top of the CPU running cooler due to AMD not cheaping out on the IHS TIM like Intel.4 cores for the price of 2  (Intel chips at this price bracket only have 2 cores)
+
+","Reviewed in the United States on August 4, 2017"
+275,"
+Don’t waste your money.
+","
+
+  Giving one star because I can’t give it less... bought this, it was defective. Returned and received a new one. Again defective. Will be ordering a different product from somewhere else.
+
+","Reviewed in the United States on January 1, 2018"
+276,"
+After reading and watching at least 10 reviews, I've ...
+","
+
+  After reading and watching at least 10 reviews, I've decided to buy one of these, once overclocked, you're getting near enough i5 7500 and i5 7400 beating performance for $110, what a bargain that really is.
+
+","Reviewed in the United States on October 9, 2017"
+277,"
+Best $100 processor on the market
+","
+
+  Great! I love it. Ryzen 3 1200 can't be beaten for the price. I have mine overclocked to 3.5 and it's working just as good as the i5 in my previous PC.
+
+","Reviewed in the United States on October 1, 2017"
+278,"
+Great for budget vr.
+","
+
+  This thing kicks the i3 7100s ass. not only do you get 4 cores and 4 threads, it also comes unlocked. I would recommend purchasing a asrock b350 motherboard for 60 dollars than a a320 motherboard for the same price.
+
+","Reviewed in the United States on July 28, 2017"
+279,"
+To the guy who said the 3 should not exist
+","
+
+  The 3 js there for people on a budget and who dont game that much, the casual gamer, thats why builds with the ryzen 3 are often paired with the. GTX 1050 TiThe ryzen processors are designed to hit a different market, the 7 is for serious hobbyists or esports, the 5 is for semi serious users, and the 3 here is for people who are just getting their feet wet in PC Gaming and the casual PC Gamer who doesnt play that much
+
+","Reviewed in the United States on September 24, 2017"
+280,"
+Five Stars
+","
+
+  a solid 4 core cpu for a 100$
+
+","Reviewed in the United States on December 2, 2017"
+281,"
+Ryzen 3 is a perfect CPU for people who do casual gaming
+","
+
+  I have always used Intel CPUs, but it is time to give AMD a try. As a computer enthusiast I have to say, Ryzen 3 is a perfect CPU for people who do casual gaming. If you want a decent PC at roughly 400-500 USD, this is perfect.  This CPU can handle games such as LoL, Dota 2, Overwatch, and more with little ease. Definitely also consider 1300X, it is only 20 USD more.
+
+","Reviewed in the United States on May 23, 2019"
+282,"
+Doubled my frame rates!
+","
+
+  I replaced my Intel i5 with the Ryzen 3 and new mb and my 3D real-time rendering speed more than doubled across the board with my old R9 290, which is still performing great. Can't wait to get my hands on a Vega card, its going to be phenomenal!
+
+","Reviewed in the United States on August 10, 2017"
+283,"
+In a pinch, it'll beat an i3.
+","
+
+  But maybe get an R5.
+
+","Reviewed in the United States on July 29, 2017"
+284,"
+Great compared to Intel i3
+","
+
+  The bang for the buck compared to the intel i3s are really good it even compares with some intel  i5s, great product AND!
+
+","Reviewed in the United States on August 4, 2017"
+285,"
+A strong, solid budget CPU
+","
+
+  The Ryzen 3 1200 is a great budget cpu. It's a very solid choice compared to what Intel's offering. AMD allows overclocking out of the box so you can easily buy this cpu and overclock it to get the performance of a Ryzen 3 1300X cpu, saving yourself $20.
+
+","Reviewed in the United States on July 29, 2017"
+286,"
+I love what AMD has done with the hole ryzen lineup
+","
+
+  I love what AMD has done with the whole ryzen lineup, great value and great performance for different purposes all the way from the ryzen3 processors to the ryzen7 cpus. Thumbs up from me :)
+
+","Reviewed in the United States on July 27, 2017"
+287,"
+Feels like stealing from amd
+","
+
+  Cheap, powerful. Chances are, you already know the specs and benchmarks. This processor is a 4 core beast that plays damn near everything. Bottlenecks gpus above rx 590 and gtx 1060.Perfect budget CPU with no onboard graphics.
+
+","Reviewed in the United States on July 27, 2017"
+288,"
+Supplied CPU cooler uses 4-point mount
+","
+
+  Pro: Great entry level gaming CPU. Con: Wraith cooler requires 4-point mount on the heat sink bracket. Won’t work with a clip style heat sink mount. I had to use motherboard brass stand offs to connect the two
+
+","Reviewed in the United States on July 28, 2017"
+289,"
+Runs great in my home file server.
+","
+
+  I did not get this for gaming. I installed it into my home file server build running Windows Server 2016. It does the job.
+
+","Reviewed in the United States on May 22, 2019"
+290,"
+Great value processor
+","
+
+  Great value processor. Don't really think this one is for a real gamer but I'm not a gamer so I can't comment. Easy install for a nice build for my 12 year old daughter. Would buy again.
+
+","Reviewed in the United States on December 2, 2017"
