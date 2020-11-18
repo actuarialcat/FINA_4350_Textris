@@ -19,9 +19,9 @@ headers = {
     }
 
 cookies = {
-    'session-id':'147-4062624-5350659',
-    'session-id-time':'2082787201l',
-    'session-token':'+eCzOm6/h2QlKf/brV9qONpNL2Lv80vX6jgxyMkZw2jyU30GeP0uktPT/qYl3ZFQUyipt3oZG7axynd77R/zrIEPca6YMnv5Af8/VYj6tpaQqgLGhLHNg8P15lK0dOE/ecinAF2+1Fovbb86iCQ7azfqzoXgK2eHKq9QEu2n/JcXmQJ4RxPLmwARtp2HHu+W'
+    'session-id':'',
+    'session-id-time':'',
+    'session-token':''
 }
 f = open("CPU_ASIN.txt", "r")
 for line in f:
