@@ -17,7 +17,7 @@ import json
 ###################################################
 # Global Param
 
-OUTPUT_PATH = "AMD/"
+OUTPUT_PATH = "AMD_raw_data/"
 OUTPUT_FILENAME_PREFIX = "web_data_"
 
 REQUEST_LIMIT = 100
@@ -87,6 +87,8 @@ def get_comments_limit(post_id, start = 0):
         success = True
         try:
             response = requests.get(url, timeout = 10)
+        except KeyboardInterrupt:
+            raise
         except requests.ReadTimeout:
             success = False
             print("Timeout: Retrying")
@@ -97,6 +99,8 @@ def get_comments_limit(post_id, start = 0):
             
         try:
             resp_json = response.json()
+        except KeyboardInterrupt:
+            raise
         except:
             success = False
             print("Input error: Retrying")
@@ -141,6 +145,8 @@ def extract_comments(post):
     for record in post:
         try:
             record["comments"] = get_comments_all(record["id"])
+        except KeyboardInterrupt:
+            raise
         except:
             record["comments"] = []
         
@@ -179,14 +185,14 @@ def extract_month(subreddit, year, month, with_comments = False):
     
     
 def extract_year(subreddit, st_year, st_month, end_year, end_month, with_comments = False):
-    while st_year < end_year or (st_year == end_year and st_month <= end_month):
-        extract_month(subreddit, st_year, st_month, with_comments)
+    while st_year < end_year or (st_year == end_year and st_month <= end_year):
+        extract_month(subreddit, end_year, end_month, with_comments)
         
-        if (st_month == 12):
-            st_month = 1
-            st_year = st_year + 1
+        if (end_month == 1):
+            end_month = 12
+            end_year = end_year - 1
         else:
-            st_month = st_month + 1
+            end_month = end_month - 1
             
             
     
@@ -212,7 +218,7 @@ def output_json(data, filename):
 subreddit = "amd"     #starting from 2011-01
 #subreddit = "amd" 
 
-extract_year(subreddit, 2011, 1, 2020, 9, False)
+extract_year(subreddit, 2011, 1, 2020, 9, True)
 
 
 #%%
