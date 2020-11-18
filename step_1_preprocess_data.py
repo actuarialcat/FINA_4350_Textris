@@ -17,7 +17,7 @@ from pathlib import Path
 ###################################################
 # Global Param
 
-OUTPUT_PATH_JSON = "data_test/"
+OUTPUT_PATH_JSON = "intel_raw_data/"
 OUTPUT_PATH_CSV = "clean_data/"
 OUTPUT_FILENAME_PREFIX = "web_data_"
 
@@ -71,10 +71,13 @@ def format_comments(comments):
 def format_submission(data):
     """Normalize data into tables"""
 
+    if len(data) == 0:
+        return pd.DataFrame()
+
     raw_df = pd.json_normalize(data)
     
     raw_df["comm_text"], raw_df["last_utc"] = zip(*raw_df["comments"].map(format_comments))
-    raw_df["sub_text"] = raw_df[["title", "selftext"]].apply(lambda x: "\n".join(x), 1)
+    raw_df["sub_text"] = raw_df[["title", "selftext"]].fillna('').apply(lambda x: "\n".join(x), 1)
     
     raw_df["last_utc"] = raw_df[["created_utc", "last_utc"]].apply(lambda x: max(x), 1)
     raw_df["created"] = raw_df["created_utc"].map(lambda x: datetime.datetime.fromtimestamp(x).strftime("%Y%m%d"))

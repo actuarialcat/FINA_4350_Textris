@@ -17,7 +17,7 @@ import json
 ###################################################
 # Global Param
 
-OUTPUT_PATH = "data_test/"
+OUTPUT_PATH = "AMD/"
 OUTPUT_FILENAME_PREFIX = "web_data_"
 
 REQUEST_LIMIT = 100
@@ -209,10 +209,10 @@ def output_json(data, filename):
 #%% ###################################################
 # Main
     
-subreddit = "intel"     #starting from 2011-01
+subreddit = "amd"     #starting from 2011-01
 #subreddit = "amd" 
 
-extract_year(subreddit, 2011, 1, 2020, 9, True)
+extract_year(subreddit, 2011, 1, 2020, 9, False)
 
 
 #%%
