@@ -1,0 +1,1825 @@
+,title,content,date
+0,"
+Review specifically for Linux OS and Ryzen 3/5 3200G/3400G users
+","
+
+  Just wanted to give a heads up to other Linux OS users.I built a system with a new ASUS Prime B450M-A motherboard, Ryzen 3 3200G, Crucial 3000 CL15 16GB DDR4 ram, a 120GB SSD and a Corsair 400W powering it all.As long as you stick to a Linux OS that has either specifically worked their OS to work with these newer chips (props to Ubuntu 18.04.3 LTS plus all 19* releases and Fedora 31 here), you will be ok.  Just know that (regrettably, AMD has forgotten who saved them years ago when the Intel assault was in full swing) you will not get support from AMD Linux-drivers-wise for these chips.  If you are aware of that, then you'll be good to go.  And know that these chips are not true AMD cpu 3000 releases; the true 3000 releases will come next summer).Using this chip, I watched an Ubuntu 18.04.3 LTS ISO boot straight up (on the ASUS Prime B450M-A mentioned above, I cannot speak about if this is so from other board manufacturers).  Same goes for Fedora 31.What wouldn't boot for me (without jumping thru hoops and rebuilding an ISO using a Linux kernel 5 or higher) were things like:  Linux Mint 19, OpenSUSE LEAP/Tumbleweed, Debian 10.1 Buster, MX-Linux 19 and a few others I tried.  They all fail to boot because most of them are still using kernels below 5).I put this new system in the living room, for the family & kids, and it has been enduring their abuse for the past few weeks without one hiccup (knock on wood, haha) or problem.  They use it for everything, from general web surfing, multi-purpose functions, to streaming Netflix, etc, etc.  I even used the included cooler and also convinced myself (as a test) to use the included paste it came with.  Honestly, so far,  I am still surprised at the normal temp range it has been easily running at no matter what they are doing.  Though if the gaming becomes heavy (its surprising what this chip will do FPS-wise, for 720P, it just rips thru everything like butter), I may swap the stock cooler out and install one of the bigger Thermaltake coolers I have (just to be safe).Hope this review helps anyone out there worried that this chip wouldn't run any Linux OS.  AMD needs to be slapped upside the head for last years Pinnacle Ridge debacle (which turned many, many Linux users off).  Thankfully, they've made a few strides with this 3200G/3400G releases, which is welcome.  Also note AMD is still telling all 300/400 series motherboard manufacturers to ""disable"" PCIe4 (AMD might deserve another slap upside the head for this).  If PCIe4 is important to you, wait for the true 3000 cpu(s) to be released next summer.Hope this review helps any Linux OS wonderers/users out there.
+
+","Reviewed in the United States on November 4, 2019"
+1,"
+Great budget CPU
+","
+
+  I built my wife a new computer to browse the web, maybe do some light gaming and to watch Netflix / Amazon Prime shows.  For this purpose, the computer is amazing.  I paired it up with a b450i motherboard (mini-itx), 16gb of ram, and a 1tb m.2 nvme drive all for about $430.  The pc turns on in seconds, and my wife can literally open like 50 tabs in Chrome and it barely even phases the computer.  Now we just need to find a cheap, tiny case to put it in... Right now it's in my old large tower and it looks ridiculous inside the case, because it's so tiny and there's no external hard drives / graphics cards, etc.I highly recommend this budget CPU.  I wouldn't bother with the Ryzen 2200g since it's only like $10 cheaper - I'd go with the 3200g for the faster speeds for only a $10 difference.  There is the headache of needing to update the bios, but I think eventually manufacturers will update the bios on other boards before sending them to Amazon, but only time will tell.
+
+","Reviewed in the United States on August 29, 2019"
+2,"
+Okay, its not a Bugatti Veyron
+","
+
+  I love AMD, they give you a lot of choice for the the type of build you're after.  I chose this APU because it fit the budget I was trying to achieve and it had the built in graphics I wanted.  Lets face it, are there better CPU's?  Sure there are, but  this one fit my needs.  I am on an AM4 platform and built the system around that.  I can easily upgrade if I feel this APU isn't getting the job done, and do it at minimal cost.  I can re-use this APU to start another budget build later.  To be quite honest I have no issues at all with this current setup. This is a general purpose computer that performs very well and cost me under $450.00 dollars.Update:  I have used the APU for over six months now and it's been flawless.  I did add a graphics card, I went with an RX580 8Gig which absolutely took it a new level.  It increased the overall cost of my build to just under $650.00 but for me, I think it was worth it.  So, long story short, if you're after a budget build and you like AMD, this is the APU you want.
+
+","Reviewed in the United States on November 4, 2019"
+3,"
+Upgraded the kids PC!
+","
+
+  I replaced the kids Core i5-2500k to a 3rd Gen Ryzen, Cooler Master MasterAir G100M RGB, Gigabyte B450 AORUS M, Thermaltake ToughPower 750W 80+ Gold, Crucial Ballistix Sport LT 2666 MHz DDR4 for less than $400.  He's sitting pretty, with a tempered glass side panel case!
+
+","Reviewed in the United States on August 28, 2019"
+4,"
+Worth it, but buy a better GPU to accompany it.
+","
+
+  I’ve always been a fan of AMD for gaming. This is a great processor to buy, especially if you’re on a budget. I did have some issues opening some games, so the GPU integrated in it isn’t quite worth it. I ended up upgrading to a 1060 GPU , now my games run incredibly smooth. Which is a major surprise with how cheap I did my PC build.My recommendation, this Processor works best with a better upgraded GPU. I’m able to run rather recent games on high graphics and still get 60FPS. I haven’t had a game that drops down in frames yet.
+
+","Reviewed in the United States on September 17, 2019"
+5,"
+Good choice
+","
+
+  After extensive research, I selected the Ryzen 3 3200g for my CPU.  Because I only recently installed it, I can’t predict whether it will live up to its reputation of excellence. However, with its stock cooler, it was easy to install. The fan does run a bit louder than I would have preferred but I could easily swap it for a custom cooler if I wanted to. However, because everything is running smoothly, I plan on leaving it the way it is. (""If it ain't broke, don't fix it"")  I’m anticipating this Ryzen will be even more efficient than my older AMD CPU’s that I have used in the past. AMD’s technicians are courteous, knowledgeable, and easy to reach.  Thank you!.
+
+","Reviewed in the United States on August 28, 2019"
+6,"
+Great for general use, even if a bit older.
+","
+
+  this is a capable chip and a very nice upgrade over the computers we had in our office previously, but if you are looking into gaming and/or streaming I would definitely get a Ryzen 5 or Ryzen 7 depending on the price at the time.I paired this with an rx570 and 16gb ddr4 ram @2666mhz and was able to get a pretty decent average performance in things like Photoshop, Lightroom, Aurora, Luminar, and MS Office. Retro gaming and lower-end new games would run on this as well, but if gaming is your main focus, save yourself some headache later by going ahead with getting the R5 or R7.
+
+","Reviewed in the United States on October 21, 2019"
+7,"
+Amazing APU !
+","
+
+
+  Your browser does not support HTML5 video.
+
+
+   I'm building several computers to use in my dental practice and I wanted something compact yet powerful for running dental imaging software, web browsing, YouTube and practice management software. My goal was not to build a high-end gaming rig. This computer is not for overclocking either. If you want a gaming rig go build one. If you need something that runs everyday work continue reading. Also, I'm AMD fan.BUILD SETUP:1. AMD Ryzen 3 3200G with Radeon Graphics APU (4 core CPU with Radeon Graphics). 65 W TDP and max temp 95 C. ($91.95).2. Gigabyte B450 I AORUS PRO WIFI (AMD Ryzen AM4/M.2 Thermal Guard with Onboard Wifi/HDMI/DP/USB 3.1 Gen 2/Mini ITX/Motherboard) ($141.12).3. Sabrent 256GB Rocket NVMe PCIe M.2 2280 Internal SSD High Performance Solid State Drive (SB-ROCKET-256)  ($46.99)4. Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz C16 Desktop Memory Kit - Black (CMK16GX4M2B3200C16),Vengeance LPX Black ($73.99)5. Logitech MK270 Wireless Keyboard and Mouse Combo - Keyboard and Mouse Included, 2.4GHz Dropout-Free Connection, Long Battery Life (Frustration-Free Packaging) ($20.99)6. InWin Chopin SECC Mini-ITX Tower Case 150W Power Supply with 4 colors stickers inside, Black Aluminum  ($90.34)7. 24"" DisplayPROS:1. The case has an amazing build quality. It feels premium with the black aluminum material. High quality finish and sturdy.2. Small form factor. Quite portable.3. AMD Ryzen 3 3200G is quite powerful for everything you throw at it. The nice part is that it has a built-in Radeon GPU so you can use the motherboard display out to power your displays. It supports 4K. It has 2 HDMI and 1 Display Port!4. Sabrent NVME is incredible. Windows 10 boots in 10-12 sec! Price is unbelievable.5. Built-in WiFi AC with antenna and Bluetooth 5.0. I love motherboards that have those!6. The case comes with 150 PSU. AMD with Radeon is max at 65 W so you wont be running the PSU at max. No noise from PSU and the CPU cooler fan is silent under normal operation.CONS:The case wont fit the AMD Wraith Silent cooler, without a slight modification.SOLUTION:It won't fit unless you remove the top bracket. Yes, it can fit!! It took me some time to figure it out and I wanted to share this with everyone. The stock AMD Wraith Silent cooler fits this case after you remove the top bracket from the fan. See pictures and video attached. The benefit is that you don't have to buy a separate cooler. I found that Noctua $39.90 is way too much to spend so that pushed me to figure out a solution.Plus the AMD cooler is bigger and since the fan is so close to the side panel. It will force air out of the case through the mesh.EXPERIENCE:Motherboard:The Gigabyte motherboard is incredible. The UEFI BIOS is graphics with mouse support. It came with latest BIOS revision 50 out of the box. Good job Gigabyte! (Hint: if you want to upgrade your BIOS do not do it from Windows. Always do it from the BIOS menu so no bricks). Windows 10 had no issues installing or running. All drivers installed without a problem. Radeon drivers worked out of the box. Also Miracast works on this APU with drivers 20.xx. I was able to wireless cast HDMI to a Anycast dongle and mirror my desktop.Boot time is 10-12 seconds! If your display is on standby and you push the power button by the time the monitor wakes up you're at Windows login screen. Unbelievable speed! WiFi and BT are great and coupled with 16 GB of RAM the GPU takes 2 GB and the rest is dedicated to Windows. Performance is great. It also supports Windows secure boot and other gems. Everything is so smooth.CPU Heat:Under idle conditions, the CPU temperature is around 28 C. With load you probably hit 40-50 C. I did not do extensive testing. Remember this is APU based on Zen+ architecture so it's not a 7nm APU. Hopefully, we get newer Zen 2 APUs from AMD. I love AMD !Overclocking:I do not do overclocking. My goal is usually to reduce power consumption if possible and have a quite system. The default AMD boost is way more than enough for my needs. I hate when people trash companies and motherboard because of VRM and such. If you want to overclock get a higher end and more expensive motherboard but let us enjoy those gems like the Gigabyte B450 I AORUS PRO WIFI.NOISE:Not so much. See the video. PSU does not make sound either. I tested it by unplugging the CPU fan to see. In fact that this case comes with PSU at this price is so cool. I wish more companies offer that.PERFORMANCE:If you need a computer that does everyday work you wont be disappointed. This setup is quite light and has AMD technologies. Thank you In Win Chopin for this wonderful case!
+
+","Reviewed in the United States on October 30, 2019"
+8,"
+great for a low cost system
+","
+
+  This is NOT the fastest CPU you can get, but integrated graphics and a quad core processor means you can get a decent system for less, and won't need to buy a graphics card to get running. It is not fast enough for high level gaming, but basic e-sports and older less intense games should work fine.  At the price, it can help you build a very decent system for less--and compared to intel offerings, at a considerable price savings.The only drawback--any separate dedicated graphics card is going to be faster than the vega 8 graphics....so do check your budget as picking up a ryzen 3 2600 with a low end graphics card is probably a lot faster.  But if you want to get a TINY system without room for a graphics card, recommend.The ryzen 5 3400g is quite a bit faster, but more expensive (and strangely out of stock).  At that price point, you do have to wonder about spending a bit more for a graphics card.
+
+","Reviewed in the United States on August 29, 2019"
+9,"
+Upgraded from AMD FX 6350 + GTX 970 Gold
+","
+
+  This was purchased for a mid performance secondary gaming PC for someone who does not need particularly high-end graphics and performance. Definitely better than most 2019 console's performance.Upgraded along with the MSI X570 Gaming Plus Motherboard from an AMD FX 6350 + GTX 970 Gold Edition, so performance took quite the jump. Especially for Monster Hunter World on medium to high with some tweaks.Based on the average bottleneck calculations, this Ryzen 3 3200G + GTX 970 are a great combination for better-than-console performance. With the Corsair Vengeance 8gb LPX RAM, this setup is quite decent for basic gaming without too much expectation for high fidelity gaming. Expecting to upgrade to 16GB if the need presents itself.Unfortunately, my first one was dead on arrival based on the motherboard diagnostics, and I noticed the second one had a circular spread for the stock fan thermal paste leading me to believe that the first one was not up to standard since it had thermal paste up to the corners of the plate leaving no allowance for the heat sink fins.On top of this, this build alone also had a defective first motherboard... Gosh... Which was totally dead. No power whatsoever. Connections, cables and psu were troubleshooted... The second one powered up though.
+
+","Reviewed in the United States on March 7, 2020"
+10,"
+Good Chip for Everyday Use
+","
+
+  I had planned my entire build but hadn’t purchased the CPU yet. I was settled on the Ryzen 5 1600 refreshed processor for $85. After waiting a few weeks I realized I have to get something else and can’t wait forever. So I decided to get this Ryzen 3 3200g which is also a good deal. I was very surprised by the performance of this processor. In fact I had already bought a dedicated graphics card because the Ryzen 5 didn’t have integrated graphics. I decided it wasn’t necessary for this because the integrated graphics performed very well (I returned it). Now I have experience with AMD and the A-series processers weren’t that great, but especially the integrated graphics on those chips were garbage. In fact a separate video card is a requirement because of how poor they performed. 4 cores 4 threads might seem futile when there are 8 core 16 threads as options (ryzen 7), but for a non gamer and especially if you are upgrading from an older system, you won’t be disappointed.
+
+","Reviewed in the United States on November 4, 2019"
+11,"
+Its so powerful, why do I need a Ryzen 5, 7, or 9 again?
+","
+
+  This CPU is a badass. I wasn't sure if I could use this for a game I was dying to play, Star Citizen. It's not under their recommended but meets minimum requirements. However, after overclocking to 3.8ghz with my ram at 2933mhz I can't say that I needed a higher core for it. It runs smooth, no lag, no stuttering with a crisp picture. It was a pain updating bios for the board to run but ill be adding a dedicated graphics card to elevate my online gaming library. You don't need a ryzen 5, 7, or 9 to have a great gaming experience but it stronger than the 2200G
+
+","Reviewed in the United States on August 29, 2019"
+12,"
+Faster than my 2018 Core i5
+","
+
+  When I got a laptop with a Core i5 in 2018, I was afraid it was going to be too slow.  But it was faster than any processor I had before.  That laptop motherboard (Dell) , however, failed and I decided to build a desktop so I'd have more control over the parts.  When I saw the Ryzen 3, I again was afraid it would be sub-par and slow.  It was faster than the 2018 i5.  It came with the thermopaste for the heatsink already applied on the heatsink.  Just snap it into place and Voila!  It works and works great.  I didn't rate this for gaming.  I do, however, open lots and lots of web pages at the same time and this processor handles everything without a lag or any problem of any kind.  I'll bet you this would be fine for a lot of gaming.  I have a pal who is a gamer and he has that same i5 I bought in 2018 - and this Ryzen 3 is much faster than that is.
+
+","Reviewed in the United States on May 31, 2020"
+13,"
+Good CPU for the Price
+","
+
+  Helped improve the FPS on games like world of warcraft and madden 20 that are more cpu dependent. It improved the frames per second by 40 or more. My main computer for about 5 years had an amd fx 8350. It was a good cpu for its time but needed a better cooler. My amd fx 8350 was always turbocharging itself ( overclocking ). The fan would make a lot of noise. It would sometimes overheat and shutdown. The only thing that kept it from doing this was this program called epu. EPU would turn the voltage down enough for it to quit turbocharging.With this new amd ryzen 3 3200G, I don't have this problem. I could not enjoy using linux on the amd fx 8350 because of the turbocharging and fan noise. Now I can use windows and linux without any fan noise and overcharging on the amd ryzen 3 3200G. It also has great performance.
+
+","Reviewed in the United States on February 16, 2020"
+14,"
+FAST FAST FAST RYZEN CPU!!
+","
+
+  Rosewill FBM-X1AMD Ryzen 3200GMSI A320-A PRO MAXG.Skill 16GB (2x8GB)Toshiba 512GB M.2 SSDLite-On CD/DVD-RWApveia Captain 470 wattSIDE NOTE: I didn’t need to update the BIOS for the CPU to work. It worked upon installing.The speed of this little processor and ability to keep up is very good especially for the price. I built this for a business client who works from home and she couldn’t be happier especially coming from an Intel Celeron and 2GB of memory.
+
+","Reviewed in the United States on March 18, 2020"
+15,"
+Good card for a workstation or light load gaming.
+","
+
+  It's a solid cpu for the price.  However the RX Vega 8 graphics left something to be desired for me.  The AM4 Ryzen 3 3200G is a solid about equivalent to an i7-4770.  It does overclock nicely.  With the IGX turned off and OC'd I run a steady base clock of 4.15 GHz around 36C with the stock Wraith stealth cooler.  Works great.  If you want(or need) on board graphics though the Ryzen 5 3400G with RX Vega 11 IGX (Integrated)  is the way to go for a mere $50 more.  A little higher boost freq of 4.2MHz not OC'd and it's pretty much good to go out of the box. For $100, the 3200G does a great job for an all around solution!  For about $160 you can be on your way to a new system!  $70 in 16GB ddr 3200.  $50 PS 600watt(overkill).  $50 m.2 Nvme 250GB drive and $60 for a case with fans...  that's < $400 for a new build...  Just sayin' :^)
+
+","Reviewed in the United States on April 26, 2020"
+16,"
+Excellent for budget gaming PCs
+","
+
+  I currently use Ryzen 7 with RTX 2080 gpu on my main gaming PC, and I bought this Ryzen 3 cpu specifically for my son's gaming PC.  At first I was skeptical if this might bottleneck on modern gaming titles, but I was surprised it held up pretty well.I partnered this cpu with some spare parts lying around, gpu is Radeon Vega 56, RAM is corsair vengeance 16GB dual  @3000MHz.  I didn't use any bench marking tools as they are not really exact representations of real world usage.  Instead, I just started playing some modern games including Destiny 2, COD MW, and Fortnite.  I was impressed that CPU usage was just averaging on 50% to 60% with some very rare occasional spikes.  So, I'm pretty confident that this will be sufficient for my son's gaming needs.  Even on his daily school work, this cpu is more than enough.  Now, if you are a creator that uses software that utilizes multi thread processing a lot like Adobe creative suites, Blender, CAD software, etc, then this CPU may not suite your needs and you may want to get something on the higher end.  Although this CPU can still work fine with those software, but the time to process specific tasks may take a little longer.If you will ask why I purchased this cpu that has integrated graphics instead of Ryzen 5 2600 for  20 dollars more?  Well, sometimes discreet GPUs will fail and I don't have spare anymore.  So, in case the GPU fails, we can still use the integrated graphics to cover some daily tasks like school work.Overall, I'm very happy with my decision to buy this.  Saved me some money and yet can still perform perfectly fine with modern gaming titles.
+
+","Reviewed in the United States on June 5, 2020"
+17,"
+Great Choice For Budget Builds
+","
+
+  (Not a pc genius but I know the basics so if you're like me or know absolutely nothing about computers, here ya go) If you are a gamer on a budget, this is a GREAT option. My budget was $450 and I kept the full cost of my pc to around $445. If you have a slightly higher budget/like $50 more to spend, I suggest getting the Ryzen 5 3400G but if you don't play super demanding games or you REALLY don't have the money to spare, the Ryzen 3 3200G is amazing. I paired it with 16gb dual channel ddr4 ram and a 1tb hard drive and it runs great. I tried out Minecraft with Optifine and shaders because it was the first game to get done downloading and I gotta say : coming from an old i5-2320 + 16b ddr3 + 500gb hard drive, this new setup blew me away. I went from 45-60fps base game to 60-150fps+ base game. 20-40fps with shaders to 45-120fps (depending on the shaderpack). With that in mind, games like Fortnite, Sims, CSGO, Valorant, Elder Scrolls Online, Conan Exiles, and anything else around that requirement level should run well at medium settings (or higher for games like Sims and CSGO) depending on any other components you pair with this apu. One of my favorite parts of owning this apu (or any apu in general) is that if you don't have the money for a cpu + gpu combo, just grab one of these and hold off on a gpu until you can afford it. If you do add in a graphics card later on though, the performance should REALLY improve (depending on the card you choose of course). The stock cooler that comes in the box isn't great but it should get the job done until you're able to upgrade. If you just do some web browsing, watching movies/videos, the occasional small game, etc, I think this will be great for you. If you're into slightly more demanding games but okay with not having the BEST graphics settings imaginable and you're happy with medium settings and playable frame rates/low settings and better framerates, I think you'll enjoy this. And if you are into more AAA titles but can't afford the specs to play them, I would still say go for the 3400G but this is a solid 2nd place/placeholder until you can afford better upgrades. After adding a (decent) graphics card, if you feel the need to upgrade from this apu, you can buy an actual cpu to go with your new gpu which will make for an even better gaming setup.Overall I think this is a great choice for budget/entry level pc builds if nothing but a placeholder, I can see myself using this for years to come, just research the spec requirements for the games you are going to be playing. Don't buy this expecting performance from the latest and greatest pc components that are double-triple the price and I think you'll be satisfied.⭐⭐⭐⭐
+
+","Reviewed in the United States on August 20, 2020"
+18,"
+Great value in a CPU
+","
+
+  This CPU was my first AMD purchase.  I purchased this and a MSI A320M-A Pro motherboard to upgrade an old HP slimline desktop that I owned.  I use my PC for general purposes, email, surfing the web and the occasional video.  This has been great for that as this was a huge upgrade over the dual core pentium that I replaced.  I have also been very satisfied with the built in GPU that is part of this.  Knowing that it have the built in GPU, I chose to put 16gb of RAM in my system so that the GPU can take it's 2GB leaving plenty for the OS.  Overall I am very happy with this purchase.
+
+","Reviewed in the United States on March 25, 2020"
+19,"
+A Work From Home Beast
+","
+
+  I would argue that the Ryzen 3200g is probably the best processor under $100 for a daily driver.  This processor will mostly be used for web browsing, watching videos and webinars, editing Google Docs, and video chatting with co-workers  It will do all of those things easily.  If you find yourself now working from home and your laptop is just too cramped, this is a good processor to build a work from home desktop.If you need more CPU, the Ryzen 1600AF is the same price and has 6 cores/12 threads.  But, that processor also requires a video card as there is no integrated graphics.  If you need to process video or would like to game, buy the 1600AF and a dedicated GPU.  The 3200g is enough for what I described, but it is not up for gaming or heavy processing workloads.The 3200g shines as a daily driver.  It will easily outpace almost all laptops and can be used in a machine to give the convenience of a desktop.  Perfect for the work from home crowd.If you found my review helpful, please press that button and consider following me for more tech reviews.
+
+","Reviewed in the United States on August 22, 2020"
+20,"
+Solid CPU!
+","
+
+  I ordered two of these, one for my Kids' new PC and one for a mini ITX build destined for emulation and couch coop gaming.On build #1:I have this running with 16GB 2400 MHz, and it's just perfect for what my kids are doing. They're using this to play Roblox and Minecraft primarily. I would recommend somewhere around 3000 MHz or greater if you're looking to utilize the Graphics on this CPU for more heavy lifting.Paired this with a Gigabyte GA-A320M-S2H - Board did not need to be flashed, it already had support for this CPU out of the box. Build is also running with Windows 10 Home.On build #2:I have this running with 8GB 2666 MHz, slightly less RAM desired but slightly more speed just because. This is running Ubuntu (with GUI) and is purpose built to display to a TV. It's been running RetroPie and is fully capable thus far of N64, Dreamcast, and PS2 emulation. Additionally, I've played around with some older/indie couch coop games utilizing Steam+Proton and it's been a blast.I paired this with MSI PERFORMANCE GAMING B450I GAMING PLUS (caps from copy and paste, sorry).Verdict?If you're looking for a super budget friendly CPU+GPU, buy this. It's a great product for a kids PC, great for a low needs PC, and just... I can't help but say I sort of love this thing.
+
+","Reviewed in the United States on November 4, 2019"
+21,"
+Good choice for a budget build
+","
+
+  I did my last build in 2012 and thought it was about time I upgraded one of my home desktops that is used principally for internet browsing, watching Amazon Prime and paying the bills online.  I don't have the least interest in 'gaming' (aka sitting on one's butt for hours or days at a time).I chose this processor mainly for the price.  It has 4 processor cores and can run 4 threads 'simultaneously'.  This is more than enough processing power for the uses mentioned above.Another significant reason was that it has integrated graphics.  This means that you don't have to buy a separate graphics card for your build which is at least a saving of %150.It comes with a heat sink which is more than adequate to cool the processor.  I have two other fans in my computer case and (so far) I have never seen my PC running hotter than 47 C.  Of course, I am not doing any heavy video editing or anything else that makes CPU usage go up to 100% on all cores.Please note that this processor uses an AMD AM4 socket.  Remember this when choosing your motherboard!The performance on most of the applications listed above is great. Windows 10 boots up in just a few seconds.  (Of course, this is partly due to using NVMe storage.  I highly recommend this at least for installing your operating system.  If you wish to install this storage, make sure your motherboard has at least 1 M2 socket and that the dimensions of the storage stick are consistent with the interface on your motherboard).If you're looking to a budget build, this processor is great choice.
+
+","Reviewed in the United States on August 29, 2019"
+22,"
+Built a machine with this and an ASrock Deskmini Barebones PC
+","
+
+  Built a machine with this and an ASrock Deskmini Barebones PC for a small Security Camera Monitoring Station.Currently this is working extremely well. The entire machine, processor, board, ram and ssd cost around 350-400 usd vs a Zotac Mini PC with a Core i5 quad core PC that cost around 500-600 usd. This system beats the intel in performance despite being cheaper and the integrated graphics is a massive win.This processor is a massive win for office machines that still need a little extra oomph.I wouldn't recommend this integrated graphics for more than light modern gaming at the lowest of setting and resolutions. But it is quite good for GOG type games. Older titles from a decade ago can run on this guy with max setting no worries. It would be fantastic for a mame machine if you were so inclined.But seriously, a socketed am4 processor with built in graphics (which the higher end processors do not have) is a fantastic option for run of the mill grunt machines for internet browsing, HTPCs, headless terminals, dumb servers, etc, with a whole lot of extra power to boot.
+
+","Reviewed in the United States on February 20, 2020"
+23,"
+It works well but the cooler is NOISY
+","
+
+  I finally caved and decided to upgrade my ancient (~2012) MB, CPU, and RAM along with the Win 10 upgrade.  This CPU was paired with a Gigabyte B450M series motherboard and 16 Gb of Corsair Vengeance LPX RAM.  I specifically bought the combination because of the onboard graphics.  My needs are modest and I do almost no gaming.  What can I say about the processor?  It works.The cooler, however, isn't so great.  It's easy to install on a board made for the AM4 socket processors, it keeps the chip cool, but THIS THING IS NOISY!  The reviewers who said it isn't either don't know what a high quality cooler sounds like, or doesn't sound like, or their hearing is bad.  The next purchase for the computer build project will be a heat pipe unit from Cooler Master or Thermaltake.  This thing has got to go!.
+
+","Reviewed in the United States on July 13, 2020"
+24,"
+Upgraded almost immediately, you probably will too
+","
+
+  It's an excellent APU to keep on hand, because it enables testing of the onboard video system of motherboards. It runs very cool and it tolerates questionable power really well from cheap power supplies and low spec VRMs. The onboard video turns out to be pretty good if you have fast dual channel ram and your mainboard memory bandwidth is good. Not having dual channel RAM really hurts the Vega 8 on this chip.For single thread applications, a boosted 3200G comes very close to a stock Ryzen 5 3600, but if you clock up the Ryzen 5 just a little bit, it will blow this 3200G out of the water. Don't buy this CPU to be your only PC, unless you really have to scrape the low end of cost, or you must fit a case that cannot accommodate a graphics card. I recommend spending just a little more and going with a Ryzen 5.
+
+","Reviewed in the United States on January 11, 2020"
+25,"
+Good cpu after update.
+","
+
+  This cpu cooler was different than my phenom ii x6 cpu i had after installing all new mobo, ram and hd I booted up and installed windows 10.  Boy I had issues.  Kept getting clock watchdog error every time I started a youtube vid but could play State of decay 2 for 2 hours straight with no issues. I reinstalled all hardware and power pins and same prob.  Come to find out after hours of frustration and driver, hardware and windows 10 updates it was finally as stable as a rock.  Played cod warfare with no lag unlike my older cpu and somehow able to play state of decay 2 on ultra,  I have no idea what caused such great gains but this cpu and 16GB ram probably did it.
+
+","Reviewed in the United States on January 11, 2020"
+26,"
+Hi
+","
+
+  Very good
+
+","Reviewed in the United States on February 27, 2020"
+27,"
+Great value
+","
+
+  Bought for a budget WFH build and I couldn't be happier, I didn't want to deal with a separate CPU & GPU so this was my choice. This replaced a build with a10 year old 2 core Athlon CPU and the difference is night and day. Mainly used for word processing, PowerPoints and internet browsing with many tabs/windows open and it's worked great for my needs this far. Paired this with a B450 motherboard and I'm happy with the results. I can't speak for the gaming performance of this CPU (plenty of YouTube videos for that) but regardless, AMDs adrenaline software will ensure you have the latest drivers and if you want to squeeze some more performance out of it for your needs (without dealing with a bios) you can download AMD Ryzen Master.
+
+","Reviewed in the United States on May 6, 2020"
+28,"
+Decent overclock for an apu
+","
+
+  Bought this back in May as just a base chip to get a desktop started. I'm still continuing to add to my system, and having an APU just to get going was the big selling point.After some time and research I was able to overclock the CPU to 4.2 GHz all cores stable and I was able to overclock the graphics processor to 1800mhz. Having the ability to overclock the GPU side of the processor was a bonus, I seen a 300 point increase on cinebench 20 (scored 1407) after tweaking my settings.If you want to build a serious gaming rig, go ryzen 5 or higher without the built in graphics and get yourself a discrete graphics card. But if all your looking for is something to use for basic browsing/YouTube/nexflix then this is a great value chip for that purpose.
+
+","Reviewed in the United States on July 28, 2019"
+29,"
+Great CPU for the price
+","
+
+  I love how the CPU is handle the load and graphic.  I built this PC for the home media and it was very easy to build.  The CPU can play media, run applications and light games without any problems.  The PC is hooked to a large LCD TV through HDMI and I was happy with the performance.  The CPU is on a MSI B450 Pro Max mother board with 16mb of DDR4 RAM.  There are no problems that I could see.  Extremely happy!This is great for anyone who wants to build their entry level PC.  If I want to upgrade to a higher end CPU with better specs, I can easily swap it out and install a new graphic cards.
+
+","Reviewed in the United States on August 6, 2020"
+30,"
+Great Processor for a Modest 1080p Gaming PC
+","
+
+  AMD is currently the better option for budget processors! Purchased this particular CPU to go into a new build with a used GPU (GTX 960) and it handles everything thrown at it perfectly. The included CPU cooler (Wraith) works great and keeps temps low, but if you will be overclocking this CPU I would of course recommend an aftermarket cooler. The included CPU fan had a bent mounting bracket but was easy to fix with pliers. I decided not to take off a star from the review because this was such an easy fix and is ultimately unrelated to the processor itself, even though it comes in the same box.
+
+","Reviewed in the United States on November 4, 2019"
+31,"
+Perfect upgrade
+","
+
+  Have a family member doing WFH on a surface pro 3 with a low end i3 and 4gb DDR3 ram and it would stutter with 2 chrome tabs open. Offered to build a desktop over buying a new laptop as the savings and price to performance were much better ($400 vs. $900). Went with this CPU, M.2 SSD and 16gb DDR4 3000MHz. No dGPU needed as there is no desire for gaming. The performance from this CPU at $85 was astounding, work flow has become much smoother and everyone is satisfied. Would recommend for anyone who is using microsoft office, web browsing, and video calls.
+
+","Reviewed in the United States on August 29, 2019"
+32,"
+Great Processor for a Value Build
+","
+
+  I love Ryzen.  This is my fourth Ryzen build.  The value is incredible.  3.6ghz stock right out od the gate with vega 8 integrated graphics.  I used this for my wifes computer...perfect for everyday day browsing, shopping, email and office work.  Can you game?  Yes, casually with the integrated graphics.  Are you building a budget gaming pc?  The processor will be good for that if you pair it with a decent graphics card.  At under 100 bucks, you cant really go wrong.
+
+","Reviewed in the United States on July 30, 2020"
+33,"
+Absolutely  BUDGET BEAST
+","
+
+  ofcourse there are better ones, i used this one for my budget ""FIRST"" AMD build, and it handles everything perfectlythe temperature is 33 C on IDLE , on load for example i play some dota 2 it goes to 55 maxand its realy perfect! anything else office browsing and etc. its realy good for its priceThanks AMD !
+
+","Reviewed in the United States on June 25, 2020"
+34,"
+Suficiente para el presupuestos, y listo para crear y multimedia.
+","
+
+  Excelente lo recomiendo mucho si no quieren invertir en una tarjeta gráfica, y tienen un presupuesto ajustado, ademas de tener un balance entre procesamiento de datos y procesamiento grafico, lo recomiendo mucho para la producción musical con Fl studio, Studio One, también para diseño gráfico o tratado de imágenes en Photoshop/Corel Draw o vídeo como premiere o Vegas, claro está que para estos últimos no puedes abusar con las instancias, ya que no te va trabajar como un ryzen 7 3700, 3600 que son procesadores de más núcleos e hilos de ejecución. De resto adelante.
+
+","Reviewed in the United States on April 14, 2020"
+35,"
+Great Value Processor!
+","
+
+  This is a great processor for a simple computer! It's great for a four (4) core, four (4) thread processor and definitely worth the money. You can definitely game on this CPU with Integrated Graphics. The faster the ram the better if you're trying to game on the APU.I paired this with 16 GB SODIMM memory overclocked to 3000 Mhz, with 4GB of it shared, and 12 GB remaining for the PC. This is great again for 720p to 10800 games at Low to Medium settings and great for emulation from NES to PS3. Though PS3 is pushing it at 20-30 fps.I recommend this for anyone wanting a simple, small emulation running off of a CPU or a simple PC build where you can't have or fit a graphics card!
+
+","Reviewed in the United States on August 26, 2020"
+36,"
+Disapointing
+","
+
+  I purchased this because the tech insiders said the best bang for the buck.  Well the video driver won't load on win 10.  AMD support says go buy a program that will fix this.  Issues seem to go back to the 2200 series chips as well.  When searching the internet for help all the forums devolve to ""you're not doing it right try again.""Don't trust the integtrated graphics on this.  Plan on buying a seperate video card.
+
+","Reviewed in the United States on April 17, 2020"
+37,"
+Fast shipping and  good result
+","
+
+  I purchased this Ryzen 3 3200G because I couldn't find a Ryzen 5 2400G for a reasonable price. For under $100 I'm not a bit disappointed. Pair it with a sub $200 Gpu and a NVME drive and you're cruising on a budget. My order showed up within 2 days with free shipping, I updated the bios on my M-itx MSI B450I motherboard then slapped this chip in there on liquid and set it to 4.0ghz immediately (DON'T DO THIS!). I've been running small FFTs in Prime95 for over an hour and am currently submitting this review at the same time and it hasn't cracked 70cOverall a great little chip, I would recommend for a budget build.
+
+","Reviewed in the United States on March 24, 2020"
+38,"
+Almost burn down my house!
+","
+
+  Wow never seen that before. It was working great at first then I noticed it starting shutting down on me. So today when I figured I’ll take it out and see what’s going on. Well let’s just say I’m happy that it didn’t destroy my Motherboard. I’m thinking I got a defective one with a bad heat Sink. It’s hope That was it.
+
+","Reviewed in the United States on February 4, 2020"
+39,"
+Graphics built in
+","
+
+  This is a great processor with even better built in graphics.  At the price, you cannot justify the comparable i5 performance.  Glad to see AMD back on top.  The competition will keep the kids at INTEL on their toes.
+
+","Reviewed in the United States on April 30, 2020"
+40,"
+Worked Great and saved money from buying dedicated GPU and CPU...
+","
+
+  Perfect for a Budget Build - Worked Great and saved money from buying dedicated GPU. But not for High FPS gaming or Ultra settings. I would consider this an entry level CPU, for budget building purposes with intent to later upgrade to Dedicated GPU and Faster CPU when your wallet allows it. Could handle most games @ Med to Low settings with average FPS rates. Pleased with purchase.
+
+","Reviewed in the United States on November 4, 2019"
+41,"
+Works well, but I had some problems with my order.
+","
+
+  The stock fan that came with my CPU was dead on arrival.  It would only briefly spin for a moment if I poked it a bit.  I contacted the seller and I'm not sure if it was Amazon's system or what, but the communication was not great, but they did ship another fan out to me after a week and a half.  However, the fan that was sent to me was used, and had used thermal grease still on the bottom of the heatsink.I'm not thrilled that I was sent a DIRTY used replacement when I paid for new, but after cleaning it off and putting new thermal grease on it, it is working fine and idles at around 34C, and under full load it reaches about 63-64C.  I'm not planning on overclocking it so it seems acceptable.
+
+","Reviewed in the United States on August 29, 2019"
+42,"
+Good value processor for home desktop.
+","
+
+  Purchased as part of Home Office build.  Very fast for my computing needs.  Grandson's do use it for some light gaming and say it works well and is almost as fast as their 1050 cards whatever that means, ha ha.Oh and I have no idea what ""Easy to lock"" means.  Should it be ""easy to unlock""  If someone means ""unlock"" the processor comes unlocked but I will never use that feature since I just don't need to overclock it for my needs.Have been using AMD processors for over 20 years.  They always work as advertised right out of the box.
+
+","Reviewed in the United States on July 19, 2020"
+43,"
+AMD Ryzen 3 3200G
+","
+
+  Needed AMD Ryzen 3 3200G (had my reasons), had to update bios to make this CPU works with B-350 motherboard. Additionally I had to get newer Linux kernel that supports it.
+
+","Reviewed in the United States on April 1, 2020"
+44,"
+Linux Perspective
+","
+
+  Works just fine with Mint Cinnamon 19.3. No drivers needed. Using in a Deskmini 300W with a Crucial BX500 120GB SSD, 16GB 2400 GSkill RAM. Boots from button push to desktop in 20 seconds.
+
+","Reviewed in the United States on December 11, 2019"
+45,"
+A Great Everyday/Office Processor
+","
+
+  A great processor for everyday usage and common office work.  As long as you don't do much gaming or number crunching, this processor is worth considering.  The Integrated graphics is really good.  If you use this processor for casual or office computing, there's no reason to spend money on a graphics card.
+
+","Reviewed in the United States on November 8, 2019"
+46,"
+Can't go wrong with a ryzen
+","
+
+  Great preformance for the price. Look up benchmarks this can handle alot of modern games given at the lowest setting considering it's a apu but still it's crazy how far apu graphics have come. I'd still recommend waiting for a newer model though unless you just plan on playing csgo or lighter games or just web browsing.
+
+","Reviewed in the United States on May 10, 2020"
+47,"
+Excellent Entry APU
+","
+
+  I purchased this Ryzen 3 3200g as the heart if a new budget gaming rig I was building. I figured I would try out the Vega 8 on-board graphics AMD keeps boasting about, with the intention of buying a standalone gpu a month afterwards. Here I am now nearing 5 months with this build, and the APU has handled everything I have thrown at it. Crusader Kings 3, ARK, Siege, Assassin's Creed, Skyrim, FO4, GTAV, EVE, etc all run great with it. The one drawback I have to mention is that it is a bit limited, since it only has 2GB of VRAM. However, I can run most of these in 720p on high/ultra or in 1080 on medium to low. This is an unparalleled entry-level CPU/APU.
+
+","Reviewed in the United States on February 1, 2020"
+48,"
+Lesson learned. Last time using AMD
+","
+
+  This things been an unpleasant experience for me. Can’t count how many times I’ve had to mess with drivers or come home to a computer that’s hung up then won’t boot.  Worked well for the week I was able to use it. Unfortunately it was a waste of money for me.  And this isn’t cheap for me.
+
+","Reviewed in the United States on June 11, 2020"
+49,"
+Good compromise
+","
+
+  CPU wise, not quite as fast as I was expecting. Graphics wise, better than I was expecting.  Good compromise for the price though. It needed a 5.0 Linux kernel to be properly recognized.
+
+","Reviewed in the United States on September 24, 2020"
+50,"
+Great performance for the money
+","
+
+  Great value for the money. This is a temporary CPU until Zen 3 releases and I think I'm going to drop it into a HTPC when I switch
+
+","Reviewed in the United States on November 4, 2019"
+51,"
+I released a beast!
+","
+
+  This thing is a beast! Right out of the box! I didn’t even have to use my graphics card to play Fifa20 on maxed out settings. Not even a stutter.Paired it with 16gigs of ram (note that the onboard Vega chip uses system ram as VRam), a 500gig SSD and a Gigabyte 450M Motherboard. So far so good for my budget gaming build.
+
+","Reviewed in the United States on August 29, 2019"
+52,"
+Budget CPU
+","
+
+  I needed to make a budget gaming rig. So, I chose this APU. It works well with the games I play, and I haven't had a singular problem with it at all! Easy installation with a amd fan (thermal paste preapplied) makes putting this thing on a mobo an easy task! I used this with an ASUS Prime B450 M-A CSM. No bios update needed and worked straight out of the box. Good job on this great apu Ryzen
+
+","Reviewed in the United States on October 24, 2020"
+53,"
+Great processor for the price
+","
+
+  These are great processors for office computers, lightweight gaming.  We use these and the 2200G for building $400ish system builds that don't completely suck.  The only thing I've found with the G processors is that RAM speed and compatibility are a must.. meaning check your motherboard's QVL list to make sure the RAM you use is for sure compatible.
+
+","Reviewed in the United States on August 8, 2020"
+54,"
+I would not recommend if you were not using graphics card.
+","
+
+  We purchased 25 of these CPUs and 25 ASUS PRIME 450B for new new computers.So far about six of them require additional video card. The screen will freeze and go black for 5-20 seconds while the user is typing. Added nvidia graphics card and problem goes away. Really frustrating.
+
+","Reviewed in the United States on July 20, 2020"
+55,"
+Powerhouse APU
+","
+
+  This is a great entry processor into the gaming world/beast workstation. Easily ran most major AAA titles at 1080p with medium to high settings at 60+FPS. I ended up throwing a rx580 into the system and was able to hold around 90/100fps at 1440p on high or ultra settings with ease.
+
+","Reviewed in the United States on December 4, 2019"
+56,"
+constant blue screens
+","
+
+  maybe it was combination of parts or drivers or software but i got constant bsod few min after powering on to desktop. switch to a r5 2600 and nvidia gt 710 like prior builds and no issue. amd has to fix there issues with their apus. was not using a dedicated graphics card with 3200g but thats the point you shouldnt need to use a dedicated graphics card.
+
+","Reviewed in the United States on June 26, 2020"
+57,"
+Best quality and price reletion
+","
+
+  One of the best pieces in my computer tower.I use a motherboard Gigabyte GA-AB350M-DS3H - 1.X16g DDR4windows and Ubuntuwork perfectly
+
+","Reviewed in the United States on April 12, 2020"
+58,"
+Not for demanding titles
+","
+
+  Works for games but you can't run anything else in the background like discord or the cpu usage will be uncomfortably high
+
+","Reviewed in the United States on May 27, 2020"
+59,"
+Great for gaming!
+","
+
+  Paired with a 1660 ti, this CPU crushes games at 1080p and exceeds with other tasks. Recommended for daily use and gaming but would not recommend if you are trying to do CPU intensive work loads that require higher core counts or multi-threading.
+
+","Reviewed in the United States on September 2, 2020"
+60,"
+Great value
+","
+
+  For the money it's a hell of a system you can build out of this thing.  My neighbor needed a computer for typical adulting needs... Email, news, bills.  For around $680 total build price this thing out pwrforms anything he could get out of the box for even double that price.
+
+","Reviewed in the United States on November 4, 2019"
+61,"
+Just ok
+","
+
+  Great first build APU, got it for my 7 year Olds pc with a desktop MSI 1050ti card that I had and the cpu bottle necks the card. Load times are long and it is 100% usage a lot. Good for low 720 gaming but not much else.
+
+","Reviewed in the United States on August 29, 2019"
+62,"
+Works good
+","
+
+  Using this for desktop PC, works great, no issues with it. Fast.
+
+","Reviewed in the United States on January 14, 2020"
+63,"
+Great product
+","
+
+  Great product. Gave my old pc to my 14 yo son since I don’t really game no more. But he was complaining that it was slow and needed an update, so we decided to to update some parts and this was one of them. Great product.
+
+","Reviewed in the United States on June 28, 2020"
+64,"
+Good for above average use
+","
+
+  I bought this as a secondary rig. My girlfriend mainly uses it for her computer college classes and it holds up. I wouldn't do a lot of serious gaming but it can definitely handle minecraft and dota 2
+
+","Reviewed in the United States on August 8, 2020"
+65,"
+4K Movies and more
+","
+
+  I'm using this for a HTPC and playing back 4K backups with ease.
+
+","Reviewed in the United States on April 16, 2020"
+66,"
+Better than expected stock cooler, excellent value CPU.
+","
+
+  Using this with the included cooler on an MSI X570A-PRO motherboard. POST on first try, everything has been running great for two days. Put it under heavy load for about an hour using PCMark, temp hovered around 65-70C, not bad for a stock air cooler. I will be upgrading to a water cooled solution down the line, but this is just fine for now. Performance has been great, all games I've played have run well. This is a solid value, don't hesitate to buy it.
+
+","Reviewed in the United States on July 15, 2020"
+67,"
+Awesome Processor At Awesome Price
+","
+
+  The Ryzen 3 is the perfect processor if you're on a budget. It's powerful enough to handle daily tasks as well as ones a bit more intensive. It has a powerful integrated GPU (mind you it's still an iGPU) as well. It's slightly better than the GPU on the Xbox One, which is astounding to me considering the price. It also means you don't have to buy a dedicated GPU to use your computer. If you're looking for somewhere to start, I would definitely recommend picking this one up!
+
+","Reviewed in the United States on June 9, 2020"
+68,"
+Love it!
+","
+
+  My first build! So easily installed. The cooler looks nice but I ended up swapping for a much quieter Dark Rock Slim. Several Celsius degree difference as well. AMD Am4 chips ftw
+
+","Reviewed in the United States on May 16, 2020"
+69,"
+I love this APU
+","
+
+  I've bought 3 of these lil APUs, and they work excellently. One I used for a small ITX HTPC box, which performs better than expected, especially when you overclock it, and feed it 16gb of ram. If you throw a 570 or 580 gpu on top of it, you get quite a beast on the cheap.
+
+","Reviewed in the United States on August 17, 2020"
+70,"
+Value!
+","
+
+  Affordable and built well. Quick processor that gets the job done! Also the integrated graphics are nice for a non computer set up. I got this along with other products to build my uncle a office/work desktop and he loves it. This processor is worth every dollar!
+
+","Reviewed in the United States on November 4, 2019"
+71,"
+Cooler running and not bad for tyhe price..
+","
+
+  Runs cooler then intel chips,,Graphics support ok and for a basic gaming build if not too ambitious does rather well.. Installing cpu need to be careful with pins and slot always and orientation..
+
+","Reviewed in the United States on August 29, 2019"
+72,"
+Can bottleneck your build hard
+","
+
+  This CPU is good enough for casual web browsing and some games will work just fine on it (Call Of Duty: Black Ops Cold War Beta ran REALLY well despite the CPU) but if you play any game that needs high CPU power or use an art program, or After Effects, then you'll find this CPU will tank the performance of your computer. If you have the money go with a Ryzen 5 instead.
+
+","Reviewed in the United States on April 29, 2020"
+73,"
+Excelente inversión para una pc básica multifuncional
+","
+
+  Buscaba actualizar mi vieja pc que ya mostraba los estragos del tiempo, pero no contaba con mucho presupuesto así que me decidí por este y vaya que fue buena decisión.Ocupo la pc para tareas básicas de oficina, multimedia y para juegos poco demandantes en su mayoría. No uso tarjeta de video dedicada pues la que viene integrada me basta y me sobra.
+
+","Reviewed in the United States on April 27, 2020"
+74,"
+Very impressive speed
+","
+
+  Wow, very nice graphics and speed. I am not a gamer but Windows 10 flies with this in 1080p resolution. Did a performance test from WEI and it gave a 9.9 3d graphics performance score and an over all score of 8.0. I don't know much about these tests but I guess that's a good score.
+
+","Reviewed in the United States on October 24, 2020"
+75,"
+Great bang for your buck
+","
+
+  I was shocked the it ran GTA 5 low to med res but playable even online was enjoyable. I made it sweat though when I played Red Dead Redemption 2 to make it playable settings has to be at bare min. Just too much going on in the world of RDR2 but as an entry level Cpu with graphics and excellent choice for the price.
+
+","Reviewed in the United States on September 20, 2020"
+76,"
+Good basic chip with built in graphix
+","
+
+  Fair speeds for a quad core and the graphix are okay for low end games. I could play League of Legends fox example. I tried it out before adding a GPU that I'd bought to go in the system just to see how well the chip would do. It was okay...you're not going to play high end stuff without lag...but for your everyday typical games it was fine. For power vs price and performance: it is hard to go wrong with this chip.
+
+","Reviewed in the United States on February 3, 2020"
+77,"
+Great budget pc cpu
+","
+
+  For anyone doing some minor gaming like Zuma and the such this is all you need. Built my inlaws a new computer with this and so fsr so good. This will do anything and everything they need.
+
+","Reviewed in the United States on May 25, 2020"
+78,"
+very warm like the question asked
+","
+
+  i might have dropped this in cheese dip but it doesnt seem to work as well as a normal cpu doesnt even ad much horse poqwer to the pc just anhanced th minecraf mods i downloaded also if you happen to get cheese on it use fabuloso it works wonders to get it off got that tip off of reddit add me on twiter at @MLPfan69fun so we can talk pc gamimg
+
+","Reviewed in the United States on June 30, 2020"
+79,"
+Nice cost effective for everyday use
+","
+
+  Assemble a new PC for my mom with this new gen of AMD CPU. Cheap, run fast, quiet (not generating much heat). Very happy with this new CPU for daily mom's usage and save effort/money with a built-in graphic much better than Intel's offering.
+
+","Reviewed in the United States on November 1, 2020"
+80,"
+Low Budget System
+","
+
+  Good price and product for a low end build basic computer.
+
+","Reviewed in the United States on November 4, 2019"
+81,"
+Perfect as long as you're not gaming.
+","
+
+  Perfect for the office. Don't have big expectations for gaming. Bought it for a PC that basically runs a projector and some applications that run on it and it works great for that. Super happy.
+
+","Reviewed in the United States on August 29, 2019"
+82,"
+Graphics?
+","
+
+  The quality and performance of the graphics integrated video card is greatly exaggerated. In my opinion, it's quite poor for regular desktop applications. I would rate it by far inferior to my ancient AMD Radeon RT 250 from 2013.Some application look pixelated and one can't easily distinguish between numbers 4 and 9. Other applications show up with inaccurate gamma making them hard to read. It might be rated great for budget gamers, but its not for a desktop applications.
+
+","Reviewed in the United States on December 11, 2019"
+83,"
+Best Bang for the Buck
+","
+
+  Excellent budget CPU. Very fast. Very easy to install. If you could get 8 threads out of this price point though I'd really be over the moon.
+
+","Reviewed in the United States on February 23, 2020"
+84,"
+Afordable and decent, for ITX replace the fan with no protrusion
+","
+
+  Affordable and decent. Free fan comes with a slight protrusion with AMD brand logo so careful if installing in a mini itx as I was doing cause the logo went on my ram so I had to rotate it then it went on what looks like a radiator , so I just make it work that way. CPU EXCELLENT but the fan yah might have to plan for on a small itx and maybe place another on top without brand name protrusion
+
+","Reviewed in the United States on June 19, 2020"
+85,"
+Awesome value at 720p!
+","
+
+  Works as advertised, if you need to save up for a discrete graphics card down the road but you need something that runs okay this can do the job. AT 720p!! which I am okay with but keep this in mind. 1080p you're probably going to see 30fps in low detail, on newer AAA games it may be worse. If 1080p is your intention from the start you may want to look at the 3400g. But you really can't complain about a sub-100$ APU as good as it is.
+
+","Reviewed in the United States on September 8, 2020"
+86,"
+Glad I chose Ryzen
+","
+
+  Unbelievable what AMD is able to do with their APU processors, I was skeptical about how well the graphics would run but this chip can hold it's own.
+
+","Reviewed in the United States on May 15, 2020"
+87,"
+AMD is killing it
+","
+
+  Awesome amount of power in a all in one chip. Just awesome. If you don't want discrete or can't budget it this is a winner. I have a hard time telling the discrete system from this one.
+
+","Reviewed in the United States on February 16, 2020"
+88,"
+AMD all the way!
+","
+
+  This was part of a build for my grandson and it has been great. I love AMD. I have only build one intel machine in the 20 plus years of building computers.  AMD is usually cheaper and does everything I need it to do.
+
+","Reviewed in the United States on February 27, 2020"
+89,"
+Buy it! Great gaming CPU for its price
+","
+
+  Very good gaming cpu for it only having 4 cores, i havnt tried the integrated gpu but i have a RX570 gpu with it and i can say it performs well above the FX-8350 i used to have. This is my first new pc i built in 7 years and my first experience with the new Ryzen hardware, absolutely amazing and some good strong 4 cores. If youre thinking about buying it then do it, you wont regret it.
+
+","Reviewed in the United States on December 31, 2019"
+90,"
+Good value cpu!!
+","
+
+  First time building a pc on my own and decided to use this cpu because of the integrated graphics. I was really surprised by the performance and for the great price would recommend for a someone who is building a pc for the first and any beginner. It also comes with a cpu cooler so you save a little money not having to buy one. Overall I would recommend to anybody.
+
+","Reviewed in the United States on November 4, 2019"
+91,"
+meh
+","
+
+  This processor isn't very impressive. Why mother with a processor that has a gpu on it if you can get a better one and install it on your computer.
+
+","Reviewed in the United States on August 29, 2019"
+92,"
+very good quality for the price.
+","
+
+  everything you can ask for in a CPU
+
+","Reviewed in the United States on June 21, 2020"
+93,"
+Used for budget machine learning rig
+","
+
+  This is a great all around cpu. I'm using this with Ubuntu 18.4 and running emulation for Android for app dev. Along with this, I have used it for Tensorflow training with 16gb of ram. It runs through models pretty fast for not having a gpu.
+
+","Reviewed in the United States on June 18, 2020"
+94,"
+Great Processor!
+","
+
+  Seems fast enough for what I need! Has integrated graphics, so you don't have to buy an expensive graphics card! Paired with MSI B450 motherboard, 16g of DDR4 3000 ram, and installed Linux Mint Cinnamon on it! Works like a dream!
+
+","Reviewed in the United States on April 24, 2020"
+95,"
+Buena elección
+","
+
+  Bueno pues me encuentro armando mi propia computadora y esto es uno de los componentes que he tenido en mi lista, estuve revisando varias marcas y es la que más me convenció, espero armar un computadora decente.
+
+","Reviewed in the United States on December 5, 2019"
+96,"
+Good CPU
+","
+
+  Great for my new build. But keep in mind that you will most likely have to update the bios on the motherboard first, so make sure to have an old one on hand or a place to take it after building for bios updates. In my case it was 37$ extra.
+
+","Reviewed in the United States on June 22, 2020"
+97,"
+Very Good Processor for the Price
+","
+
+  Works great for my application. No overclocking needed and very limited multiithreaded application running.
+
+","Reviewed in the United States on July 28, 2020"
+98,"
+Nice value
+","
+
+  Low cost and runs well with provided cooler at stock settings. I'm using my own graphics card so I can't comment on that aspect of this processor. I would recommend this if you're looking to save some money and want to have a decent processor.
+
+","Reviewed in the United States on May 15, 2020"
+99,"
+Low cost processor with vega 8 graphic
+","
+
+  Good for new technology with small budgetSupport dual channel 3000+  memoryGraphic ready
+
+","Reviewed in the United States on September 27, 2020"
+100,"
+Not pci e gen 4
+","
+
+  3 stars. Hate that AMD sells this as a 3xxx series chip when it is a 2xxx series chip. It does not have pcie gen 4.
+
+","Reviewed in the United States on November 4, 2019"
+101,"
+Buy it.
+","
+
+  Have built about 4 dz systems for customers using this chip. They all work the same. Cheap and reliable and surprisingly fast.
+
+","Reviewed in the United States on August 29, 2019"
+102,"
+ryzen 3 3200g
+","
+
+  Ryzen 3 3200g with Gigabyte b450m ds3h wifi and Silicon Power 256gb m.2 nvme and Adata Z1 3000mhz ram 16gb out the box no bios change no nothing just perfect . Lightning fast and 325.00 for the lot .
+
+","Reviewed in the United States on June 23, 2020"
+103,"
+Fast cpu...
+","
+
+  Got this for my first light gaming pc...all i can say is it works great and its fast....well worth the money with the built in gpu...great all around chip...
+
+","Reviewed in the United States on May 27, 2020"
+104,"
+Amazing chip and graphics for $100
+","
+
+  Absolutely mind blowing!I have used AMD for awhile and even my Intel friends are impressed.plays everything from Xbox game pass pc beta
+
+","Reviewed in the United States on May 18, 2020"
+105,"
+Tight Budget
+","
+
+  It was trouble getting it to work on a B450 motherboard but it's working out great now better than what I had. Recommended for Tight Budget builds
+
+","Reviewed in the United States on February 1, 2020"
+106,"
+overclock capable
+","
+
+  you can overclock this easily and get much more performance. search on youtube.
+
+","Reviewed in the United States on May 23, 2020"
+107,"
+Amazing Value
+","
+
+  These have enabled the new most budgety modern gaming pc you can build, but there’s a reason for that. Value wise if you were to get a 4 core processor, and a gpu of adequate value you’d be paying around 500 bucks Just a couple years ago.
+
+","Reviewed in the United States on November 2, 2019"
+108,"
+Worth it.
+","
+
+  I bought this for my sister and holy crap it was a lot more powerful then I thought,  and for the price... it was easy to install
+
+","Reviewed in the United States on December 28, 2019"
+109,"
+Awsome product......
+","
+
+  Works very well for my wife office build. Now have 13 more on order to build the rest of the office new pcs. You can play some games but it made for generic everyday task.
+
+","Reviewed in the United States on October 19, 2019"
+110,"
+very sturdy CPU
+","
+
+  takes on my newer games with ease, very quiet, I did change the cooling fan with an upHere Liquid CPU Cooler
+
+","Reviewed in the United States on November 4, 2019"
+111,"
+Computer has been reborn!!!!
+","
+
+  Well worth it. Computer is running better than ever, looks amazing!
+
+","Reviewed in the United States on August 29, 2019"
+112,"
+Great product
+","
+
+  My son built his own computer and is very pleased with this product.
+
+","Reviewed in the United States on April 19, 2020"
+113,"
+Wow, amazing performance at amazing price
+","
+
+  Picked this to build an inexpensive PC for the kids. Just wow. Amazingly zippy for the price. Also runs Minecraft, Fortnite and roblox with no issues at all and no expensive dedicated graphics card.
+
+","Reviewed in the United States on February 5, 2020"
+114,"
+Working so far
+","
+
+  Had problems with Ryzen 5 and 7 but the 3000 series works fine .
+
+","Reviewed in the United States on February 16, 2020"
+115,"
+Amazing cpu for a normal workstation
+","
+
+  Best budget cpu for a workstation. Works extremely well for regular tasks like email, streaming, spreadsheets. Isn't very hot either. Just make sure that your motherboard is ryzen 3rd gen compatible though.
+
+","Reviewed in the United States on July 6, 2020"
+116,"
+Amazing value for $100 or less
+","
+
+  $100 CPU with gaming potential at 1080 it's amazing for the value. Used it for my sister's gaming PC build simple yet effective
+
+","Reviewed in the United States on May 5, 2020"
+117,"
+Priced right
+","
+
+  For the price it is awesome. We used it to build a FreeNAS.
+
+","Reviewed in the United States on July 28, 2020"
+118,"
+Ready for Gaming
+","
+
+  Great Buy! Great quality. Worked well for my new build.
+
+","Reviewed in the United States on January 30, 2020"
+119,"
+great cpu
+","
+
+  this a great cpu for the money you spend best low end cpu i have ever got
+
+","Reviewed in the United States on May 9, 2020"
+120,"
+Good but in short supply
+","
+
+  Good quality works fine get them quick before the prices go up anymore
+
+","Reviewed in the United States on November 4, 2019"
+121,"
+No se puede pedir mar por 87 dolares
+","
+
+  este pequeña cpu es todo lo que necesitas para productividad y un poco de juegos livianos, fornite corre muy bien.  recomiendo utilizarlo con un SSD y 16 GB de RAM.
+
+","Reviewed in the United States on August 29, 2019"
+122,"
+Received broken product
+","
+
+  The chip I received has a dead GPU chipset.  It's crashes constantly.  Other than that it's a great cpu I just got unlucky I guess.  Will be returning.
+
+","Reviewed in the United States on November 9, 2020"
+123,"
+Cheap Works Great!
+","
+
+  CPU has graphics for a cheap mini desktop for netflix it's Great!
+
+","Reviewed in the United States on July 20, 2020"
+124,"
+Under powered
+","
+
+  Honestly for the price it's better to get a FX-8350 or something to that effect.
+
+","Reviewed in the United States on May 18, 2020"
+125,"
+Excellent Budget Cpu/Gpu
+","
+
+  A great budget cpu/gpu combo for those that are on a tight budget. Runs monster hunter world at low settings at 30 fps or more and Re2: remake well above 50 fps.
+
+","Reviewed in the United States on June 6, 2020"
+126,"
+Great
+","
+
+  Works Great. Value for Money, especially if you don't game and don't need a separate Video Card
+
+","Reviewed in the United States on September 12, 2019"
+127,"
+Best every day CPU you can buy.
+","
+
+  Best every day CPU you can buy.
+
+","Reviewed in the United States on February 3, 2020"
+128,"
+Excellent
+","
+
+  It work flawlessly, very happy
+
+","Reviewed in the United States on September 10, 2020"
+129,"
+Bad CPU
+","
+
+  Doesn't work,  and I don't know why.
+
+","Reviewed in the United States on October 5, 2020"
+130,"
+Performance value
+","
+
+  Great CPU for a great price
+
+","Reviewed in the United States on November 4, 2019"
+131,"
+New pc build
+","
+
+  I wish I had a chance to test this out originally but from an honest person perspective the value you get from this processer is a steal
+
+","Reviewed in the United States on August 29, 2019"
+132,"
+amd is better then Intel {0_0}
+","
+
+  I like that its budget friendly but only 4 core so I dislike that
+
+","Reviewed in the United States on March 6, 2020"
+133,"
+Performs as expected.
+","
+
+  Performs as expected.
+
+","Reviewed in the United States on March 1, 2020"
+134,"
+Money Saver
+","
+
+  I used integrated graphics on my 2nd build and I saved so much money after realizing what I truly need from a PC because I do not a super heavy graphics card for the games that I play. which is mostly league of legends lol.
+
+","Reviewed in the United States on August 6, 2020"
+135,"
+Good value
+","
+
+  Good for basic can game with a separate GPU
+
+","Reviewed in the United States on April 13, 2020"
+136,"
+Good entry tier chip
+","
+
+  Works great for entry level builders and users.
+
+","Reviewed in the United States on August 27, 2020"
+137,"
+Great Value, perfect for low budget music production computer
+","
+
+  Great for my music production computer because I don’t need a graphics card, integrated graphics run Rocket League and other low intensity games great!
+
+","Reviewed in the United States on March 21, 2020"
+138,"
+AMD STILL GOOD
+","
+
+  Excellent performance , Excellent price
+
+","Reviewed in the United States on September 2, 2020"
+139,"
+Great little chip for 100 bucks
+","
+
+  I just like to play to play Civ, counter strike and the odd unity game like phasmiphobia on a little 720p monitor. I get plenty of frames in all of those games. Dual channel is a necessity for smooth performance.
+
+","Reviewed in the United States on February 1, 2020"
+140,"
+Excellent Value!
+","
+
+  Very easy to install, very good for the price.
+
+","Reviewed in the United States on November 4, 2019"
+141,"
+Quite nice actually
+","
+
+  Very affordable and it has integrated graphics. What more could you want? 😂
+
+","Reviewed in the United States on August 29, 2019"
+142,"
+Great cpu
+","
+
+  Great performance good price for under 100 bucks.
+
+","Reviewed in the United States on February 16, 2020"
+143,"
+Fantastic budget gamer
+","
+
+  Fantastic budget gaming PC processor. Far more powerful than the price tag suggests.
+
+","Reviewed in the United States on May 16, 2020"
+144,"
+Works great
+","
+
+  Great for the price, use for light duty workstation.
+
+","Reviewed in the United States on May 31, 2020"
+145,"
+amd
+","
+
+  nice  budget cpu
+
+","Reviewed in the United States on January 8, 2020"
+146,"
+review
+","
+
+  awesome cpu for gaming with overclocked
+
+","Reviewed in the United States on March 4, 2020"
+147,"
+AMD Rysen 3 3200G with Radeon -Vega 8 Graphics
+","
+
+  This is highly desirable CPU.  Easy install. Works great.  I highly recommend this CPU.  I am considering another for my wife's computer.  Go for it can't beat it combined with the AS Rock B450M-HDV R4>0 Mother board.
+
+","Reviewed in the United States on February 13, 2020"
+148,"
+Amazing value.
+","
+
+  The best value APU on the market, both the CPU and the iGPU oc very well. 1080p 60fps on low settings is attainable for most popular (""esport""/battle royale) games on the market, for only $99, no gpu required.
+
+","Reviewed in the United States on October 10, 2019"
+149,"
+Good for a budget
+","
+
+  Hold the backplate against the motherboard otherwise it might not connect. Took me 20 mins to figure that out
+
+","Reviewed in the United States on January 19, 2020"
+150,"
+Bang for buck leader.
+","
+
+  Great AM4 upgrade.
+
+","Reviewed in the United States on November 4, 2019"
+151,"
+Good system!
+","
+
+  Very good for its price, to design and play is fine, do not need an extra fan, good ventilation included.
+
+","Reviewed in the United States on August 29, 2019"
+152,"
+Excelente procesador
+","
+
+  El bebé de la familia, pero aún así funciona muy bien, con los gráficos integrados puedes jugar casi todos los títulos por encima de 40fps. Ideal para un armado económico y sólido.
+
+","Reviewed in the United States on January 17, 2020"
+153,"
+Gamers dream
+","
+
+  Best cpu for a budget gaming rig
+
+","Reviewed in the United States on August 19, 2020"
+154,"
+BEST BANG FOR YOUR BUCK
+","
+
+  This is the best bang for your buck CPU, it’s runs very smooth and has really good frame rates as far as APU’s go but if you have a bit more in your budget I would go for the r5 3400g as it is a bit better
+
+","Reviewed in the United States on December 6, 2019"
+155,"
+Excelente Producto
+","
+
+  Llego según el tiempo estipulado, muy bien empacado y en perfectas condiciones, perfecto para armar un pc de entrada económico para este 2020.
+
+","Reviewed in the United States on July 26, 2020"
+156,"
+Delivered as described.
+","
+
+  Product came as described in packaging that made it through usps.
+
+","Reviewed in the United States on September 25, 2019"
+157,"
+This product is very good. I like it very much
+","
+
+  This product is very good. I like it very much
+
+","Reviewed in the United States on December 3, 2019"
+158,"
+Cheap
+","
+
+  For great budget build.
+
+","Reviewed in the United States on September 3, 2020"
+159,"
+What you expect
+","
+
+  Good
+
+","Reviewed in the United States on August 28, 2020"
+160,"
+Amazing value for money
+","
+
+  You're like spending $60 for a CPU and $40 for a graphics card that performs amazingly
+
+","Reviewed in the United States on November 4, 2019"
+161,"
+Gets the Job Done and More
+","
+
+  Pretty good bang for your buck. Decent entry level APU that does more than just “get the job done”
+
+","Reviewed in the United States on August 29, 2019"
+162,"
+Un procesador genial
+","
+
+  Une buena opcion como gama de entrada economico y potenete para gaming y productividad no requiere tarjeta grafica porque ya la tiene integrada y vaya que funciona de forma genial
+
+","Reviewed in the United States on July 17, 2020"
+163,"
+This motherboard
+","
+
+  Great small sized bundle of GAMING
+
+","Reviewed in the United States on August 23, 2020"
+164,"
+Amazing!
+","
+
+  At first I had a lot of trouble getting it to work. Turns out it was my motherboard, But It works amazing and works x4 better then my old cpu!
+
+","Reviewed in the United States on January 20, 2020"
+165,"
+hoping this doesn't happen to anyone else
+","
+
+  it was damaged on delivery and I didn't even get to use it with the new pc I'm building and I'm very frustrated.
+
+","Reviewed in the United States on March 9, 2020"
+166,"
+Muy buena relación calidad/precio/rendimiento
+","
+
+  Muy buena relación calidad precio, funciona bien en la mayoría de juegos, importante tener al menos 16GB de RAM
+
+","Reviewed in the United States on May 13, 2020"
+167,"
+great
+","
+
+  nice for the money no problema
+
+","Reviewed in the United States on October 1, 2020"
+168,"
+Buen procesador básico
+","
+
+  Buen producto rápido para office y juegos basicos
+
+","Reviewed in the United States on November 7, 2020"
+169,"
+Nice Budget CPU
+","
+
+  This is good CPU for entry level gaming. I'm able run the RAM at 3200MHz, frequency is hovering around 39xx MHz.The system is stable and cool.
+
+","Reviewed in the United States on July 11, 2020"
+170,"
+Good price
+","
+
+  Bought this for daughter as her old one was horrible. This is a pretty good one!
+
+","Reviewed in the United States on November 4, 2019"
+171,"
+Excelente procesador para gama media
+","
+
+  wow muy pero muy bueno por su precio mi placa madre no era compatible y AMD me envio un kit de ayuda para solucionar el problema si haces overclock puedes hacerlo hasta 4.0
+
+","Reviewed in the United States on August 29, 2019"
+172,"
+Easy budget performance.
+","
+
+  Makes for a simple upgrade from the A10 generation of APU's, but just make sure that your motherboard manufacturer has good bios support.
+
+","Reviewed in the United States on March 2, 2020"
+173,"
+Excelente inversion.
+","
+
+  Super facil e intuitivo .Excelente que traiga la pasta pre instalada.Va de 10
+
+","Reviewed in the United States on September 26, 2019"
+174,"
+Great beginning Cpu
+","
+
+  Great to start with if you don't want to spend +200 on a gpu immediately. It can run most current gen games at about 30 to 40 fps on low settings.
+
+","Reviewed in the United States on January 12, 2020"
+175,"
+Very good processor amazing. Muy bueno si no quieres comprar una targeta
+","
+
+  Very good processor amazing.
+
+","Reviewed in the United States on June 3, 2020"
+176,"
+Exceeded my expectations!
+","
+
+  Bought the AMD Ryzen 3 3200G 4-Core Unlocked Desktop Processor with Radeon Graphics for home use and entry level gaming! Works like a charm!
+
+","Reviewed in the United States on November 9, 2020"
+177,"
+Good starter cpu
+","
+
+  Highly recommend for anyone building their first gaming pc.
+
+","Reviewed in the United States on August 20, 2020"
+178,"
+excelente
+","
+
+  súper
+
+","Reviewed in the United States on November 4, 2019"
+179,"
+Very good CPU, buy GPU and get CPU free
+","
+
+  All performance is very good, entry-level CPU, enough for parents
+
+","Reviewed in the United States on October 10, 2020"
+180,"
+Great product
+","
+
+  Great product
+
+","Reviewed in the United States on November 4, 2019"
+181,"
+Good
+","
+
+  Good
+
+","Reviewed in the United States on August 29, 2019"
+182,"
+Good purchase!
+","
+
+  Works just like I expected... Great price and delivery.
+
+","Reviewed in the United States on November 3, 2020"
+183,"
+Fantastic
+","
+
+  It was perfect for streaming and game playing
+
+","Reviewed in the United States on May 29, 2020"
+184,"
+Delivered
+","
+
+  Man I ordered this, for my gaming pc thinking this is what I’ll be waiting for seems as it’s not. Arrived as I had amazon prime. Great item.
+
+","Reviewed in the United States on April 15, 2020"
+185,"
+Puntualidad
+","
+
+  Me encantó, tenía desconfianza de este producto, pero llegó bien empaquetado y antes de tiempo, algo que en lo personal apareció mucho
+
+","Reviewed in the United States on October 3, 2019"
+186,"
+Best budget CPU
+","
+
+  The best budget CPU money can buy, awesome for beginners and those working on a budget
+
+","Reviewed in the United States on July 17, 2020"
+187,"
+Great bang for your buck!
+","
+
+  Researched quite a bit before buying, does exactly what I need. I use it for light gaming and normal desktop home pc use.
+
+","Reviewed in the United States on August 5, 2020"
+188,"
+Make sure your back plate is on
+","
+
+  When I was putting it in almost broke my mother board whole time my back plate fell off lol
+
+","Reviewed in the United States on June 6, 2020"
+189,"
+Buena apu
+","
+
+  Al usarla en dual chanel pude llegar a ejecutar 6 instancias de Nostale al tiempo sin bajones.
+
+","Reviewed in the United States on February 18, 2020"
+190,"
+Great
+","
+
+  Great
+
+","Reviewed in the United States on November 4, 2019"
+191,"
+Precio calidad
+","
+
+  Excelente rendimiento para empezar en el mundo de los videojuegos Fluidez y buenas especificaciones
+
+","Reviewed in the United States on August 29, 2019"
+192,"
+Exelente procesador
+","
+
+  Muy buen procesador para empezar en el gaming hace poco hice una build con una board  b450 y este procesador
+
+","Reviewed in the United States on December 17, 2019"
+193,"
+Very good
+","
+
+  Bild a new PC
+
+","Reviewed in the United States on July 8, 2020"
+194,"
+muy bueno, por el precio.
+","
+
+  lo utilizo para jugar, hacer tareas comunes y multimedia. para lo que cuesta esta muy bien.
+
+","Reviewed in the United States on October 1, 2020"
+195,"
+WARNING
+","
+
+  If you are going to buy this, use dual channel memory. It will almost double the performance.
+
+","Reviewed in the United States on December 17, 2019"
+196,"
+Works fantastic
+","
+
+  Exactly what I needed
+
+","Reviewed in the United States on September 29, 2019"
+197,"
+I would get the 5 if you have the money
+","
+
+  It works great! I would get the 5 tho if you got the money.
+
+","Reviewed in the United States on June 10, 2020"
+198,"
+Works like a charm
+","
+
+  Happy with performance and price.Recommend the seller as well, item came as advertised.
+
+","Reviewed in the United States on February 5, 2020"
+199,"
+Good for the price
+","
+
+  Does its job for the price havent had much problems with it, but later on I do plan on upgrading
+
+","Reviewed in the United States on September 27, 2020"
+200,"
+Easy to use great price
+","
+
+  Easy to use
+
+","Reviewed in the United States on November 4, 2019"
+201,"
+Great packaging - arrived in perfect condition in a reasonable time
+","
+
+  Improves gaming speed and graphics compared to my previous play with PS4 and other devices
+
+","Reviewed in the United States on August 29, 2019"
+202,"
+Great
+","
+
+  Great product good price
+
+","Reviewed in the United States on June 30, 2020"
+203,"
+AMAZING
+","
+
+  Works great. For the price you can’t beat it.
+
+","Reviewed in the United States on June 29, 2020"
+204,"
+Pc gaming
+","
+
+  This CPU is great for gaming, i play different Game that is high requirement
+
+","Reviewed in the United States on June 16, 2020"
+205,"
+Arrived in two days after bought
+","
+
+  Nice packaging nothing bent or broke arrived in two days after bought amazing.
+
+","Reviewed in the United States on September 10, 2020"
+206,"
+Great
+","
+
+  Been nearly a week and im satisfied with the cpu
+
+","Reviewed in the United States on July 31, 2020"
+207,"
+Works Perfectly
+","
+
+  it came well packaged and worked as soon as i installed it...
+
+","Reviewed in the United States on April 3, 2020"
+208,"
+Tiempo de entrega muy rapido
+","
+
+  Todo muy bien me llego antes de lo esperado
+
+","Reviewed in the United States on October 13, 2019"
+209,"
+Geat CPU for budget PC builds
+","
+
+  Great budget CPU
+
+","Reviewed in the United States on April 22, 2020"
+210,"
+The 4 cores and 4 threads is good for up to a GTX 960
+","
+
+  Noooo it’s not good for high end gaming
+
+","Reviewed in the United States on November 4, 2019"
+211,"
+Perfect for online gaming
+","
+
+  Perfect for online gaming for beginners
+
+","Reviewed in the United States on August 29, 2019"
+212,"
+no he recibido este articulo
+","
+
+  de cinco articulos no recibi el AMD procesador Rysen 3
+
+","Reviewed in the United States on March 20, 2020"
+213,"
+U can play games without graphics card
+","
+
+  Very nice
+
+","Reviewed in the United States on August 18, 2020"
+214,"
+works nice on my Gigbite B450 motherboard
+","
+
+  cant beat the price .
+
+","Reviewed in the United States on October 20, 2020"
+215,"
+Precio y calidad
+","
+
+  Excelente procesador a precio económico.
+
+","Reviewed in the United States on March 4, 2020"
+216,"
+Still a ryzen, just less cores
+","
+
+  excellent value cpu for gaming in 1080p
+
+","Reviewed in the United States on February 1, 2020"
+217,"
+My first pc gamer thank you
+","
+
+  Gpu is ni good is slowly
+
+","Reviewed in the United States on December 27, 2019"
+218,"
+Excelente rendimiento
+","
+
+  Muy buen servicio
+
+","Reviewed in the United States on April 29, 2020"
+219,"
+Great
+","
+
+  If you want a budget build this is perfect.
+
+","Reviewed in the United States on November 16, 2020"
+220,"
+Confiable
+","
+
+  Todo en regla, todo a tiempo todo en excelente estado.
+
+","Reviewed in the United States on November 4, 2019"
+221,"
+Good
+","
+
+  Good product
+
+","Reviewed in the United States on August 29, 2019"
+222,"
+great
+","
+
+  just overall a great cpu
+
+","Reviewed in the United States on January 19, 2020"
+223,"
+It’s little big hard to connect to motherboard
+","
+
+  Great
+
+","Reviewed in the United States on March 31, 2020"
+224,"
+nothing
+","
+
+  Did not fit my pc
+
+","Reviewed in the United States on June 17, 2020"
+225,"
+EXCELENTE ADQUISICION
+","
+
+  Muy conforme, muchas gracias!
+
+","Reviewed in the United States on January 31, 2020"
+226,"
+great for gaming on a budget
+","
+
+  Great value 👍👍
+
+","Reviewed in the United States on June 16, 2020"
+227,"
+Did what it was supposed to
+","
+
+  Perfect for a low budget pc
+
+","Reviewed in the United States on July 5, 2020"
+228,"
+Linux users beware.
+","
+
+  The builtin Vega 8 graphics card is incompatible with Linux, and will either cause instabilities (lost interrupts) or outright crashes. You Will need to add a Linux compatible Nvidia card, and disable the internal card if you plan to use this with Linux. I spent weeks diagnosing this issue.
+
+","Reviewed in the United States on September 24, 2020"
+229,"
+Great price, but have to pair it with a real GPU to be useful for gaming
+","
+
+  I did buy this elsewhere and while I was really hoping my first Ryzen 3000 build would be great.  I am finding that the CPU is just ok.  Without a GPU, this CPU is superior to Intel, but with a GPU, the I3-9100f is a much better deal.  Much better for gaming.  Regardless, this is a great starter to eventually upgrade.  I build computers on the side and this is actually my first AMD build in about 4 years.
+
+","Reviewed in the United States on July 29, 2020"
+230,"
+If you Surf the Internet, look no further.
+","
+
+  I am using this CPU right now.If you want value and only do basic online computing.Look no further.It works plenty fast with the Gigabyte B450 AORUS M.Plus 16 GB Ram. I use the video from the CPU.
+
+","Reviewed in the United States on November 4, 2019"
+231,"
+a great budget friendly cpu
+","
+
+  I didn't buy this cpu here cause i found it cheaper at another place but it's a great cpu for the money i'm playing triple a games on it and it works great games like battlefield 3 and 4 which are pretty graphic intense games to me anyways so i'm happy with it. sorry amazon I found the cpu cheaper somewhere else but i had to stick to a strict budget for my build
+
+","Reviewed in the United States on August 29, 2019"
+232,"
+Great processor, noisy fan
+","
+
+  This processor is great for web browsing, office programs, and light gaming with the built in graphics.
+
+","Reviewed in the United States on February 12, 2020"
+233,"
+This CPU is under rated.
+","
+
+  Hey I will be making a budget build gaming pc video. I think this CPU is under rated and I want to advertise it. Would you guys be able to send it to me for free?
+
+","Reviewed in the United States on March 9, 2020"
+234,"
+Works ok once you get all the software just right
+","
+
+  In the early days of AMD I was a fan and built lots of AMD based computers.  Then the quality of their CPUs seemed to go south with bugs and compatibility problems so I went Intel all the way.  Then the Ryzen processors came out and I heard all sorts of good things, so when my mom's computer needed rebuilding I decided to try doing the build with a Ryzen.  The regret started almost immediately.  Windows 10 crashed on install, then with a BIOS update it installed but wouldn't update.  Figuring out all the compatibility issues with Windows 10 resulted in long hours and bloodshot eyes but I finally figured out the magical combination of drivers and bios to get it to function correctly.  But what a huge pain and waste of time!  While I did get this to work in the end, I can't in good conscience recommend it to anyone, there is no excuse for something so basic to be that complicated in the 21st century.  Suffice to say I am going back to Intel.
+
+","Reviewed in the United States on March 11, 2020"
+235,"
+Entry into the greatest CPU family ever created.
+","
+
+  I've built about 5 Ryzen PCs this year. I used this on a PC I built for a client on a b450m board. No complaints yet! Just don't forget to overclock your RAM, I think this one supports up to 2933Mhz DDR4.With all the latest drivers installed, this PC survived a few hours of benchmarking and stress testing. I'm very pleased with the performance per dollar and I don't think it can be beat yet.
+
+","Reviewed in the United States on October 9, 2020"
+236,"
+Most value and performance for entry gaming with out a dedicated GPU
+","
+
+  If you are looking to get into entry gaming and on a budget this is the best performance to cost for an APU. You get 4 cores with 4 threads at a base clock of 3.6 Hz, an unlocked processor with Radeon graphics Vega 8; saving you the initial cost of a dedicated gaming card. If paired with a good motherboard you can easily upgrade to a higher end AMD Ryzen CPU and then add a dedicated graphics card later down the road.
+
+","Reviewed in the United States on March 25, 2020"
+237,"
+You are not buying this as your first choice
+","
+
+  Honestly with the Human Malware we have right now the market is really wacky with pricing and availability but this is a great choice for a processor if you are looking to build a gaming system on the cheap, if you can try getting the 3300X since the hyperthreading comes in very handy when multitasking but so far the 4 cores and 4 threads of this processor are doing all the work I need them to do.If you have less budget and you are not getting a dedicated GPU you should get the 3400G the extra Vega cores are handy and when you get a GPU in the future, again hyperthreading will come in handy.
+
+","Reviewed in the United States on December 8, 2019"
+238,"
+Fast without graphics card needed
+","
+
+  Works well enough for a user like me. Ryzen 3 generation but it’s more than capable of gaming. I’m a casual gamer and I use it for work also. Has 4 cores which is an upgrade for me. Intel wouldn’t be able to beat this performance and even their price point. If you’re afraid of your cpu/apu getting too hot, it comes with a cooler fan.The main reason I got this is that it has integrated graphics so you don’t need to spend extra on a graphics card for your computer to work. The integrated graphics is more than enough that you’ll need. AMD beats Intel out of the park.
+
+","Reviewed in the United States on May 10, 2020"
+239,"
+This is amazing for a apu
+","
+
+  I was benching this and It get about gt 1030 level of performance without over clocking the ram.If you know what your doing you could easily run most modern AAA's at 720p low settingsIt's not a bad option, and you could just install a graphics card in a year or two when games get more demanding.for a under 300 dollar budget this would be my option.
+
+","Reviewed in the United States on June 15, 2020"
+240,"
+Great CPU to Use for Casual and Gaming
+","
+
+  I have no problems with this CPU at all. It sits in a MSi Gaming Pro MAX . It installed nice and works great and cools perfectly with the stock cooler. No mater what I do it hangs around 37c - 98f . I chose this CPU because the build it  went into is only  for surfing and streaming video and it keep my upgrade cost were I wanted it.
+
+","Reviewed in the United States on November 4, 2019"
+241,"
+Awsome
+","
+
+  My pc no loger freezes or locks up
+
+","Reviewed in the United States on August 29, 2019"
+242,"
+Great APU...why get expensive Intel get this!!
+","
+
+  1030ocNvidia GPU, 16gbRam, 550psu thermaltake. Lite gaming and  accounting work. works pretty good rendering works pretty good very very good. Pubg is playable. On low settings.
+
+","Reviewed in the United States on May 26, 2020"
+243,"
+While this cpu isn't fast, it worked solid out of the box.
+","
+
+  Good value for the $$. The fan it comes with is a bit noisy. 5 stars for being cheap!
+
+","Reviewed in the United States on April 23, 2020"
+244,"
+Very fast and reliable AND CPU
+","
+
+  Built  a rocket fast computer  system for my grand son using this chip
+
+","Reviewed in the United States on October 6, 2019"
+245,"
+Decent speed for a system not needing high performance.
+","
+
+  For a few bucks more than the 2300G you get an unlocked processor that scores quite a bit higher in performance benchmarks.
+
+","Reviewed in the United States on March 18, 2020"
+246,"
+cheap, needed for my x570
+","
+
+  i needed this cpu for my asrock x570 and it worked nice!
+
+","Reviewed in the United States on May 24, 2020"
+247,"
+VERY VERY capable little CPU
+","
+
+  The integrated graphics runs games better than the Xbox one and PS4
+
+","Reviewed in the United States on November 4, 2019"
+248,"
+Awesome
+","
+
+  You can play gta 5 and aplex without graphic cards
+
+","Reviewed in the United States on June 10, 2020"
+249,"
+I loved
+","
+
+  Fast 💨 amazing 😉 loved
+
+","Reviewed in the United States on May 7, 2020"
+250,"
+Received in as said.
+","
+
+  Great price.
+
+","Reviewed in the United States on November 4, 2019"
+251,"
+Would reccomend
+","
+
+  Was easy to install and works great
+
+","Reviewed in the United States on August 29, 2019"
+252,"
+Eh
+","
+
+  I’d go for a better one it’s okay
+
+","Reviewed in the United States on September 30, 2020"
+253,"
+Good purchase
+","
+
+  Excellent cpu
+
+","Reviewed in the United States on September 29, 2020"
+254,"
+Excellent
+","
+
+  Excellent
+
+","Reviewed in the United States on December 22, 2019"
+255,"
+Great
+","
+
+  Great value for my budget build!
+
+","Reviewed in the United States on June 14, 2020"
+256,"
+Base clock 3.1ghz
+","
+
+  Mine came with 3.1ghz not the advertised 3.6ghz Trying to figure out why now. I could have got the 2200g and saved 29$ but I paid it because I want led the higher ghz
+
+","Reviewed in the United States on June 6, 2020"
+257,"
+Excellent
+","
+
+  Excellent
+
+","Reviewed in the United States on February 10, 2020"
+258,"
+Amazing Apu
+","
+
+  This is a great Apu plays almost all games at great frames
+
+","Reviewed in the United States on February 12, 2020"
+259,"
+Good purchase
+","
+
+  Good value
+
+","Reviewed in the United States on July 22, 2020"

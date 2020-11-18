@@ -1,0 +1,404 @@
+,title,content,date
+0,"
+Performance is very good for a dual core  processor
+","
+
+  Every computer I have owned in the last ten years has been based around a AMD processor. I decided to try Intel's Sandy Bridge processor after some research. I must say that I am very pleased with Intel's product. The Intel Core i3 2100 is just a dual core processor with hyper threading technology, but its performance is very good for a dual core processor. The Intel Core i3 2100 is a very fast CPU operating at 3.1Ghz with 2 x 256 Level 2 Cache and 3MB L3 Cache which greatly helps performance. The Intel Core i3 2100 is a very capable processor. I am currently using it for a gaming computer and very happy with its performance this system will become my HTPC in the future. I can see that with older game titles such as Crysis: Warhead , Half Life, Call of Duty, Far Cry, Splinter Cell: Pandora Tomorrow  having a faster processor has a clear advantage over number of cores. However, with more demanding settings and newer game titles that support DirectX 11 (Battlefield 3, Crysis 2) having extra cores can bring a clear advantage, with performance gain ranging from 10-15%. With all that said my conclusion is the Intel Core i3 2100 is a solid choice for it's class. This processor is ideal for a budget system or HTPC because of its low power consumption and heat output. I would purchase it again for a budget system build.  System Summary  Mainboard : Asus P8H67-M PRO  Chipset : Intel Sandy Bridge  Processor : Intel Core i3 2100 @ 3100MHz  Physical Memory : 8192MB (2 x 4096 DDR3-SDRAM )  Video Card : AMD Radeon HD 6700 Series  Hard Disk : Western Digital WD5002AALX-00J37A0 (500GB)  DVD-Rom Drive : ASUS DRW-24B1ST  a  Monitor Type : ViewSonic VX2450 SERIES - 24 inches  Network Card : Realtek Semiconductor RTL8168/8111 PCIe Gigabit Ethernet Adapter  Operating System : Windows 7 Home Premium Home Edition Media Center 6.01.7601 Service Pack 1 (64-bit)  DirectX : Version 11.00  Windows Performance Index : 5.9 on 7.9
+
+","Reviewed in the United States on May 30, 2012"
+1,"
+Nice...but Bring Your Own Fan
+","
+
+  After ending up somewhere in between the sweetspot of $99 I often see this advertised at and the mid 100s at the top, I figured that I'd snagged a good deal.  For my purposes, I had--a Windows Home Server with enough cores and thread on the CPU and ample memory to handle transcoding and a multitask load.This is indeed a great light load computing bargain, but the stock cooler has left me with an unpleasant legacy:  the standoffs that connect it to the motherboard are now permanently stuck two places.  believe me, we've tried.  If that fan ever dies, there is no way to get it out without flexing the mobo to the breaking point, and of course no way to get at or cool this processor.  The fan is pretty quiet, really, and has run and cooled well enough, but it's easily the noisiest part on my build.Grab it at it's lowest price point and put the saved cashmo into a 3rd party cooling fan.
+
+","Reviewed in the United States on December 10, 2011"
+2,"
+Great processor, perfect for an HTPC
+","
+
+  This is a dual core processor clocked at 3.1GHz, Bought this for a HTPC build, was combined with 4GB of DDR3, a Biostar H61MH motherboard, 1TB HDD and an IOGear wireless keyboard. The computer is really fast and works great as a HTPC, its plugged into our 42"" LCD using the HDMI port at 1080p. The video looks great even though the motherboard doesn't have a dedicated video card/chip. I've even played movies on XBMC while ripping a video at the same time, without any problems. All our videos (mkv and avi) look great, so does Hulu desktop. I haven't run any benchmarks but I do know that it rips videos about 50% faster than my Core2Duo Macbook pro.The processor was well packaged and easy to install. With only a 65W power consumption, it seems to run cool all of the time, only heard the fan speed up while installing the OS. The fan that came with the processor seems more than enough and quiet, though I did use Artic Silver 5 thermal compound with my build. The other thing I really like is how you don't need an additional graphics card, keeps the cost lower and also reduces power consumption indirectly. Note: this can't be over-clocked.All in all, a great CPU, highly recommended. Will probably install Ubuntu 11.04 soon, will update the review then, especially if there are any problems.
+
+","Reviewed in the United States on May 30, 2012"
+3,"
+Very powerful CPU. Best CPU in $120 price range
+","
+
+  I bought this CPU as a stepping stone for upcoming Ivy Bridge 3570K/3770K. I have to say I am very impressed. Here is what I have to say about it,Pro* Exceptionally fast. When compare against AMD A8 series and FX-41xx series clock to clock this CPU smokes them in computation and multitasking area.* Very energy efficient. Again beats what AMD has to offer in this price range. At idle CPU only draws 9 W and at load draws around 40 W.* Runs very cool. With Cooler Master Hyper 212 EVO temperature stays around 42 C with ambient temperature of 20 C.* Able to run four threads thanks to HyperThread.* Supports Intel Quick Sync for super fast encoding without loss of quality from CUDA/OpenCL.* Does not bottleneck high end GPU like HD6950.* Affordable CPU in LGA1155 platform.Con* Integrated GPU, Intel HD2000, is very weak when it comes to gaming. AMD A8 series does much better in gaming when it comes to integrated GPU (though it needs to be paired with 1600/1866 RAMs). However, it is recommended to use dedicated GPU like HD5770/6770/7750 for mainstream gaming regardless of what CPU you are using.* Stock CPU cooler performs so-so. If possible spend around $20 to $30 on a budget air cooler. Hyper 212 series and ETS-T40 are some recommendations.* Not overclockable.Overall score: 4/590% of the time I would recommend this processor over AMD's processor. In my opinion simply the best CPU you can get in this price range.
+
+","Reviewed in the United States on December 20, 2012"
+4,"
+Good cheap processor used for virtualization
+","
+
+  Good cheap processor used for virtualizationI installed this on a computer I built for virtualization. I looked at the i5 and some other i3's but decided to buy this one because it was fast and it was cheaper than the rest.  This works great in my system and I had no problem installing it on my motherboard. The following items are inside the Intel box: the i3-2100 processor and a heatsink with a fan attached to the top of it.  On the bottom of the heatsink is pre-applied thermal paste, so you don't need to buy any additional thermal paste for this chip.  The fan on the heatsink is very quiet.  I have to listen very closely to even hear the fan running.  I ran both esxi and hyper-v with this chip without any problems.  Here are the specs of my computer:Intel core i3-21008GB of Kingston DDR3 1066 MHz sdramGigabyte Intel z68 GA-Z68A-D3H-B3Corsair Enthusiast 750-WattAntec 300 casePerc 5/i raid card(3) 2TB Samsung 5400rpm Hard DrivesCon:  There is only one con due to a mistake of my own.  If you are using this chip for virtualization (esxi or hyper-v) and want to use the VM pci pass-through technology (VT-d) this chip is not for you.  The i3-2100 does not have the VT-d feature.  You will need to look at the i5's or the i7's.  However, not all of the i5's or i7's have this feature so do some research before you buy a chip.  I didn't know that much about virtualization before I bought this chip so I didn't look for the features.  Beside that, this is a great chip especially for the price
+
+","Reviewed in the United States on May 13, 2011"
+5,"
+Great Product
+","
+
+  I custom built a smaller, inexpensive rig for someone last year and have not had any questions or problems from him.Parts I used were as follows:Corsair XMS3 8 GB (2 x 4GB) 1333 MHz PC3-10666 240-Pin DDR3ASUS P8H61-M LE/CSM Intel H61 Chipset DDR3 1333 Micro ATXCooler Master Elite Power - 460W Power SupplyIntel Core i3-2100 Dual-Core Processor 3.1 GHz 3 MB Cache LGA 1155Asus 24xDVD-RW Serial ATA Internal OEM Drive DRW-24B1ST HIS H675FS1G Radeon HD 6750 1GB 128-bit DDR3I used an older case and modded it to fit everything properly and works good.
+
+","Reviewed in the United States on April 12, 2012"
+6,"
+Phenomenal processor
+","
+
+  This processor is very powerful and fast. I have i7 and i5 systems and this one surprisingly manages to keep pace. Of course it is slower than the other two but as significantly as I would've thought.One thing to be aware of though: Be sure when installing that the wire isn't wrapped too tight around the stock fan. I thought the cpufan pins on my mobo were bad because the fan was not spinning when I first started it up. After some experimentation, I found that the wires were wrapped too tight around the fan causing it to prevent it from spinning freely. This is extremely dangerous if a person were to just assemble their computer and start it up. This is just as a heads up, has little to do with the processor itself so it's still a 5 star review.
+
+","Reviewed in the United States on September 16, 2011"
+7,"
+but trying to source a 2500k for an old PC would be a waste of money
+","
+
+  Works. This was a replacement for a 2500k that burnt out because my sister smokes and never cleans the case or fans out. I'm certain it's not as fast, but trying to source a 2500k for an old PC would be a waste of money. So, buy this as a replacement, works well.
+
+","Reviewed in the United States on June 13, 2013"
+8,"
+Great CPU for my HTPC
+","
+
+  I am using this as both my CPU & GPU. Mostly HD video with some light gaming, but nothing graphics intensive. Utilizing the i3-2100 allows me to enjoy almost complete silence from the case other than the slight hum of the CPU fan. With the i3 I wasn't really looking for anything other than stability (24/7) and price point. Combined with a passive PSU I couldn't ask for a more perfect CPU.Setup:Case - Silverstone SECC Grandia GD05BMB - ASUS P8H67-M PRO/CSMPSU - SeaSonic X Series SS-400FL2O/S - Windows 8
+
+","Reviewed in the United States on August 28, 2011"
+9,"
+ENERGY EFFICIENT
+","
+
+  Main reason for purchase of this CPU was its energy efficiency. I wanted something fast and still have a low power consumption and so the Atom processors did not fit my needs.When the computer is sitting at desktop it currently pulls 28W and Under full load it never goes past 37W. The whole computer consist of a 400W 80 PLUS Bronze PSU, an F3 Samsung hard drive, using its built in graphics chipset for video, single module 1333mhz 4gb DDR3 ram, a single 80mm fan, an asrock h67 motherboard, and DVD burner.Fits all my needs-Transcoding speeds are reasonable (although I did not buy this CPU for that) trough quicksync feature-Windows 7 runs quick and snappy-HD 1080p YouTube and Netflix play fine without any struggling. Played both at the same time without cpu utilization going beyond 55%Nice CPU for ""general"" computing. Would recommend if your needs are similar.
+
+","Reviewed in the United States on March 23, 2016"
+10,"
+Works perfectly
+","
+
+  Picked this for a rebuild of my wife's computer.  It is the general purpose machine for the house doing everything from email, to MagicJack, to checking our daughter's grades to looking for recipes.  It boots quickly and has been running without a hitch for about a month now.  Certainly much quicker than the old machine that we built 7 years ago.  Install was easy on to an Intel branded board.  Like the fact that the cooler is included.  Certainly a good value for the money.
+
+","Reviewed in the United States on May 30, 2012"
+11,"
+Great Processor
+","
+
+  Given that this is an older (revision 2) Sandy Bridge CPU, it's still a great choice.I have just built an HTPC and didn't want to wait for the new Ivy Bridge I3 to come out, and have to pay a premium.This processor is part of an HTPC build that powers Windows Media Center using a SiliconDust HDHomeRun Prime (3-tuners). I have my XBOX 360 streaming HD content to my TV with no problems.Highly recommended.
+
+","Reviewed in the United States on December 10, 2011"
+12,"
+Great Deal
+","
+
+  I'm very pleased with this CPU.  Application for the PC is HTPC.  The CPU has far more processing power than needed but what I really like is the low (electrical) power consumption and low heat.  Only 65W Max TDP.I've put the CPU in an ASUS P8H67-M PRO/CSM MB and it's working great.My setup uses built-in graphics with no issues.  I'm using VGA output rather than HDMI so far.  GPU HW graphics acceleration from directx and Adobe Flash Driver seem fine.Had no troubles finding appropriate Intel drivers from their website.  Note that I'm using Windows 7 64-bit.  I haven't tried to run in a Linux system.
+
+","Reviewed in the United States on November 12, 2011"
+13,"
+Takes a lickin' keeps on....quietly doing its job
+","
+
+  I was way, way too rough on this CPU and it still worked like a champ. I was under the impression that you couldn't breath on CPUs and that you had to be in a clean room to install them, but no. I drop kicked it, my daughter and I played tiny frisbee with it for a while, and then we used it in place of a coin to settle some coin-toss decisions.
+
+","Reviewed in the United States on June 7, 2012"
+14,"
+Great CPU and cooler
+","
+
+  What can I say -- it works! Great CPU and cooler.
+
+","Reviewed in the United States on April 26, 2011"
+15,"
+Runs Fast with low power for a Mini Itx system
+","
+
+  Pros:Fast 3.10Ghz processor, 4 virtual cores, Intel HD Graphics, 65Watt powerCons:Could be lower power, runs a little hot on the backside, Included CPU Heatsink/fan did not fit properly in the anchoring position.  Did not anchor properly, poor design.
+
+","Reviewed in the United States on April 7, 2012"
+16,"
+Little processor packs quite a punch.
+","
+
+  Just as the title says this little and inexpensive processor is quite capable of gaming. So far I've used it to play Bioshock 1 & 2, Stalker Call of Pripyat, Borderlands, Call of Duty 4. All of these games running at 1280x 1024 maxed out with this cpu paired with a gtx 460 v2 give me a constant rock solid 60 fps. The fan on this cpu is very quiet and keeps it relatively cool at around 35 c idle and 59 c on load.
+
+","Reviewed in the United States on November 17, 2016"
+17,"
+Don't let the ""dual core"" fool you...
+","
+
+  I recently had the pleasure of setting up a system based on this *wonderful* CPU for a client. Now, I'd been building cheap but powerful gaming boxes for a long time, and my CPU weapon of choice had always been an AMD Athlon II X4 640 (or in really budget cases, the Athlon II X3). However, after reading about this chip and looking at benchmarks, I figured I'd cut my profit margins a bit and give it a shot in my most recent client's build. Wow. Just...wow!This chip, despite being a 2C/4T chip (instead of 4C/4T like the Athlon II X4), was able to hold its own against the X4's (in low thread count applications, like most games, it beats the X4 by a healthy margin; in higher threaded apps, the picture becomes a little less clear-cut).Anyway, the machine this chip went into was paired with an AMD Radeon 6790 and an ASRock H61M-VS, and I'm just absolutely blown away. The stock cooler is TINY and nearly SILENT, yet since the chip only draws 65W (that's WITH the iGPU -- without it, I'm sure it's more like 50W), it works beautifully and there's no need to find an aftermarket cooler. WEI score is 7.3 for the CPU, and games run fantastically (you're not going to be CPU limited in anything I tried including: FEAR, CoD MW3, BF3, Mass Effect 2, Crysis)!Now, some things I don't like, but won't take points off of:- No way to overclock (SNB's clock generator is integrated, so BCLK is locked and I understand that, but the older i3's were known for their OC'ing wonder, so I still miss the feature)- Platform costs are slightly higher than comparable AMD solutions. The lowest price mATX board with one PCI-E slot is equivalent in price to a crossfire-capable, regular sized AM3 board.But yeah, GREAT chip if you're on a budget. For a general purpose PC, this is perfect (even overkill). For a gaming PC on a budget, this works fantastically. Also, if you pair this with a reasonably high end P67/Z68 board, you'll have an upgrade path to an i5 2500K/i7 2600K (and even Ivy Bridge), as well as multi-GPU goodness.Very pleased. Will use it again when I can!
+
+","Reviewed in the United States on April 15, 2013"
+18,"
+5 stars for this purchase.
+","
+
+  5 stars for this purchase.
+
+","Reviewed in the United States on February 10, 2012"
+19,"
+Perfect for my Application
+","
+
+  I wanted to build my own computer and when choosing items you always get a list of items that go with what you choose. The Sandy Bridge CPU was a perfect fit and easy to install. It's performance is great.
+
+","Reviewed in the United States on November 30, 2011"
+20,"
+Perfect for upgrading my moms old pc so she can
+","
+
+  Perfect for upgrading my moms old pc so she can watch streaming movies with no hiccups or stutters no problems so far since purchase. everything is running smoother than ever.
+
+","Reviewed in the United States on May 30, 2012"
+21,"
+Five Stars
+","
+
+  Very affordable and easy to install, shipping was very quick
+
+","Reviewed in the United States on December 10, 2011"
+22,"
+great for the price
+","
+
+  Used this processor in a computer for gaming & home theater -works great for both applications!46 in TV a little rough for gaming from a distance but the performance for the money cannot be beat.
+
+","Reviewed in the United States on April 28, 2016"
+23,"
+OK
+","
+
+  EL PRODUCTO LLEGO OK, TAL Y COMO LO OFRECIERON ESTOY TOTALMENTE SATISFECHO CON EL MISMO.RECOMIENDO AL VENDEDOR ES BASTANTE RESPONSABLE
+
+","Reviewed in the United States on July 1, 2018"
+24,"
+HOLY CRAP I LOVE THIS CHIP
+","
+
+  There is so much hype surrounding the i5-2500k that most other chips get overlooked. This is one of those gems.For starters, this is a FAST processor. 3.1GHz w/a 3MB L3 cache. That is QUICK. Plus, it is a dual core (most programs & games cannot even use quad core, so why bother?) and it has hyper-threading, so it actually seems that it's quad core. It's built on a 32nm technology which makes it one of the most power efficient processors available. On top of all this, it runs SO unbelievably cool, that I still have a hard time believing the temperatures in my case.It has some graphics stuff inside of it that I still don't fully understand, but I guess that is awesome.Cons: It does not have the ability to be overclocked. If you want to overclock, the i5-2500k is for you. If you want a very nice system, with a cool-running, inexpensive chip, then GET THIS. YOU WILL NOT BE DISAPPOINTED.Final thoughts: I think that this latest build is the best computer that I've ever owned. I am so thoroughly impressed with every aspect, including Amazon's incredibly fast shipping and packaging.
+
+","Reviewed in the United States on November 3, 2011"
+25,"
+Great for HTPC
+","
+
+  I bought this CPU for my new HTPC setup. I wanted a low-power chip that offered enough horsepower for HD video playback. This fit the bill and works great with the built-in graphics processor. No extra, power-sucking video card required (assuming you get the correct motherboard, I chose the ASRock H67M-GE).
+
+","Reviewed in the United States on January 4, 2013"
+26,"
+great
+","
+
+  this part is just what we ordered and needed would recommend and will be purchasing more of them for our business
+
+","Reviewed in the United States on June 29, 2011"
+27,"
+review
+","
+
+  works great love the power saving of the new intel cpus. works great with windows and cant beat the reliability of intel products
+
+","Reviewed in the United States on November 4, 2011"
+28,"
+Intel Core i3-2100 Dual-Core Processor 3.1 GHz 3 MB Cache LGA 1155 -...
+","
+
+  Excellent product and performance. I like it, but not love it.Excellent priceYes, I recommend this product for OEM Builders
+
+","Reviewed in the United States on June 28, 2013"
+29,"
+works great
+","
+
+  The CPU has been working great since the day I bought it. Running applicationsare much faster than my previous CPU.
+
+","Reviewed in the United States on October 22, 2013"
+30,"
+Good HTPC
+","
+
+  Paired this up with a 
+
+Gigabyte Intel Z68 Micro ATX LGA 1155 Motherboard (GA-Z68MA-D2H-B3)
+
+   and my HTPC and i couldn't be happier.
+
+","Reviewed in the United States on May 30, 2012"
+31,"
+excellent product... all right...
+","
+
+  excellent product... all right...
+
+","Reviewed in the United States on December 10, 2011"
+32,"
+Good Processor
+","
+
+  Good Processor at a great price, 104 when i ordered, it was a great upgrade from my celeron processor.  Highly recommended.
+
+","Reviewed in the United States on September 14, 2011"
+33,"
+Works great for HTPC
+","
+
+  I got this for a rebuild of my linux Mythtv HTPC.  It works great with low power usage.  And it's Tonka!  It used to take a hour or more to commercial flag a 30 minute HD recording.  Now it can do it in ~20 minutes.
+
+","Reviewed in the United States on July 2, 2014"
+34,"
+Four Stars
+","
+
+  Great processor, but it would be wise to invest in a i5 processor if possible
+
+","Reviewed in the United States on October 21, 2012"
+35,"
+What can I say?
+","
+
+  Compared to the antique I used to have.... What can I say??  WOW!! WOW!! WOW!!Just like driving in the Fast Lane..
+
+","Reviewed in the United States on July 25, 2011"
+36,"
+Amazing budget CPU
+","
+
+  I bought this for a recent budget build and it chews through games no problems while maintaining excellent temperatures.  Great CPU for the budget builder.
+
+","Reviewed in the United States on June 21, 2016"
+37,"
+A nice upgrade for my pc
+","
+
+  Esay to install on the motherboard and really fast all for a decent price. I can run Diablo 3 and Ragnarok Online 2 without problem
+
+","Reviewed in the United States on February 21, 2012"
+38,"
+This is what I expected
+","
+
+  The speed is more than great for my Windows 7 and is there no application that don't work well and fast with this processor.
+
+","Reviewed in the United States on December 6, 2012"
+39,"
+intel i3 -2100 processor
+","
+
+  Bought this for a hackintosh build. It works well with the other parts i bought,the fan and heat sink were included and easy to install on my MB.
+
+","Reviewed in the United States on August 25, 2013"
+40,"
+Great Processor not so great cpu cooler
+","
+
+  I was trying to decide between a  AMD Fx 4100  processor or this the Intel i3 2100 processor. After doing some research , I have to say the i3 2100 is superior to AMD's fx 4100 quad core processor in most games right now.  Most games only use dual core. I installed this and tested it. The fan that came with it was faulty. Luckily I had a spare CPU cooler. This thing is fast and for the price you get great performance. I noticed since upgrading to this processor my computer responds faster.It reaches 45 degrees max.  I would recommend an after market CPU cooler if you want lower temperature. I been waiting to buy a new CPU, but wanted to wait till I could afford to buy one and this one exceeds my expectations.
+
+","Reviewed in the United States on May 30, 2012"
+41,"
+Intel i3 2100 cpu
+","
+
+  I bought this cpu just for my kids for them to have their own computer to use to browse the internet and for their homework (study island). the speed is very descent for browsing the web but if your a gamer better get the i5 2500k or the i7 series. there is only $60-$80 difference from an i3 to i5, it is your own preference, i hope this is helpful.
+
+","Reviewed in the United States on December 10, 2011"
+42,"
+Intel Core i3-2100 Processor 3.1GHz 3 MB Cache Socket LGA1155
+","
+
+  CPU worked on the first power up.  Window 7 windows experience index shows 7.1.  Using it everyday for 2 months with no problems.
+
+","Reviewed in the United States on December 10, 2011"
+43,"
+very good product.
+","
+
+  very good product.
+
+","Reviewed in the United States on January 9, 2012"
+44,"
+Five Stars
+","
+
+  good
+
+","Reviewed in the United States on January 16, 2012"
+45,"
+Five Stars
+","
+
+  gracias
+
+","Reviewed in the United States on September 18, 2014"
+46,"
+Five Stars
+","
+
+  excelent..!
+
+","Reviewed in the United States on February 16, 2015"
+47,"
+Five Stars
+","
+
+  excellent purchase, recommended seller
+
+","Reviewed in the United States on December 11, 2015"
+48,"
+Happy buyer
+","
+
+  Item was as advertised, although the amount of thermal paste was less than what I expected. Works great, priced great. Would do business with again!
+
+","Reviewed in the United States on July 5, 2014"
+49,"
+Decent product
+","
+
+  Decent product 3/5 stars
+
+","Reviewed in the United States on January 29, 2015"
+50,"
+Five Stars
+","
+
+  gracias... recomendable.
+
+","Reviewed in the United States on May 30, 2012"
+51,"
+Amazing
+","
+
+  I used this CPU as part of a build to replace my AMD Phenom II x3 705e / HIS HD5670 based HTPC. I was not happy with the picture quality and power consumption of the AMD-based system.  After reading a lot of reviews, forum posts and finding the right sale, I took the plunge.  I am so happy I did.The picture quality of the integrated HD2000 graphics is just amazing. It blows away the HD5670 discrete graphics I had installed. There is far less color banding, especially in dark scenes. This is very evident when viewing the scene in How To Train Your Dragon when the father is speaking to the son in his room at night. I've found too that panning DVDs looks much better. Again, my test for this is the opening scene to A Charlie Brown Christmas when the scene pans to the pond where the kids are skating. (Can you tell yet I have kids?). It was very easy to setup HD audio bitstreaming. Everything has worked without a hitch with the exception that I currently cannot update the Intel IGP driver without getting a BSOD. The driver version I have though is stable and works so it's a non-issue.I measured power consumption of my system from the wall using a kill-a-watt.  The new HTPC is basically the new i3-2100 CPU and an ASUS H61 motherboard with all the same parts reused, except the HD5670 GPU.  Power consumption went from 180W-200W watching video/TV to 40W-50W.  It clear too it's throwing a lot less heat because the fans in the same case are running a lot quieter.  Idle power went from around 90W to 28W.  So, basically, this doesn't use more than the power of a 40-60W lightbuilb whereas before I was using a chandelier ;).To top it off, the i3-2100 was a good $25 cheaper than the AMD CPU when I bought it and if you count the HD5670 GPU I paid $99 for, it's a good $125 cheaper for better graphics, less power and less heat.  Amazing.  I would never have expected this price point from Intel.I am sold on the SandyBridge architecture for HTPC use.  As a matter of fact, I just built a Pentium G620 HTPC for my bedroom and I am more than happy with that as well. For my use, it's also amazing and $30 less than the i3-2100!The build:Intel i3-2100ASUS P8H61-M H61 motherboardMicroCenter 64GB G2 SSD (boot/apps)WD 320GB Caviar Blue HDD (recording)G-Skill 2 x 2GB DDR3 1333Mhz RAMnMediaPC 1000b case w/ LCDAntec EA-380D 380W 80+ Bronze PSUHappauge WinTV-1250 tuner cardLite-On Blu-ray ROMWindows 7 x86 (32-bit)
+
+","Reviewed in the United States on December 10, 2011"
+52,"
+Cheap but powerful
+","
+
+  I built a SandyBridge gaming rig last month.  I chose the Core i3-2100 as a cheap option to see if it would be great for games such as (StarCraft 2, Crysis, Crysis 2, Burnout Paradise, Left 4 Dead 2.)  I am very impressed at the performance level this processor offers.  First the Benchmark.  I used Passmark Performance Test 7.  The score was 4,472.  Compare that to my Core i5 based MacBook Pro which was 2,367.  So far I have yet to push the limits of this processor.  I would Highly Recommend this processor over any AMD for low budget gaming.The Specs of my gaming rigIntel Core i3-21008GB of DDR3-1600Mhz RAMAsus P8P67 DeluxeGeforce GTX 460 SE (which is an underrated card)2TB WD HDDSamsung Blu-Ray Drive (Reads BD, Burns DVD/CD's)jakthebomb
+
+","Reviewed in the United States on February 9, 2015"
+53,"
+""End of Life""?  Not hardly!
+","
+
+  My current five-year-old PC has this processor, and it continues to perform flawlessly.  It does everything I need it to do, and it does it all quite well.  I've never had a complaint and don't expect to replace this PC (or its processor) anytime soon.
+
+","Reviewed in the United States on September 21, 2011"
+54,"
+Loved it at the time, but Quad-core>Dual-core everytime.
+","
+
+  It's great; cheap and workable. Despite this, please opt for the i5-2500k, especially if you're overclocking.
+
+","Reviewed in the United States on March 21, 2011"
+55,"
+Basic, but good
+","
+
+  I need a basic PC, I had a few i7 systems but needed something low powered that I could leave on all day to remote access some files via when away from home. Great CPU, it is speedy enough for every day tasks. Good bang for the buck.
+
+","Reviewed in the United States on April 11, 2016"
+56,"
+Budget
+","
+
+  Great for a budget build! This is a great cpu if you are on a budget. You can always upgrade afterwards.
+
+","Reviewed in the United States on October 7, 2014"
