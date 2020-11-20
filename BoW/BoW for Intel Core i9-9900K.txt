@@ -1,0 +1,132 @@
+Unigram:
+cpu 212
+great 132
+fast 122
+best 106
+good 102
+gaming 86
+processor 80
+amazing 44
+beast 36
+hot 36
+intel 36
+performance 34
+work 34
+powerful 30
+worth 30
+product 30
+awesome 28
+run 28
+excellent 28
+price 26
+get 26
+expensive 26
+super 22
+upgrade 22
+core 20
+buy 20
+need 18
+love 18
+power 18
+like 16
+packaging 16
+amd 16
+top 16
+game 14
+one 14
+better 14
+cool 14
+well 14
+fastest 14
+right 12
+overclock 12
+would 12
+pretty 12
+fantastic 12
+still 12
+king 12
+
+Bigram:
+great cpu 36
+best cpu 24
+good cpu 22
+gaming cpu 20
+best gaming 14
+super fast 12
+great product 12
+cpu gaming 10
+best best 10
+top line 10
+fast hot 10
+fast fast 10
+great processor 10
+good product 10
+amazing cpu 8
+excellent cpu 8
+fastest gaming 8
+fast cpu 8
+cpu ever 8
+great gaming 8
+powerful cpu 6
+well worth 6
+amazing processor 6
+intel core 6
+gaming processor 6
+works great 6
+intel processor 6
+beast mode 6
+blazing fast 6
+best processor 6
+excellent upgrade 6
+expensive worth 6
+cpu market 6
+fast processor 6
+best intel 6
+easy overclock 6
+good enough 6
+faster cpu 4
+cpu fast 4
+fast run 4
+find good 4
+cpu need 4
+cpu cooling 4
+fantastic cpu 4
+great performance 4
+cpu buy 4
+amazing performance 4
+runs great 4
+worth price 4
+amd intel 4
+fast powerful 4
+beast cpu 4
+one best 4
+pc gaming 4
+gaming king 4
+fast gaming 4
+runs hot 4
+es lo 4
+lo mejor 4
+best get 4
+worth every 4
+every cent 4
+insanely fast 4
+processor fast 4
+still best 4
+amazing gaming 4
+good quality 4
+top notch 4
+little expensive 4
+powerful processor 4
+
+Trigram:
+best gaming cpu 8
+best cpu ever 6
+best cpu gaming 4
+good cpu need 4
+fastest gaming cpu 4
+best gaming processor 4
+fast fast fast 4
+best cpu market 4
+es lo mejor 4
+worth every cent 4
+best intel processor 4

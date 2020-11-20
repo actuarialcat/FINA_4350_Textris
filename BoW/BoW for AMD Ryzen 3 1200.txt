@@ -1,0 +1,80 @@
+Unigram:
+great 126
+cpu 104
+star 76
+good 68
+five 64
+budget 60
+price 48
+processor 32
+gaming 26
+value 26
+love 22
+build 20
+nice 20
+best 20
+ryzen 18
+money 16
+performance 14
+work 14
+excellent 12
+perfect 12
+core 12
+product 12
+
+Bigram:
+five stars 64
+budget cpu 26
+great budget 20
+great cpu 20
+great value 14
+good cpu 12
+good budget 12
+cpu budget 10
+cpu price 10
+good processor 8
+four stars 8
+bang buck 6
+good price 6
+best budget 6
+great price 6
+price performance 6
+budget gaming 6
+overclocks like 4
+dont buy 4
+solid cpu 4
+performance price 4
+light gaming 4
+nice cpu 4
+budget pc 4
+video card 4
+works great 4
+amazing cpu 4
+excellent cpu 4
+processor price 4
+first pc 4
+pc build 4
+great entry 4
+entry level 4
+little cpu 4
+cpu amd 4
+would recommend 4
+gaming build 4
+great product 4
+good value 4
+value money 4
+quad core 4
+core processor 4
+
+Trigram:
+great budget cpu 12
+great cpu price 6
+good budget cpu 6
+solid cpu budget 4
+cpu budget pc 4
+best budget cpu 4
+good cpu price 4
+first pc build 4
+great entry level 4
+good cpu budget 4
+good budget gaming 4

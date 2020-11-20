@@ -1,0 +1,235 @@
+Unigram:
+cpu 340
+great 226
+processor 130
+best 122
+fast 106
+amd 98
+beast 90
+good 84
+performance 76
+amazing 72
+ryzen 62
+gaming 60
+price 58
+value 56
+intel 48
+love 46
+awesome 44
+work 42
+chip 38
+power 36
+cooler 36
+core 34
+nice 34
+ever 32
+hot 30
+get 28
+monster 28
+product 28
+pc 26
+money 26
+upgrade 24
+fantastic 24
+wow 24
+excellent 24
+better 24
+speed 22
+run 22
+worth 22
+powerhouse 20
+game 20
+owned 20
+super 20
+stable 18
+team 18
+happy 18
+need 18
+perfect 16
+well 16
+market 16
+thread 16
+powerful 16
+stock 16
+top 16
+one 16
+buy 16
+thing 14
+first 14
+everything 14
+absolute 14
+around 14
+overkill 14
+insane 12
+user 12
+red 12
+streaming 12
+rock 12
+bang 12
+buck 12
+really 12
+like 12
+box 12
+yes 12
+
+Bigram:
+great cpu 48
+best cpu 44
+great processor 30
+amazing cpu 26
+good cpu 20
+great value 18
+best processor 16
+ever owned 14
+cpu ever 12
+amd ryzen 12
+best value 12
+processor ever 12
+nice upgrade 12
+rip intel 10
+awesome cpu 10
+amazing processor 10
+beast cpu 10
+awesome processor 8
+team red 8
+great gaming 8
+bang buck 8
+absolute beast 8
+great performance 8
+amazing performance 8
+stock cooler 8
+beast processor 8
+insane performance 6
+first amd 6
+works great 6
+works well 6
+gaming rig 6
+excellent value 6
+cpu market 6
+great chip 6
+amd authorized 6
+authorized reseller 6
+monster cpu 6
+good price 6
+cpu owned 6
+fast cpu 6
+love cpu 6
+cpu value 6
+amd yes 6
+really good 6
+excellent processor 6
+love amd 6
+cpu price 6
+great price 6
+top line 6
+performance cpu 4
+performance even 4
+less money 4
+cpu get 4
+game bundle 4
+amd processor 4
+monster processor 4
+video editing 4
+editing pc 4
+processor market 4
+cpu productivity 4
+price great 4
+team blue 4
+blue team 4
+cpu power 4
+cores threads 4
+incredible performance 4
+red team 4
+absolute monster 4
+phenomenal cpu 4
+cpu excellent 4
+first time 4
+price point 4
+even though 4
+defective cpu 4
+hot hot 4
+powerful cpu 4
+overkill gaming 4
+new gaming 4
+crazy fast 4
+reseller legit 4
+thing beast 4
+insanely fast 4
+best purchase 4
+little hot 4
+lots cores 4
+worth money 4
+best bang 4
+rock solid 4
+cpu rocks 4
+power money 4
+performance great 4
+cpu amd 4
+good hot 4
+gaming processor 4
+works like 4
+easy install 4
+high end 4
+fast great 4
+great workstation 4
+happy bought 4
+super happy 4
+fantastic processor 4
+price performance 4
+cpu beast 4
+plug play 4
+runs hot 4
+cpu performance 4
+still great 4
+streaming cpu 4
+fast stable 4
+good job 4
+processing power 4
+good product 4
+good processor 4
+get good 4
+thermal paste 4
+buen producto 4
+fantastic cpu 4
+pins came 4
+beast mode 4
+cpu great 4
+fast runs 4
+fast reliable 4
+great around 4
+love love 4
+nice product 4
+amazing value 4
+video encoding 4
+greatest cpu 4
+works intended 4
+well worth 4
+cpu money 4
+best best 4
+fast shipping 4
+simply best 4
+excelente producto 4
+value money 4
+muy buen 4
+desktop processor 4
+super fast 4
+
+Trigram:
+best processor ever 12
+processor ever owned 8
+best cpu ever 6
+amd authorized reseller 6
+best cpu owned 6
+insane performance even 4
+first amd processor 4
+video editing pc 4
+team blue team 4
+blue team red 4
+cpu excellent value 4
+best cpu market 4
+cpu ever owned 4
+new gaming rig 4
+authorized reseller legit 4
+best bang buck 4
+best cpu value 4
+greatest cpu ever 4

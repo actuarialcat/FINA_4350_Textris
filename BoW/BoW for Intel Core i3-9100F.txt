@@ -1,0 +1,35 @@
+Unigram:
+great 54
+cpu 46
+good 32
+value 32
+processor 24
+gaming 14
+price 14
+budget 12
+intel 12
+
+Bigram:
+great value 20
+great budget 6
+great cpu 6
+great processor 6
+graphics card 4
+excellent gaming 4
+paired gtx 4
+bang buck 4
+solid cpu 4
+value processor 4
+lo mejor 4
+por el 4
+el precio 4
+processor ever 4
+budget cpu 4
+good cheap 4
+value cpu 4
+best processor 4
+gaming build 4
+buen producto 4
+
+Trigram:
+por el precio 4

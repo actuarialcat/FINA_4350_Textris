@@ -1,0 +1,59 @@
+Unigram:
+great 82
+processor 82
+cpu 64
+fast 54
+good 30
+intel 30
+star 30
+five 28
+best 26
+excellent 16
+love 14
+overclocking 14
+price 14
+core 14
+yes 14
+amazing 12
+even 12
+thing 12
+
+Bigram:
+five stars 28
+great processor 22
+great cpu 16
+yes yes 12
+best cpu 10
+extremely fast 8
+fast processor 8
+intel core 8
+super fast 6
+processor fast 6
+amazing processor 6
+processor overclocking 6
+fantastic processor 6
+stock fan 4
+fast overclockable 4
+overclockable cheap 4
+overclocking potential 4
+cpu money 4
+excellent cpu 4
+fast good 4
+cpu intel 4
+works great 4
+value price 4
+maximum speed 4
+beautiful processor 4
+awesome cpu 4
+cpu high 4
+sandy bridge 4
+blazing fast 4
+excellent processor 4
+
+Trigram:
+yes yes yes 10
+extremely fast processor 4
+great processor fast 4
+processor fast overclockable 4
+fast overclockable cheap 4
+best cpu money 4

@@ -1,0 +1,18 @@
+Unigram:
+star 28
+five 24
+great 22
+good 20
+cpu 20
+fast 16
+
+Bigram:
+five stars 24
+intel core 6
+fast cpu 4
+fast smooth 4
+great processor 4
+great cpu 4
+four stars 4
+
+Trigram:

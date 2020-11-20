@@ -1,0 +1,60 @@
+Unigram:
+great 100
+star 92
+five 76
+cpu 74
+good 34
+work 30
+threadripper 30
+value 28
+amd 28
+performance 26
+price 26
+beast 24
+best 24
+processor 22
+fast 20
+amazing 20
+gaming 20
+perfect 14
+video 14
+one 12
+core 12
+intel 12
+would 12
+power 12
+
+Bigram:
+five stars 76
+great cpu 20
+great gaming 12
+great value 10
+works great 10
+video editing 8
+ryzen threadripper 8
+four stars 8
+bang buck 6
+excellent cpu 6
+amd back 6
+good price 6
+amd ryzen 6
+great performance 6
+one star 6
+performance price 4
+great bang 4
+monster cpu 4
+worth every 4
+every penny 4
+best value 4
+arrived time 4
+best processor 4
+processor ever 4
+value money 4
+beast processor 4
+best best 4
+
+Trigram:
+amd ryzen threadripper 6
+great bang buck 4
+worth every penny 4
+best processor ever 4

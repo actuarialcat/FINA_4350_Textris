@@ -1,0 +1,11 @@
+Unigram:
+star 48
+five 44
+great 20
+good 18
+
+Bigram:
+five stars 44
+great processor 6
+
+Trigram:

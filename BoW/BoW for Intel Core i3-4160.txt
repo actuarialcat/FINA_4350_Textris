@@ -1,0 +1,32 @@
+Unigram:
+star 110
+five 92
+great 40
+budget 22
+processor 20
+good 18
+four 18
+cpu 18
+gaming 12
+best 12
+
+Bigram:
+five stars 92
+four stars 18
+bang buck 8
+budget gaming 8
+good budget 6
+great processor 6
+intel core 4
+core processor 4
+great budget 4
+budget build 4
+one best 4
+best bang 4
+great little 4
+best budget 4
+much better 4
+
+Trigram:
+intel core processor 4
+great budget build 4

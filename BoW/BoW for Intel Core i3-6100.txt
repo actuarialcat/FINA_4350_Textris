@@ -1,0 +1,106 @@
+Unigram:
+star 252
+five 208
+cpu 114
+great 108
+processor 92
+good 76
+budget 68
+gaming 48
+best 40
+build 40
+work 40
+four 34
+price 30
+perfect 28
+pc 22
+value 20
+fast 20
+amazing 18
+buck 16
+well 16
+bang 14
+nice 14
+power 14
+little 14
+better 14
+core 14
+run 14
+buy 12
+love 12
+awesome 12
+computer 12
+use 12
+
+Bigram:
+five stars 208
+four stars 34
+budget cpu 22
+great processor 18
+bang buck 14
+good cpu 14
+great budget 12
+budget gaming 10
+best budget 10
+great value 10
+great cpu 10
+cpu gaming 8
+budget processor 8
+works well 8
+good budget 8
+budget build 8
+best bang 6
+htpc builds 6
+gaming build 6
+great bang 6
+pc build 6
+processor budget 6
+works great 6
+little processor 6
+perfect budget 6
+good processor 6
+excellent processor 4
+nice processor 4
+great buy 4
+amazing processor 4
+great product 4
+nice little 4
+little cpu 4
+works better 4
+cpu great 4
+latest greatest 4
+love cpu 4
+cpu price 4
+far good 4
+well good 4
+best cpu 4
+one best 4
+bargain cpu 4
+gaming rig 4
+went instead 4
+good value 4
+value processor 4
+great gaming 4
+gaming cpu 4
+best processor 4
+cpu perfect 4
+cheap processor 4
+nice cpu 4
+used gaming 4
+great price 4
+processor price 4
+gaming pc 4
+really good 4
+
+Trigram:
+best bang buck 6
+great budget cpu 6
+great bang buck 6
+good budget cpu 6
+budget gaming build 4
+budget cpu gaming 4
+great budget gaming 4
+great processor budget 4
+best budget cpu 4
+good value processor 4
+perfect budget build 4

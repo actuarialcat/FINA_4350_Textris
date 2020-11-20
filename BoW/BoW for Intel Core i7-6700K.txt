@@ -1,0 +1,228 @@
+Unigram:
+star 858
+five 778
+great 310
+cpu 218
+processor 174
+fast 104
+best 98
+good 96
+work 84
+intel 82
+amazing 60
+price 56
+one 54
+product 52
+love 46
+gaming 44
+performance 44
+run 44
+awesome 40
+like 40
+worth 36
+easy 36
+cool 36
+four 36
+amd 32
+upgrade 30
+perfect 30
+new 28
+would 28
+nice 26
+chip 26
+still 26
+overclock 26
+get 26
+buy 24
+happy 24
+power 24
+pc 24
+everything 24
+excellent 24
+three 24
+beast 22
+need 22
+even 20
+overclocked 20
+oc 20
+time 18
+solid 18
+recommend 18
+build 18
+bought 18
+money 16
+skylake 16
+box 16
+use 16
+core 16
+year 16
+well 16
+running 16
+know 16
+bad 16
+super 16
+ever 16
+ghz 16
+used 16
+cooler 16
+got 14
+high 14
+really 14
+better 14
+fantastic 14
+easily 14
+install 12
+game 12
+say 12
+fine 12
+without 12
+every 12
+much 12
+want 12
+far 12
+problem 12
+maybe 12
+water 12
+first 12
+two 12
+
+Bigram:
+five stars 778
+great cpu 54
+works great 40
+great processor 38
+four stars 34
+great product 26
+three stars 22
+amazing processor 16
+one star 16
+best processor 14
+super fast 14
+great performance 14
+runs cool 12
+best cpu 12
+easy overclock 10
+would recommend 10
+awesome processor 10
+one best 10
+awesome cpu 10
+gaming cpu 8
+great price 8
+fast processor 8
+good cpu 8
+fantastic cpu 8
+great upgrade 8
+easy install 8
+good processor 8
+two stars 8
+works fine 6
+intel cpu 6
+processing power 6
+worth every 6
+every penny 6
+good buy 6
+processor great 6
+gaming pc 6
+beast cpu 6
+cpu great 6
+get one 6
+easy oc 6
+highly recommended 6
+make sure 6
+great chip 6
+still great 6
+water cooling 6
+like intel 6
+ever owned 6
+worth price 6
+easily overclocked 6
+excellent processor 6
+looks like 6
+waste money 4
+money time 4
+best gaming 4
+cpu market 4
+reliable cpu 4
+nice processor 4
+worked great 4
+still one 4
+finally upgraded 4
+performance great 4
+quality cpu 4
+cpu runs 4
+new cpu 4
+nice upgrade 4
+bit pricey 4
+works well 4
+ca go 4
+go wrong 4
+wrong cpu 4
+extremely well 4
+great core 4
+get pay 4
+fast reliable 4
+great value 4
+high performance 4
+ok price 4
+processor buy 4
+recommend anyone 4
+fast stable 4
+blazing fast 4
+overclocked ghz 4
+pcie lanes 4
+love processor 4
+processor used 4
+processor need 4
+best consumer 4
+good price 4
+processor bought 4
+seems work 4
+far good 4
+cpu intel 4
+best best 4
+cpu really 4
+really fast 4
+excellent product 4
+coming amd 4
+even though 4
+great gaming 4
+happy purchase 4
+fast cpu 4
+pc master 4
+master race 4
+amazing cpu 4
+fast overclockable 4
+processor available 4
+great get 4
+check check 4
+beast best 4
+huge improvement 4
+good product 4
+love cpu 4
+solid cpu 4
+cpu ever 4
+processor intel 4
+excellent cpu 4
+well worth 4
+best ever 4
+pricey worth 4
+still high 4
+amd fx 4
+k means 4
+great great 4
+fastest cpu 4
+would say 4
+core processor 4
+price gouging 4
+
+Trigram:
+worth every penny 6
+waste money time 4
+best gaming cpu 4
+ca go wrong 4
+cpu really fast 4
+still great cpu 4
+pc master race 4
+best cpu ever 4
+cpu ever owned 4
+looks like intel 4

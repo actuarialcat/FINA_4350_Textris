@@ -1,0 +1,23 @@
+Unigram:
+star 94
+five 78
+great 30
+price 18
+processor 18
+good 16
+fast 12
+cpu 12
+four 12
+
+Bigram:
+five stars 78
+four stars 12
+anywhere else 4
+great price 4
+excellent processor 4
+good processor 4
+good value 4
+great cpu 4
+three stars 4
+
+Trigram:

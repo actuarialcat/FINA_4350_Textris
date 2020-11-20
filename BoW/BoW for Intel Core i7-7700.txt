@@ -1,0 +1,33 @@
+Unigram:
+star 88
+five 80
+great 46
+cpu 44
+good 32
+work 28
+intel 18
+processor 16
+fast 14
+far 12
+
+Bigram:
+five stars 80
+great cpu 12
+worth every 6
+every penny 6
+works well 6
+works great 6
+happy purchase 4
+cpu works 4
+good cpu 4
+good price 4
+good processor 4
+great upgrade 4
+far good 4
+non k 4
+great far 4
+one star 4
+k version 4
+
+Trigram:
+worth every penny 6

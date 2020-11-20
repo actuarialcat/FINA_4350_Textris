@@ -1,0 +1,88 @@
+Unigram:
+great 164
+cpu 128
+good 98
+processor 66
+gaming 64
+work 48
+fast 36
+best 34
+product 30
+intel 26
+scam 24
+money 22
+buy 22
+get 20
+hot 20
+worth 20
+amazing 18
+fake 16
+new 16
+performance 16
+ghz 14
+run 14
+item 14
+price 14
+beast 14
+chip 14
+excellent 14
+box 12
+upgrade 12
+core 12
+love 12
+
+Bigram:
+great cpu 44
+great processor 20
+works great 20
+great gaming 16
+gaming cpu 12
+good cpu 12
+worth money 8
+best intel 8
+great product 8
+gaming processor 6
+runs hot 6
+great performance 6
+cpu gaming 6
+easy install 6
+best processor 6
+processor gaming 6
+best gaming 4
+hot hot 4
+intel cpu 4
+best cpu 4
+new build 4
+smooth performance 4
+new item 4
+ghz turbo 4
+processor money 4
+excellent cpu 4
+unlocked cpu 4
+worked perfectly 4
+beast processor 4
+blazing fast 4
+nice cpu 4
+get scammed 4
+sellers name 4
+one else 4
+worth every 4
+good gaming 4
+awesome cpu 4
+good upgrade 4
+intel processor 4
+building new 4
+go wrong 4
+fast fast 4
+great buy 4
+great purchase 4
+good buy 4
+works well 4
+top line 4
+
+Trigram:
+best processor gaming 6
+great gaming processor 4
+great cpu gaming 4
+best intel processor 4
+works great gaming 4

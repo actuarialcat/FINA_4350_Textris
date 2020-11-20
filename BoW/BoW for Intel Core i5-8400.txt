@@ -1,0 +1,83 @@
+Unigram:
+great 130
+good 110
+cpu 92
+star 82
+five 72
+processor 56
+gaming 42
+price 42
+fast 32
+best 30
+intel 28
+performance 20
+budget 20
+product 20
+fan 18
+buy 18
+perfect 18
+work 18
+love 16
+value 16
+core 16
+excellent 16
+worth 14
+nice 14
+easy 14
+amazing 14
+build 12
+money 12
+
+Bigram:
+five stars 72
+great processor 26
+great cpu 16
+great gaming 12
+easy install 10
+works great 10
+good cpu 10
+gaming cpu 8
+great performance 8
+good price 8
+great product 8
+bang buck 8
+best value 6
+intel cpu 6
+good deal 6
+good processor 6
+worth money 6
+good budget 6
+cooler fan 6
+go wrong 4
+best cpu 4
+perfect gaming 4
+nice cpu 4
+great value 4
+lightning fast 4
+best processor 4
+cpu gaming 4
+good product 4
+best budget 4
+product price 4
+great price 4
+great buy 4
+easy installation 4
+great bang 4
+keep cool 4
+four stars 4
+fast fast 4
+cpu cooler 4
+good value 4
+price best 4
+would buy 4
+thermal paste 4
+best bang 4
+one star 4
+
+Trigram:
+great cpu gaming 4
+great product price 4
+great bang buck 4
+great gaming cpu 4
+cpu cooler fan 4
+best bang buck 4

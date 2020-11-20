@@ -1,0 +1,173 @@
+Unigram:
+star 230
+five 204
+great 174
+cpu 138
+processor 102
+amd 90
+best 78
+price 70
+good 66
+gaming 52
+performance 50
+ryzen 48
+cooler 42
+amazing 40
+buy 38
+value 36
+fast 34
+nice 32
+core 30
+money 30
+love 28
+work 28
+intel 26
+upgrade 24
+cool 24
+chip 22
+back 22
+awesome 22
+like 22
+run 22
+easy 20
+one 20
+better 20
+product 20
+bang 18
+buck 18
+excellent 18
+overclocked 18
+still 18
+get 18
+thread 16
+wraith 16
+speed 16
+well 16
+game 14
+really 14
+stock 14
+worth 14
+beast 14
+king 12
+thing 12
+using 12
+included 12
+even 12
+power 12
+easily 12
+perfect 12
+build 12
+time 12
+far 12
+video 12
+happy 12
+four 12
+
+Bigram:
+five stars 204
+great processor 34
+great cpu 24
+bang buck 14
+amd back 14
+best bang 12
+amd ryzen 12
+four stars 12
+stock cooler 10
+easily overclocked 10
+great value 10
+cpu price 10
+best cpu 10
+cores threads 8
+amazing performance 8
+price performance 8
+cpu gaming 8
+gaming cpu 8
+spire cooler 8
+great product 8
+processor price 8
+great gaming 8
+good processor 8
+one star 8
+money buy 6
+amd cpu 6
+performance money 6
+great price 6
+wraith cooler 6
+wraith spire 6
+great buy 6
+easy install 6
+best value 6
+easy overclock 6
+works great 6
+gaming streaming 6
+best processor 6
+great chip 6
+amazing value 6
+fast cpu 6
+around cpu 4
+cpu market 4
+amazing processor 4
+best cpus 4
+cores better 4
+reliable processor 4
+cpu money 4
+never look 4
+look back 4
+included cooler 4
+excellent cpu 4
+great performance 4
+performance price 4
+best budget 4
+best performance 4
+awesome processor 4
+great great 4
+perfect upgrade 4
+absolutely love 4
+great budget 4
+workstation cpu 4
+runs cool 4
+super fast 4
+best price 4
+still great 4
+awesome cpu 4
+amd finally 4
+value money 4
+ca beat 4
+price point 4
+thing smoking 4
+easy installation 4
+far good 4
+wonderful cpu 4
+performance king 4
+excellent performance 4
+video editing 4
+good quality 4
+right box 4
+amazing chip 4
+good buy 4
+nice processor 4
+nice cpu 4
+great amd 4
+good performance 4
+customer support 4
+well worth 4
+runs great 4
+amd risen 4
+worth every 4
+buen producto 4
+good price 4
+works awesome 4
+nice upgrade 4
+save money 4
+love love 4
+value performance 4
+
+Trigram:
+best bang buck 8
+wraith spire cooler 6
+never look back 4
+great cpu price 4
+price performance king 4
+amazing performance money 4
+best processor price 4
+save money buy 4

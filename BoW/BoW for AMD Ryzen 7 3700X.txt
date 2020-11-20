@@ -1,0 +1,197 @@
+Unigram:
+great 336
+cpu 290
+good 132
+gaming 88
+processor 86
+amd 84
+best 76
+price 76
+performance 74
+value 66
+ryzen 66
+excellent 54
+awesome 52
+work 50
+amazing 48
+buy 48
+fast 44
+perfect 40
+cooler 38
+intel 36
+product 36
+chip 32
+upgrade 32
+worth 32
+hot 30
+beast 28
+money 26
+love 26
+run 24
+nice 24
+need 22
+get 22
+one 22
+game 20
+wow 20
+stock 18
+thing 18
+well 18
+really 16
+fan 16
+like 16
+better 16
+excelente 16
+pretty 16
+productivity 14
+pin 14
+much 14
+power 14
+bang 14
+buck 14
+low 14
+fantastic 12
+buying 12
+new 12
+bad 12
+core 12
+speed 12
+easy 12
+know 12
+everything 12
+solid 12
+quality 12
+stuff 12
+
+Bigram:
+great cpu 80
+great processor 36
+great gaming 26
+good cpu 24
+great value 24
+cpu price 20
+price performance 18
+great buy 18
+works great 16
+excellent cpu 16
+amazing cpu 14
+bang buck 14
+amd ryzen 12
+awesome cpu 12
+great product 12
+best cpu 12
+great chip 10
+value performance 10
+stock cooler 10
+best bang 10
+good price 10
+gaming productivity 10
+good processor 10
+best value 8
+runs hot 8
+great price 8
+good performance 8
+blazing fast 8
+great upgrade 8
+excellent value 8
+cpu great 8
+cpu gaming 8
+ryzen cpu 6
+thing beast 6
+great performance 6
+performance money 6
+best processor 6
+best gaming 6
+processor great 6
+good stuff 6
+great quality 6
+fantastic chip 4
+rip intel 4
+works like 4
+like charm 4
+perfect upgrade 4
+even better 4
+performance boost 4
+nothing complain 4
+price point 4
+good cooler 4
+great cooler 4
+nice upgrade 4
+cpu ever 4
+ever owned 4
+cpu amd 4
+amd back 4
+thing insane 4
+really good 4
+mounting hardware 4
+worth every 4
+price good 4
+hot hot 4
+video editing 4
+great warm 4
+budget cpu 4
+works well 4
+cpu one 4
+best price 4
+ca go 4
+go wrong 4
+runs well 4
+gaming cpu 4
+already know 4
+best ratio 4
+amazing processor 4
+best one 4
+excellent product 4
+low price 4
+works good 4
+fast cpu 4
+processor price 4
+everything works 4
+nice cpu 4
+great purchase 4
+content creation 4
+bent pins 4
+cpu missing 4
+get chip 4
+excellent performance 4
+processor ever 4
+pretty good 4
+one best 4
+better intel 4
+price range 4
+good quality 4
+worth money 4
+ever used 4
+works expected 4
+cpu fan 4
+good value 4
+good far 4
+cpu cooler 4
+cpu awesome 4
+price price 4
+cpu works 4
+extremely well 4
+easy use 4
+excelente procesador 4
+amd good 4
+cpu good 4
+great item 4
+much better 4
+great power 4
+power consumption 4
+
+Trigram:
+best bang buck 10
+great cpu price 8
+best cpu price 6
+great cpu gaming 6
+great processor great 6
+best value performance 4
+cpu ever owned 4
+good price good 4
+great gaming productivity 4
+ca go wrong 4
+great cpu great 4
+cpu gaming productivity 4
+best processor ever 4
+cpu price performance 4

@@ -1,0 +1,15 @@
+Unigram:
+cpu 24
+great 18
+gaming 14
+good 12
+
+Bigram:
+great cpu 10
+nice cpu 4
+cpu price 4
+gaming beast 4
+gaming cpu 4
+best gaming 4
+
+Trigram:

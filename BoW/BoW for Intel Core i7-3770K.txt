@@ -1,0 +1,101 @@
+Unigram:
+great 132
+star 114
+five 102
+cpu 98
+fast 92
+processor 92
+awesome 46
+intel 46
+product 38
+work 36
+best 34
+excellent 34
+good 32
+core 28
+money 24
+amazing 22
+year 20
+still 18
+love 18
+worth 16
+power 16
+lga 16
+gaming 14
+well 14
+beast 14
+like 14
+wow 14
+really 12
+upgrade 12
+buy 12
+solid 12
+performance 12
+super 12
+powerful 12
+run 12
+
+Bigram:
+five stars 100
+great cpu 30
+great processor 18
+intel core 18
+great product 14
+best cpu 8
+worth money 8
+ivy bridge 8
+awesome processor 8
+fast fast 8
+works like 8
+excellent product 8
+works great 8
+core processor 8
+awesome cpu 6
+great performance 6
+super fast 6
+ghz mb 6
+mb cache 6
+cache lga 6
+best processor 6
+fast processor 6
+still great 4
+really really 4
+really fast 4
+big difference 4
+years still 4
+quad core 4
+still going 4
+going strong 4
+top notch 4
+good processor 4
+fast cpu 4
+amazing cpu 4
+well worth 4
+best lga 4
+totally awesome 4
+processor money 4
+great value 4
+great intel 4
+processor ghz 4
+totally satisfied 4
+great gaming 4
+good cpu 4
+lga intel 4
+amazing processor 4
+nice fast 4
+fantastic cpu 4
+four stars 4
+blazing fast 4
+cpu beast 4
+beast chip 4
+easy oc 4
+great great 4
+
+Trigram:
+intel core processor 8
+ghz mb cache 6
+mb cache lga 6
+still going strong 4
+well worth money 4
+core processor ghz 4
+processor ghz mb 4

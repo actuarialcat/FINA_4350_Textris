@@ -1,0 +1,174 @@
+Unigram:
+great 252
+cpu 242
+value 156
+best 140
+price 108
+budget 86
+good 82
+ryzen 72
+buck 68
+bang 64
+processor 52
+af 52
+buy 52
+amazing 48
+performance 46
+money 36
+gaming 30
+excellent 30
+awesome 28
+core 24
+fast 24
+deal 24
+refresh 22
+chip 22
+ever 22
+king 20
+basically 20
+product 20
+amd 16
+get 16
+beast 16
+work 16
+first 16
+build 16
+worth 14
+gen 14
+better 14
+cooler 14
+pc 14
+beat 14
+right 14
+cheap 12
+got 12
+market 12
+one 12
+stock 12
+love 12
+shipping 12
+perfect 12
+
+Bigram:
+bang buck 58
+great value 58
+great cpu 40
+best bang 38
+budget cpu 34
+best budget 26
+best value 18
+best cpu 18
+cpu price 18
+value money 18
+great price 16
+ryzen af 14
+excellent value 14
+good value 14
+value cpu 12
+great processor 12
+amazing value 10
+good price 10
+price performance 10
+great deal 10
+cpu money 10
+ca beat 10
+great chip 8
+cpu value 8
+ryzen cpu 8
+amazing cpu 8
+value performance 8
+budget processor 8
+buck cpu 8
+basically ryzen 8
+great gaming 8
+great budget 8
+entry level 8
+fast shipping 8
+beat price 8
+good processor 6
+cpu great 6
+stock cooler 6
+excellent cpu 6
+nice cpu 6
+best ever 6
+gaming cpu 6
+best deal 6
+cpu ever 6
+af great 6
+awesome cpu 6
+shipping good 6
+good budget 6
+easy install 6
+value king 4
+great ryzen 4
+graphics card 4
+hidden gem 4
+af version 4
+fast af 4
+beast price 4
+buy cpu 4
+glad got 4
+literally best 4
+cpu available 4
+great first 4
+works great 4
+cpu best 4
+amd ryzen 4
+processor best 4
+king cpu 4
+cpu market 4
+worth price 4
+performance price 4
+value ryzen 4
+amazing product 4
+budget gaming 4
+value af 4
+first gen 4
+core cpu 4
+really good 4
+budget king 4
+cpu amazing 4
+amazing performance 4
+amazing upgrade 4
+ryzen disguise 4
+budget build 4
+pc build 4
+best entry 4
+bang money 4
+best performance 4
+good performance 4
+value processor 4
+amazing price 4
+budget pc 4
+great buy 4
+great product 4
+ever made 4
+awesome budget 4
+af model 4
+must buy 4
+good bang 4
+gaming pc 4
+excelente producto 4
+performance per 4
+per dollar 4
+cpu beast 4
+
+Trigram:
+best bang buck 36
+best budget cpu 20
+bang buck cpu 8
+best value cpu 6
+best cpu price 6
+fast shipping good 6
+ca beat price 6
+good value money 4
+amd ryzen af 4
+great gaming cpu 4
+great budget cpu 4
+amazing value money 4
+great value money 4
+best entry level 4
+great cpu price 4
+good bang buck 4
+performance per dollar 4
+great value cpu 4

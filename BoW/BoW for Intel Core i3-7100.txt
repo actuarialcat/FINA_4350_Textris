@@ -1,0 +1,35 @@
+Unigram:
+star 118
+five 100
+great 54
+cpu 50
+good 32
+budget 30
+processor 22
+work 16
+gaming 16
+four 12
+best 12
+
+Bigram:
+five stars 100
+great cpu 12
+four stars 12
+budget cpu 8
+good processor 6
+great budget 6
+great processor 6
+works great 6
+good performance 4
+would recommend 4
+entry level 4
+level processor 4
+still good 4
+good cpu 4
+great value 4
+works fine 4
+three stars 4
+dual core 4
+
+Trigram:
+entry level processor 4

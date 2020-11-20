@@ -1,0 +1,128 @@
+Unigram:
+cpu 218
+great 212
+good 104
+performance 72
+price 66
+gaming 64
+best 62
+value 60
+amd 46
+processor 40
+buy 38
+amazing 36
+awesome 36
+cooler 34
+work 32
+budget 30
+ryzen 28
+fast 28
+product 28
+get 26
+upgrade 24
+fan 22
+solid 22
+money 22
+game 20
+excelente 20
+new 18
+stock 18
+buck 18
+excellent 18
+one 16
+hot 16
+perfect 16
+bang 16
+nice 16
+beast 14
+chip 14
+build 14
+free 12
+amazon 12
+well 12
+
+Bigram:
+great cpu 58
+great value 28
+good cpu 22
+great gaming 20
+price performance 16
+best cpu 16
+bang buck 16
+great product 14
+budget cpu 12
+stock cooler 12
+great price 12
+cpu money 10
+great performance 10
+amazing cpu 10
+best bang 10
+works great 10
+great buy 10
+wraith spire 8
+spire cooler 8
+awesome cpu 8
+gaming cpu 8
+performance value 8
+cpu gaming 8
+easy install 8
+cpu great 6
+free game 6
+good price 6
+great upgrade 6
+best budget 6
+gaming processor 6
+value money 6
+price point 6
+great processor 6
+cpu price 6
+good processor 6
+amazing performance 6
+fantastic cpu 6
+value performance 6
+buena compra 6
+excelente producto 6
+mid range 4
+high end 4
+super fast 4
+cpu terrible 4
+game bundle 4
+solid cpu 4
+customer service 4
+good performance 4
+amd ryzen 4
+solid performance 4
+best gaming 4
+far good 4
+best value 4
+team red 4
+nice cpu 4
+powerful cpu 4
+budget build 4
+redemption code 4
+buy one 4
+awesome price 4
+would recommend 4
+gaming pc 4
+good product 4
+excellent cpu 4
+job done 4
+budget beast 4
+performance price 4
+buy already 4
+hot hot 4
+overall great 4
+amazing value 4
+pretty good 4
+cpu decent 4
+
+Trigram:
+best bang buck 10
+wraith spire cooler 8
+great cpu money 6
+great cpu gaming 6
+best budget cpu 6
+great gaming cpu 4
+great performance value 4
+best cpu money 4
+great price performance 4

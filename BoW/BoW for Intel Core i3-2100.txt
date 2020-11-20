@@ -1,0 +1,24 @@
+Unigram:
+great 26
+processor 22
+star 16
+cpu 14
+good 12
+five 12
+
+Bigram:
+five stars 12
+core processor 6
+great processor 6
+great cpu 6
+dual core 4
+old pc 4
+cpu cooler 4
+great htpc 4
+intel core 4
+mb cache 4
+works great 4
+
+Trigram:
+great cpu cooler 4
+intel core processor 4

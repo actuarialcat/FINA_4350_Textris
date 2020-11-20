@@ -1,0 +1,28 @@
+Unigram:
+star 110
+five 92
+great 62
+processor 42
+cpu 18
+intel 14
+fast 12
+best 12
+gaming 12
+four 12
+
+Bigram:
+five stars 92
+great processor 16
+four stars 12
+great cpu 8
+intel core 6
+core processor 6
+works well 4
+k version 4
+easy install 4
+processor cache 4
+three stars 4
+
+Trigram:
+intel core processor 6
+core processor cache 4

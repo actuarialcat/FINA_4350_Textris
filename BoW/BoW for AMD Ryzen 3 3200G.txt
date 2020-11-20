@@ -1,0 +1,73 @@
+Unigram:
+great 94
+cpu 70
+good 70
+budget 40
+value 40
+amazing 28
+price 28
+gaming 26
+processor 24
+work 22
+pc 20
+apu 18
+amd 18
+ryzen 16
+fast 16
+excellent 16
+graphic 16
+excelente 16
+use 12
+build 12
+performance 12
+product 12
+buck 12
+get 12
+
+Bigram:
+great processor 12
+great value 10
+bang buck 10
+budget cpu 8
+good cpu 8
+great cpu 8
+amazing value 8
+great budget 6
+amazing apu 6
+cpu price 6
+value cpu 6
+good value 6
+graphics card 6
+great gaming 6
+great product 6
+good purchase 6
+good choice 4
+low cost 4
+everyday use 4
+fast fast 4
+excellent budget 4
+choice budget 4
+works well 4
+value processor 4
+dedicated gpu 4
+processor price 4
+quality price 4
+excellent value 4
+great bang 4
+budget pc 4
+low budget 4
+best bang 4
+good processor 4
+works great 4
+cpu buy 4
+excelente procesador 4
+good price 4
+muy bueno 4
+precio calidad 4
+great price 4
+without graphics 4
+
+Trigram:
+great bang buck 4
+best bang buck 4
+without graphics card 4

@@ -1,0 +1,299 @@
+Unigram:
+star 978
+five 906
+great 310
+cpu 230
+processor 220
+fast 196
+best 136
+good 118
+intel 80
+love 74
+run 68
+amazing 66
+one 66
+chip 64
+gaming 62
+buy 60
+work 56
+get 54
+awesome 50
+performance 50
+cool 44
+cooler 40
+four 40
+excellent 38
+core 38
+hot 38
+perfect 38
+nice 36
+still 36
+upgrade 34
+like 34
+price 32
+worth 30
+year 30
+really 30
+thing 30
+better 30
+stock 30
+speed 30
+even 28
+money 28
+game 28
+powerful 26
+well 26
+need 26
+product 26
+amd 26
+build 26
+new 24
+issue 24
+beast 24
+recommend 24
+pretty 22
+easy 22
+happy 22
+overclocking 22
+value 20
+pc 20
+old 20
+much 20
+overclock 20
+go 20
+high 20
+fantastic 20
+market 20
+far 20
+could 18
+power 18
+oc 18
+fine 18
+first 18
+would 18
+running 18
+bad 18
+computer 18
+overclocked 16
+ghz 16
+fan 16
+everything 16
+super 16
+worked 14
+video 14
+temp 14
+monster 14
+way 14
+stable 14
+pricey 14
+used 14
+extremely 14
+wow 14
+bought 14
+quality 14
+cooling 14
+three 14
+haswell 12
+lga 12
+want 12
+rig 12
+overclocks 12
+using 12
+heat 12
+satisfied 12
+purchase 12
+right 12
+probably 12
+time 12
+expected 12
+working 12
+must 12
+problem 12
+
+Bigram:
+five stars 906
+great processor 52
+great cpu 48
+four stars 40
+works great 26
+best cpu 20
+best processor 18
+great product 18
+one best 18
+great performance 18
+runs hot 16
+amazing cpu 16
+awesome processor 14
+fast processor 14
+great gaming 14
+three stars 14
+fast cpu 12
+runs cool 12
+great buy 12
+intel core 10
+stock cooler 10
+fast fast 10
+great chip 10
+good cpu 10
+super fast 10
+one star 10
+excellent processor 8
+good processor 8
+best bang 8
+devil canyon 8
+awesome cpu 8
+could happier 8
+good value 6
+upgrade old 6
+pretty fast 6
+best gaming 6
+gaming rig 6
+really good 6
+really fast 6
+quad core 6
+nice cpu 6
+stock fan 6
+blazing fast 6
+cpu cooler 6
+great far 6
+computer build 6
+processor ever 6
+bang buck 6
+highly recommend 6
+good one 6
+amazing processor 6
+intel best 6
+fantastic cpu 6
+amd fx 6
+working great 6
+new build 6
+love processor 6
+water cooling 6
+older pc 4
+best option 4
+pc master 4
+master race 4
+great streaming 4
+powerful processor 4
+worth price 4
+great upgrade 4
+excellent cpu 4
+best value 4
+worth every 4
+every penny 4
+graphics card 4
+lga socket 4
+much power 4
+number crunching 4
+high performance 4
+perfectly fine 4
+hot stock 4
+thing beast 4
+enthusiast grade 4
+run hot 4
+heat sink 4
+stupid fast 4
+cpu overclockable 4
+processor market 4
+cpu price 4
+core duo 4
+extremely fast 4
+love thing 4
+decided upgrade 4
+years still 4
+nice fast 4
+worth money 4
+worth upgrade 4
+years later 4
+later still 4
+great video 4
+fast reliable 4
+fantastic processor 4
+great overclocking 4
+video editing 4
+works well 4
+incredible processor 4
+glad went 4
+recommend water 4
+gaming cpu 4
+easy installation 4
+aftermarket cooler 4
+nice processor 4
+really like 4
+runs great 4
+get good 4
+works like 4
+like charm 4
+processor could 4
+great value 4
+cpu money 4
+pretty much 4
+processor definitely 4
+definitely overkill 4
+intel processor 4
+run games 4
+get pay 4
+best processors 4
+high speed 4
+zoom zoom 4
+thing really 4
+nice cool 4
+good overclocking 4
+overclocking ability 4
+easy install 4
+ever used 4
+would recommend 4
+fast cool 4
+go wrong 4
+gaming computer 4
+would probably 4
+great overclocker 4
+intel rig 4
+wrong item 4
+cpu great 4
+great price 4
+better amd 4
+super powerful 4
+excellent buy 4
+runs way 4
+stable fast 4
+intel amazing 4
+good buy 4
+processor money 4
+cooler temps 4
+core processor 4
+money buy 4
+arrived quickly 4
+fast uses 4
+worked flawlessly 4
+fast even 4
+content creation 4
+cpu runs 4
+good cooling 4
+chip great 4
+love chip 4
+really hot 4
+perfect processor 4
+haswell chip 4
+must buy 4
+love love 4
+market cooler 4
+heat problem 4
+need help 4
+keep cool 4
+
+Trigram:
+best processor ever 6
+best bang buck 6
+pc master race 4
+worth every penny 4
+runs hot stock 4
+hot stock cooler 4
+years later still 4
+works great far 4
+fast fast fast 4
+works like charm 4
+best cpu money 4
+processor definitely overkill 4
+great cpu great 4
+cpu runs hot 4

@@ -1,0 +1,11 @@
+Unigram:
+processor 18
+good 14
+cpu 12
+star 12
+
+Bigram:
+five stars 8
+intel core 6
+
+Trigram:

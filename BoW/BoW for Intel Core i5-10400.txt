@@ -1,0 +1,7 @@
+Unigram:
+good 14
+cpu 12
+
+Bigram:
+
+Trigram:

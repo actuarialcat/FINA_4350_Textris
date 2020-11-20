@@ -1,0 +1,83 @@
+Unigram:
+great 134
+cpu 74
+good 70
+gaming 64
+value 56
+best 50
+price 46
+processor 42
+budget 34
+intel 30
+performance 26
+product 22
+fast 18
+money 16
+core 14
+better 14
+work 14
+buck 14
+cheap 14
+excellent 12
+perfect 12
+bang 12
+pc 12
+
+Bigram:
+great value 28
+great processor 12
+bang buck 12
+great price 12
+great cpu 12
+works great 12
+cpu gaming 10
+budget gaming 10
+best value 10
+best budget 10
+budget cpu 10
+great gaming 8
+gaming cpu 8
+entry level 6
+good cpu 6
+intel processor 6
+value money 6
+gaming pc 6
+mid range 6
+great product 6
+good price 6
+level gaming 4
+value gaming 4
+best cpu 4
+killer budget 4
+gaming rig 4
+value performance 4
+value good 4
+pc build 4
+great bang 4
+best bang 4
+new pc 4
+good value 4
+processor price 4
+great budget 4
+ca beat 4
+beat price 4
+great deal 4
+easy install 4
+calidad precio 4
+buen procesador 4
+buena compra 4
+cheap great 4
+great quality 4
+good product 4
+product good 4
+
+Trigram:
+best budget cpu 6
+entry level gaming 4
+killer budget gaming 4
+great value performance 4
+gaming pc build 4
+great bang buck 4
+best bang buck 4
+budget cpu gaming 4
+ca beat price 4

@@ -1,0 +1,13 @@
+Unigram:
+cpu 28
+great 22
+good 16
+fast 14
+best 12
+
+Bigram:
+great cpu 10
+awesome cpu 4
+hot hot 4
+
+Trigram:

@@ -1,0 +1,409 @@
+Unigram:
+great 564
+cpu 434
+good 268
+processor 218
+value 194
+price 184
+best 166
+amd 150
+amazing 130
+gaming 124
+performance 120
+fast 120
+work 116
+money 112
+cooler 94
+ryzen 94
+awesome 88
+excellent 74
+star 72
+love 68
+buy 62
+nice 58
+beast 58
+upgrade 56
+worth 56
+better 56
+product 56
+get 56
+intel 54
+five 54
+bang 46
+buck 44
+one 42
+perfect 42
+chip 40
+well 36
+game 36
+quality 34
+fantastic 34
+fan 34
+powerful 34
+far 32
+run 30
+deal 30
+happy 28
+build 28
+core 28
+easy 28
+excelente 28
+ever 26
+thing 26
+like 24
+stock 24
+everything 24
+new 24
+pc 22
+first 22
+super 22
+budget 22
+really 22
+around 22
+stable 20
+issue 20
+purchase 20
+cool 20
+editing 18
+still 18
+use 18
+much 18
+high 18
+hot 18
+install 18
+streaming 18
+speed 18
+every 18
+make 18
+come 16
+power 16
+solid 16
+working 16
+need 16
+free 16
+sure 16
+prism 14
+got 14
+wow 14
+arrived 14
+used 14
+way 14
+go 14
+workstation 14
+time 14
+wraith 14
+market 14
+buen 14
+advertised 14
+pretty 14
+recommend 14
+system 12
+box 12
+amazon 12
+needed 12
+rig 12
+month 12
+multitasking 12
+video 12
+must 12
+want 12
+overclock 12
+incredible 12
+look 12
+bought 12
+overclocking 12
+procesador 12
+precio 12
+yes 12
+
+Bigram:
+great cpu 112
+great value 66
+five stars 54
+great processor 52
+value money 48
+bang buck 44
+great price 42
+good cpu 34
+best cpu 28
+best value 26
+amazing cpu 24
+good value 22
+great gaming 22
+cpu price 22
+works great 22
+price performance 20
+great performance 20
+best bang 20
+worth money 18
+great product 18
+amd ryzen 16
+stock cooler 16
+value performance 16
+processor great 14
+excellent value 14
+good gaming 14
+excellent cpu 12
+easy install 12
+good processor 12
+wraith prism 12
+cpu great 12
+one best 12
+cpu money 12
+amazing processor 12
+gaming cpu 10
+cpu cooler 10
+amazing performance 10
+thing beast 10
+fast processor 10
+amazing value 10
+really good 10
+worth every 10
+super fast 10
+good price 10
+make sure 10
+nice cpu 10
+good product 10
+better price 8
+upgrade ryzen 8
+one star 8
+great upgrade 8
+best processor 8
+great chip 8
+beast cpu 8
+cpu ever 8
+well worth 8
+awesome cpu 8
+solid processor 8
+awesome processor 8
+every penny 8
+processor money 8
+great cooler 8
+great money 8
+far good 8
+powerful cpu 8
+works well 8
+must buy 8
+excelente procesador 8
+prism cooler 6
+amd finally 6
+works fine 6
+better value 6
+high end 6
+good bang 6
+value amazing 6
+value gaming 6
+fast stable 6
+love amd 6
+nice upgrade 6
+black friday 6
+performance great 6
+streaming gaming 6
+arrived damaged 6
+love cpu 6
+cooler combo 6
+buck cpu 6
+crazy fast 6
+best performance 6
+performance price 6
+performance money 6
+amd rocks 6
+amazing product 6
+great purchase 6
+get better 6
+fastest cpu 6
+fantastic processor 6
+hard crash 6
+processor price 6
+best price 6
+video editing 6
+solid cpu 6
+get pay 6
+great buy 6
+better intel 6
+gaming streaming 6
+could happier 4
+photo editing 4
+n e 4
+highly recommended 4
+chip cooler 4
+stock thermal 4
+much better 4
+value intel 4
+amd customer 4
+customer service 4
+great multitasker 4
+holy crap 4
+gen ryzen 4
+cores threads 4
+team blue 4
+perfect gaming 4
+excellent processor 4
+fantastic performance 4
+quiet cooler 4
+runs little 4
+little hot 4
+first cpu 4
+content creation 4
+cpu good 4
+way go 4
+ever owned 4
+amd cpu 4
+awesome gaming 4
+cpu well 4
+awesome upgrade 4
+value budget 4
+budget gaming 4
+gaming pc 4
+friday deal 4
+awesome value 4
+use thermal 4
+amd build 4
+blown away 4
+hint hint 4
+budget build 4
+works expected 4
+new amd 4
+cpu arrived 4
+get ready 4
+cpu working 4
+working great 4
+used first 4
+first pc 4
+far happy 4
+happy purchase 4
+ryzen series 4
+thermal paste 4
+excellent performance 4
+incredible value 4
+beast mode 4
+cpu market 4
+workstation cpu 4
+runs hot 4
+less intel 4
+low price 4
+buen desempeño 4
+works advertised 4
+new cpu 4
+budget cpu 4
+picky memory 4
+get liquid 4
+liquid cooler 4
+dollar spent 4
+gaming media 4
+value great 4
+cpu runs 4
+switched intel 4
+around cpu 4
+cpu gaming 4
+value market 4
+way better 4
+working well 4
+insane value 4
+time buy 4
+fast good 4
+best high 4
+better expected 4
+good processors 4
+chip love 4
+exactly advertised 4
+cyber monday 4
+best upgrade 4
+small price 4
+fast easy 4
+gaming run 4
+good around 4
+around processor 4
+fantastic cpu 4
+great work 4
+work amd 4
+great around 4
+would recommend 4
+fast runs 4
+runs cool 4
+processor works 4
+amazing price 4
+gaming rig 4
+value speed 4
+crash hard 4
+fast reliable 4
+heat sink 4
+great sale 4
+new workstation 4
+nice processor 4
+ryzen processor 4
+cooler loud 4
+still good 4
+good chip 4
+great deal 4
+value processor 4
+product great 4
+dead arrival 4
+even better 4
+best budget 4
+highly recommend 4
+buen producto 4
+great job 4
+job amd 4
+bien hasta 4
+amd yes 4
+cpu affordable 4
+really fast 4
+came broken 4
+buen precio 4
+first time 4
+good deal 4
+free games 4
+works perfectly 4
+muy buen 4
+calidad precio 4
+best gaming 4
+tis good 4
+pretty good 4
+product fast 4
+buena compra 4
+works excellent 4
+beautiful powerful 4
+
+Trigram:
+best bang buck 20
+best value money 12
+processor great price 10
+great value performance 10
+worth every penny 8
+good value money 8
+great cpu great 8
+great cpu price 8
+great cpu money 8
+bang buck cpu 6
+well worth money 6
+great processor great 6
+great value money 6
+better value intel 4
+good bang buck 4
+runs little hot 4
+cpu well worth 4
+black friday deal 4
+performance great price 4
+best cpu market 4
+amazing cpu price 4
+amazing value money 4
+get liquid cooler 4
+value great performance 4
+best value market 4
+cpu great cooler 4
+fast processor great 4
+good around processor 4
+great work amd 4
+fast runs cool 4
+hard crash hard 4
+crash hard crash 4
+great product great 4
+best price performance 4
+great job amd 4
+great cpu affordable 4
+good cpu price 4
+wraith prism cooler 4
+cpu great price 4
+great gaming streaming 4
+best cpu ever 4

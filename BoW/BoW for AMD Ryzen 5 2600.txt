@@ -1,0 +1,414 @@
+Unigram:
+great 662
+cpu 482
+good 374
+price 242
+best 234
+processor 228
+value 196
+performance 144
+amd 132
+ryzen 124
+budget 118
+work 118
+gaming 116
+amazing 116
+fast 84
+product 82
+bang 78
+buck 78
+cooler 76
+awesome 76
+buy 76
+money 68
+excelente 66
+excellent 62
+nice 56
+intel 54
+perfect 50
+worth 48
+better 48
+easy 46
+build 42
+fan 40
+chip 38
+upgrade 38
+love 38
+get 34
+well 34
+pc 32
+game 32
+procesador 32
+star 32
+run 28
+stock 28
+time 28
+quality 28
+like 26
+install 26
+solid 26
+come 26
+far 26
+cool 24
+one 24
+pretty 24
+cheap 24
+muy 24
+producto 24
+need 22
+fantastic 22
+powerful 22
+would 20
+first 20
+go 20
+still 20
+mid 20
+bueno 20
+buen 20
+really 18
+computer 18
+power 18
+everything 18
+every 18
+five 18
+beast 16
+decent 16
+deal 16
+right 16
+much 16
+broken 16
+range 16
+core 16
+quiet 14
+ca 14
+king 14
+happy 14
+de 14
+ever 14
+little 14
+use 14
+entry 14
+way 14
+high 14
+market 14
+bad 14
+yes 14
+gen 14
+precio 14
+year 12
+thing 12
+motherboard 12
+choice 12
+oc 12
+made 12
+nothing 12
+super 12
+point 12
+want 12
+penny 12
+level 12
+graphic 12
+got 12
+rendimiento 12
+box 12
+overclock 12
+
+Bigram:
+great cpu 120
+bang buck 74
+great value 62
+great processor 62
+works great 52
+best bang 50
+good cpu 46
+best value 44
+great price 42
+great product 38
+great performance 36
+best cpu 34
+budget cpu 32
+price performance 30
+cpu price 28
+great budget 26
+great buy 26
+good processor 24
+stock cooler 22
+amd ryzen 22
+amazing cpu 22
+performance price 22
+best budget 20
+cpu gaming 18
+amazing value 18
+value money 18
+five stars 18
+processor money 16
+great gaming 16
+nice cpu 16
+works well 16
+good price 16
+easy install 16
+good value 16
+excelente procesador 16
+best processor 14
+value cpu 14
+processor price 14
+gaming cpu 14
+pretty good 14
+good performance 14
+excelente producto 14
+amazing price 14
+cpu great 12
+best price 12
+price point 12
+worth every 12
+every penny 12
+awesome cpu 12
+better intel 12
+would buy 12
+good gaming 12
+muy bueno 12
+good product 12
+awesome value 10
+good budget 10
+excellent value 10
+buck cpu 10
+budget gaming 10
+entry level 10
+first time 10
+cpu budget 10
+cpu cooler 10
+budget processor 10
+gaming rig 8
+really good 8
+best gaming 8
+cpu ever 8
+fast cpu 8
+much better 8
+ryzen cpu 8
+great chip 8
+awesome processor 8
+amd intel 8
+cpu money 8
+price great 8
+processor great 8
+mid range 8
+value price 8
+excellent processor 8
+great stock 8
+good stuff 8
+go wrong 8
+amd back 6
+runs cool 6
+value performance 6
+budget upgrade 6
+solid processor 6
+level cpu 6
+love cpu 6
+works like 6
+performance cpu 6
+worth price 6
+perfect processor 6
+great entry 6
+amazing budget 6
+decent processor 6
+thermal paste 6
+value value 6
+amazing processor 6
+gen ryzen 6
+budget builds 6
+cpu market 6
+team red 6
+pc build 6
+performance great 6
+excellent product 6
+buen producto 6
+amd yes 6
+awesome budget 6
+good mid 6
+price range 6
+excelente relación 6
+amazing performance 6
+one best 6
+ca go 6
+half price 4
+fast quiet 4
+definitely worth 4
+computer build 4
+amd making 4
+better value 4
+power plan 4
+excellent budget 4
+super fast 4
+de los 4
+gaming work 4
+great fast 4
+best decision 4
+worth upgrade 4
+quiet cool 4
+except one 4
+one thing 4
+excelente desempeño 4
+processor gaming 4
+better cooler 4
+red team 4
+cpu much 4
+beast cpu 4
+cpu mid 4
+great ryzen 4
+excellent price 4
+perfect budget 4
+stays cool 4
+cheap price 4
+fantastic cpu 4
+market right 4
+every way 4
+performance king 4
+buy ryzen 4
+still going 4
+going strong 4
+money buy 4
+amd cpu 4
+intel bang 4
+best consumer 4
+consumer cpu 4
+graphics card 4
+great cooler 4
+amd best 4
+powerful budget 4
+budget friendly 4
+solid cpu 4
+processor good 4
+amazing product 4
+good quality 4
+great upgrade 4
+gaming processor 4
+fast cool 4
+great bang 4
+worth money 4
+gaming pc 4
+love amd 4
+paste already 4
+powerful processor 4
+comes fan 4
+oc easily 4
+time builders 4
+great streaming 4
+ca beat 4
+good multitasking 4
+works perfectly 4
+great around 4
+got prime 4
+prime day 4
+muy buen 4
+nice product 4
+amazing deal 4
+make sure 4
+hot potato 4
+performance low 4
+low price 4
+free game 4
+value great 4
+core processor 4
+bent pins 4
+gaming build 4
+cores threads 4
+awesome performance 4
+good deal 4
+great item 4
+precio rendimiento 4
+beyond expectations 4
+comes thermal 4
+cpu amazing 4
+install runs 4
+great issues 4
+lo mejor 4
+far good 4
+high performance 4
+buen procesador 4
+love product 4
+amd way 4
+price good 4
+great far 4
+la mejor 4
+highly recommend 4
+excelente compra 4
+good broski 4
+easy use 4
+better old 4
+good fan 4
+quality product 4
+buen rendimiento 4
+intel cpu 4
+relación precio 4
+pretty pretty 4
+waste money 4
+cpu good 4
+calidad precio 4
+costo beneficio 4
+amd ftw 4
+solid performance 4
+
+Trigram:
+best bang buck 48
+great cpu price 12
+worth every penny 12
+best budget cpu 12
+great processor money 10
+bang buck cpu 10
+best price performance 8
+great performance price 8
+great budget cpu 8
+great cpu gaming 8
+best value money 6
+great value cpu 6
+best gaming cpu 6
+entry level cpu 6
+best value cpu 6
+great cpu great 6
+processor great price 6
+best cpu price 6
+great stock cooler 6
+great budget processor 6
+ca go wrong 6
+best processor price 4
+processor price point 4
+except one thing 4
+great budget gaming 4
+great ryzen cpu 4
+price performance king 4
+still going strong 4
+amazing value money 4
+best cpu money 4
+intel bang buck 4
+great gaming cpu 4
+gaming cpu money 4
+best consumer cpu 4
+amazing budget cpu 4
+great price great 4
+price performance cpu 4
+great processor great 4
+value value value 4
+great bang buck 4
+great entry level 4
+thermal paste already 4
+best value price 4
+great cpu cooler 4
+good price performance 4
+first time builders 4
+cpu great price 4
+got prime day 4
+good cpu cooler 4
+performance great price 4
+great performance low 4
+value great performance 4
+awesome performance price 4
+great processor price 4
+cpu amazing price 4
+price great performance 4
+easy install runs 4
+works great issues 4
+best cpu budget 4
+cpu price range 4
+better intel cpu 4
+excelente relación precio 4
+good performance price 4
