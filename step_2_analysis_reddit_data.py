@@ -11,15 +11,15 @@ Anaylsis Reddit data
 import pandas as pd 
 from pathlib import Path
 
-import re
+#import re
 
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
+#from nltk.corpus import stopwords
+#from nltk.tokenize import word_tokenize
+#from nltk.stem import WordNetLemmatizer
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
-from collections import Counter
-from sklearn.feature_extraction.text import CountVectorizer
+#from collections import Counter
+#from sklearn.feature_extraction.text import CountVectorizer
 
 ###################################################
 # Global Param
@@ -53,31 +53,59 @@ def clean_whitespace(txt):
     return txt
 
 
-def remove_stopwords(txt):
-    """Remove stopwords using NLTK"""
+#def remove_stopwords(txt):
+#    """Remove stopwords using NLTK"""
+#    pass
+
+
+def convert_to_monthly(inp_df):
+    """Clean and group text data by month"""
+
+    # Concat submission and comments
+    inp_df["text"] = inp_df[["sub_text", "comm_text"]].fillna("").apply(lambda x: "\n".join(x), axis = 1)    
     
-    pass
+    # Keep useful fields
+    df = inp_df[["last_mod", "text"]]
+    df["yyyymm"] = df["last_mod"].map(lambda x: str(x)[:6])
+    
+    # clean whitespace
+    df["clean_text"] = df["text"].map(clean_whitespace)
+    
+    # Group
+    df = df[["yyyymm", "clean_text"]].groupby(["yyyymm"])["clean_text"].apply(lambda x: " ".join(x)).reset_index()
+    
+    return df
+
+
+
+###################################################
+# Sentiment
+    
+def text_sentiment_NLTK(inp, sid):
+    """Extract sentiment score from text using NLTK Vader"""
+    
+    if (isinstance(inp, str)):
+        x = sid.polarity_scores(inp)
+        return x["compound"]
+    
+    else:
+        return 0        # for nan data
+
 
 
 #%%###################################################
 # Load file
 
-red_intel = load_cvs("reddit_intel.csv")
-red_intel["text"] = red_intel[["sub_text", "comm_text"]].fillna("").apply(lambda x: "\n".join(x), axis = 1)
+red_intel = load_cvs("reddit_intel.csv").reset_index()
 
 
-#%%
+#%% Format
 
-df = red_intel[["last_mod", "text"]]
-
-df["clean_text"] = df["text"].map(clean_whitespace)
+df = convert_to_monthly(red_intel)
 
 
-#%%
-v = CountVectorizer(stop_words = "english")
+#%% Sentiment
 
-bow = v.fit_transform(df["clean_text"])
+sid = SentimentIntensityAnalyzer()
 
-v.get_feature_names()
-v.transform(["Something completely new."]).toarray()
-
+df["sentiment"] = df["clean_text"].map(lambda x: text_sentiment_NLTK(x, sid))
