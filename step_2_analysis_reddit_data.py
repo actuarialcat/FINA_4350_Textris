@@ -11,6 +11,8 @@ Anaylsis Reddit data
 import pandas as pd 
 from pathlib import Path
 
+from tqdm import tqdm                  # for progress bar
+
 #import re
 
 #from nltk.corpus import stopwords
@@ -25,11 +27,11 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 # Global Param
 
 OUTPUT_PATH_CSV = "clean_data/"
-OUTPUT_FILENAME_PREFIX = "web_data_"
 
+FEATURE_PATH_CSV =  "features/"
 
 ###################################################
-# Load file
+# file
 
 def load_cvs(filename):
     """load dataframe from csv file"""
@@ -37,6 +39,15 @@ def load_cvs(filename):
     full_filename = Path(OUTPUT_PATH_CSV + filename) 
     return pd.read_csv(full_filename, index_col = 0)
 
+
+
+def output_cvs(df, filename):
+    """output dataframe into csv file"""
+    
+    full_filename = Path(FEATURE_PATH_CSV + filename) 
+    df.to_csv(full_filename)
+    
+    print("Outputed file: " + filename)
 
 
 ###################################################
@@ -107,5 +118,10 @@ df = convert_to_monthly(red_intel)
 #%% Sentiment
 
 sid = SentimentIntensityAnalyzer()
+tqdm.pandas()                           # for progress bar
 
-df["sentiment"] = df["clean_text"].map(lambda x: text_sentiment_NLTK(x, sid))
+df["sentiment"] = df["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+
+output_cvs(df[["yyyymm", "sentiment"]], "intel_sentiment.cvs")
+
+
