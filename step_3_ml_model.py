@@ -42,13 +42,33 @@ def load_all_features():
     df_stock = df_stock[df_stock["yyyymm"] >= MIN_DATE]
     df_stock = df_stock[df_stock["yyyymm"] <= MAX_DATE]
     
-    # Sentiment data
-    df_sentiment = pd.read_csv(FEATURE_PATH_CSV + "sentiment.csv", index_col = 0)
-    df_sentiment = df_stock[df_stock["yyyymm"] >= MIN_DATE]
-    df_sentiment = df_stock[df_stock["yyyymm"] <= MAX_DATE]
+    # Summary
+    intel_summary = pd.read_csv(FEATURE_PATH_CSV + "intel_summary.csv", index_col = 0)
+    intel_summary = intel_summary[df_stock["yyyymm"] >= MIN_DATE]
+    intel_summary = intel_summary[df_stock["yyyymm"] <= MAX_DATE]
     
+    amd_summary = pd.read_csv(FEATURE_PATH_CSV + "amd_summary.csv", index_col = 0)
+    amd_summary = amd_summary[df_stock["yyyymm"] >= MIN_DATE]
+    amd_summary = amd_summary[df_stock["yyyymm"] <= MAX_DATE]
+    
+    df_summary = intel_summary.merge(amd_summary, on ="yyyymm", suffixes = ["_intel", "_amd"])
+    
+# =============================================================================
+#     # Sentiment data
+#     intel_sentiment = pd.read_csv(FEATURE_PATH_CSV + "intel_sentiment.csv", index_col = 0)
+#     intel_sentiment = intel_sentiment[df_stock["yyyymm"] >= MIN_DATE]
+#     intel_sentiment = intel_sentiment[df_stock["yyyymm"] <= MAX_DATE]
+#     
+#     amd_sentiment = pd.read_csv(FEATURE_PATH_CSV + "amd_sentiment.csv", index_col = 0)
+#     amd_sentiment = amd_sentiment[df_stock["yyyymm"] >= MIN_DATE]
+#     amd_sentiment = amd_sentiment[df_stock["yyyymm"] <= MAX_DATE]
+#     
+#     df_sentiment = intel_sentiment.merge(amd_sentiment, on ="yyyymm", suffixes = ["_intel", "_amd"])
+# =============================================================================
+    
+
     # merge all
-    df = df_sentiment.merge(df_stock, on ="yyyymm")
+    df = df_summary.merge(df_stock, on ="yyyymm")
     
     return df
     

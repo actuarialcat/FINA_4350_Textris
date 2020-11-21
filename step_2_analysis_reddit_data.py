@@ -47,7 +47,7 @@ def output_cvs(df, filename):
     full_filename = Path(FEATURE_PATH_CSV + filename) 
     df.to_csv(full_filename)
     
-    print("Outputed file: " + filename)
+    print("Outputed file: " + filename + "\n")
 
 
 ###################################################
@@ -110,6 +110,8 @@ def text_sentiment_NLTK(inp, sid):
 red_intel = load_cvs("reddit_intel.csv").reset_index()
 red_amd = load_cvs("reddit_amd.csv").reset_index()
 
+tqdm.pandas()                           # for progress bar
+
 
 #%% Format
 
@@ -117,24 +119,33 @@ df_intel = convert_to_monthly(red_intel)
 df_amd = convert_to_monthly(red_amd)
 
 
+
 #%% Sentiment intel
 
 sid = SentimentIntensityAnalyzer()
-tqdm.pandas()                           # for progress bar
-
 df_intel["sentiment"] = df_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
-
-output_cvs(df_intel[["yyyymm", "sentiment"]], "intel_sentiment.cvs")
+output_cvs(df_intel[["yyyymm", "sentiment"]], "intel_sentiment.csv")
 
 
 
 #%% Sentiment AMD
 
 sid = SentimentIntensityAnalyzer()
-tqdm.pandas()                           # for progress bar
-
 df_amd["sentiment"] = df_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+output_cvs(df_amd[["yyyymm", "sentiment"]], "AMD_sentiment.csv")
 
-output_cvs(df_amd[["yyyymm", "sentiment"]], "AMD_sentiment.cvs")
+
+
+#%% Summery Statistics (Length of dataset)
+
+df_intel["length"] = df_intel["clean_text"].progress_apply(len)
+df_intel["word_count"] = df_intel["clean_text"].progress_apply(lambda x: len(x.split()))
+
+output_cvs(df_intel[["yyyymm", "length"]], "intel_summary.csv")
+
+df_amd["length"] = df_amd["clean_text"].progress_apply(len)
+df_amd["word_count"] = df_amd["clean_text"].progress_apply(lambda x: len(x.split()))
+output_cvs(df_amd[["yyyymm", "length"]], "AMD_summary.csv")
+
 
 
