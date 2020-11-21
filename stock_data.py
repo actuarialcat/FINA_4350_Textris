@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Data pre-processing and fitting random forest models
+Pre-processing stock data
 
 Created on Sat Nov 21 22:29:20 2020
 
@@ -50,6 +50,7 @@ def read_stock_data(filename):
 
 
 def pre_process_stock_data(df):
+    """Calculate returns and trade volumn of the next month"""
     
     # lag values
     df["volume_next_1"] = df["Volume"].shift(periods = -1)
