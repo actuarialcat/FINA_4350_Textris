@@ -108,20 +108,33 @@ def text_sentiment_NLTK(inp, sid):
 # Load file
 
 red_intel = load_cvs("reddit_intel.csv").reset_index()
+red_amd = load_cvs("reddit_amd.csv").reset_index()
 
 
 #%% Format
 
-df = convert_to_monthly(red_intel)
+df_intel = convert_to_monthly(red_intel)
+df_amd = convert_to_monthly(red_amd)
 
 
-#%% Sentiment
+#%% Sentiment intel
 
 sid = SentimentIntensityAnalyzer()
 tqdm.pandas()                           # for progress bar
 
-df["sentiment"] = df["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+df_intel["sentiment"] = df_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
 
-output_cvs(df[["yyyymm", "sentiment"]], "intel_sentiment.cvs")
+output_cvs(df_intel[["yyyymm", "sentiment"]], "intel_sentiment.cvs")
+
+
+
+#%% Sentiment AMD
+
+sid = SentimentIntensityAnalyzer()
+tqdm.pandas()                           # for progress bar
+
+df_amd["sentiment"] = df_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+
+output_cvs(df_amd[["yyyymm", "sentiment"]], "AMD_sentiment.cvs")
 
 
