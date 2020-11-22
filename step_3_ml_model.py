@@ -10,19 +10,17 @@ Created on Sat Nov 21 23:13:24 2020
 
 import pandas as pd 
 from pandas.plotting import parallel_coordinates
-
 import numpy as np
 
 import matplotlib.pyplot as plt
-from matplotlib.ticker import ScalarFormatter
+import plotnine
 from plotnine import *
+
 import datetime
 
+from sklearn import metrics
 from sklearn.cluster import KMeans
 from sklearn.naive_bayes import MultinomialNB
-from sklearn import metrics
-
-from sklearn.linear_model import LinearRegression
 import statsmodels.api as sm
 
 
@@ -130,6 +128,8 @@ amazon_amd_bow = amazon_amd_bow[amazon_amd_bow["yyyymm"] <= MAX_DATE]
 
 plot_data = pd.melt(df_summary[["yyyymm", "word_count_intel", "word_count_amd"]], id_vars = "yyyymm")
 plot_data["yyyymm"] = plot_data["yyyymm"].apply(as_date)
+
+plotnine.options.figure_size = (9, 6)
 
 print(
      ggplot(plot_data)
