@@ -159,26 +159,56 @@ def knn_model(inp, n_clusters, print_ind = True):
 
 
 
-def parallel_plot(x_all, labels):
-    """parallel coordinates to visualise knn clusters"""
+def parallel_plot(x_all, labels, is_BoW = True):
+    """parallel coordinates plot to visualise knn clusters"""
     
     plot_data = x_all.merge(labels, on = "yyyymm")
     
     plt.figure(figsize = (15,10))
     parallel_coordinates(plot_data.drop("yyyymm", axis = 1), "labels", color = ["green", "red", "blue"])
-    plt.xlabel('Words', fontsize = 15)
-    plt.xticks(rotation = 90)
-    plt.ylabel('Word occurrence', fontsize = 15)
+
+    if is_BoW:
+        plt.xlabel('Words', fontsize = 15)
+        plt.ylabel('Word occurrence', fontsize = 15)
+        plt.xticks(rotation = 90)
+    else:
+        plt.xlabel('Value', fontsize = 15)
+        plt.ylabel('Features', fontsize = 15)
+        plt.xticks(fontsize = 15)
+    
     plt.legend(loc = 1, prop={'size': 15}, frameon = True)
     plt.show()
     
+    
+
+def scatter_plot(x_all, labels):
+    """scatter plot to visualise knn clusters"""
+    
+    color = labels.iloc[:,1].apply(lambda x: "green" if x == 0 else "red")
+    
+    plt.figure(figsize = (15,10))
+    plt.scatter(x_all.iloc[:,1], x_all.iloc[:,2], c = color)
+    
 
 
-#%% AMD Reddit bag of words
+#%% Intel reddit sentiment 
+
+x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+kmeans, labels = knn_model(x_all, 2)
+parallel_plot(intel_sentiment, labels, False)
+
+
+#%% AMD reddit sentiment 
+
+x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+kmeans, labels = knn_model(x_all, 2)
+parallel_plot(amd_sentiment, labels, False)
+
+
+#%% Intel Reddit bag of words
 
 x_all = intel_bow
 kmeans, labels = knn_model(x_all, 3)
-
 parallel_plot(x_all, labels)
 
 
@@ -186,15 +216,29 @@ parallel_plot(x_all, labels)
 
 x_all = amd_bow
 kmeans, labels = knn_model(x_all, 2)
-
 parallel_plot(x_all, labels)
+
+
+#%% Intel Amazon sentiment
+
+x_all = amazon_intel_sentiment
+kmeans, labels = knn_model(x_all, 2)
+scatter_plot(x_all, labels)
+#parallel_plot(x_all, labels, False)
+
+
+#%% AMS Amazon sentiment
+
+x_all = amazon_amd_sentiment
+kmeans, labels = knn_model(x_all, 2)
+scatter_plot(x_all, labels)
+#parallel_plot(x_all, labels, False)
 
 
 #%% Intel Amazon bag of words
 
 x_all = amazon_intel_bow
 kmeans, labels = knn_model(x_all, 2)
-
 parallel_plot(x_all, labels)
 
 
@@ -202,7 +246,6 @@ parallel_plot(x_all, labels)
 
 x_all = amazon_amd_bow
 kmeans, labels = knn_model(x_all, 2)
-
 parallel_plot(x_all, labels)
 
 

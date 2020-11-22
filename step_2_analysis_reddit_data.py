@@ -135,16 +135,12 @@ df_amd, df_raw_amd  = convert_to_monthly(red_amd)
 
 
 
-#%% Sentiment step 1
+#%% Sentiment
 
 sid = SentimentIntensityAnalyzer()
 
 df_raw_intel["sentiment"] = df_raw_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
 df_raw_amd["sentiment"] = df_raw_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
-
-
-
-#%% Sentiment step 2
 
 intel_sen_summery = df_raw_intel[["yyyymm", "sentiment"]].groupby(["yyyymm"])["sentiment"].apply(summarise_sentiment).reset_index()
 intel_sen_summery = intel_sen_summery.pivot("yyyymm", "level_1")["sentiment"]
@@ -152,7 +148,7 @@ output_cvs(intel_sen_summery, "Reddit_Sentiment_intel_Result.csv")
 
 amd_sen_summery = df_raw_amd[["yyyymm", "sentiment"]].groupby(["yyyymm"])["sentiment"].apply(summarise_sentiment).reset_index()
 amd_sen_summery = amd_sen_summery.pivot("yyyymm", "level_1")["sentiment"]
-output_cvs(intel_sen_summery, "Reddit_Sentiment_AMD_Result.csv")
+output_cvs(amd_sen_summery, "Reddit_Sentiment_AMD_Result.csv")
 
 
 
