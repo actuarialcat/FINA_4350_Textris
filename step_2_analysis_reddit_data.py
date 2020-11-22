@@ -141,11 +141,11 @@ output_cvs(df_amd[["yyyymm", "sentiment"]], "AMD_sentiment.csv")
 df_intel["length"] = df_intel["clean_text"].progress_apply(len)
 df_intel["word_count"] = df_intel["clean_text"].progress_apply(lambda x: len(x.split()))
 
-output_cvs(df_intel[["yyyymm", "length"]], "intel_summary.csv")
+output_cvs(df_intel[["yyyymm", "length", "word_count"]], "intel_summary.csv")
 
 df_amd["length"] = df_amd["clean_text"].progress_apply(len)
 df_amd["word_count"] = df_amd["clean_text"].progress_apply(lambda x: len(x.split()))
-output_cvs(df_amd[["yyyymm", "length"]], "AMD_summary.csv")
+output_cvs(df_amd[["yyyymm", "length", "word_count"]], "AMD_summary.csv")
 
 
 
