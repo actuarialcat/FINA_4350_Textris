@@ -33,7 +33,7 @@ FEATURE_PATH_CSV =  "features/"
 MAX_DATE = 202009
 MIN_DATE = 201703
 
-
+TRAIN_DATE = 201910           # 43 months total, 12 test month (28% test set)
 
 ###################################################
 # Date functions
@@ -127,8 +127,27 @@ amazon_amd_bow = amazon_amd_bow[amazon_amd_bow["yyyymm"] <= MAX_DATE]
 
 #%% Naive Bayes
 
+# Data
+x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
 
+x_train = x_all[x_all["yyyymm"] < TRAIN_DATE].iloc[:,1:]
+x_test = x_all[x_all["yyyymm"] >= TRAIN_DATE].iloc[:,1:]
+y_train = y_all[y_all["yyyymm"] < TRAIN_DATE].iloc[:,1].to_numpy()
+y_test = y_all[y_all["yyyymm"] >= TRAIN_DATE].iloc[:,1].to_numpy()
 
+# Model
+nb = MultinomialNB()
+nb.fit(x_train, y_train)
+
+# Result
+print(nb.classes_)
+print(nb.coef_[0])
+
+# Test accuracy
+pred = nb.predict(x_test)
+print(metrics.accuracy_score(y_test, pred))
+print(metrics.confusion_matrix(y_test, pred, labels=[0, 1]))
 
 
 
