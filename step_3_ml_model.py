@@ -21,6 +21,9 @@ from sklearn.cluster import KMeans
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
 
+from sklearn.linear_model import LinearRegression
+import statsmodels.api as sm
+
 
 
 ###################################################
@@ -403,15 +406,157 @@ nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 ###################################################
 #%% Linear Regression
 
+def abline(slope, intercept):
+    """Plot a line from slope and intercept"""
+    axes = plt.gca()
+    x_vals = np.array(axes.get_xlim())
+    y_vals = intercept + slope * x_vals
+    plt.plot(x_vals, y_vals, '--')
 
 
 
+def lm_model(x_all, y_all, print_ind = True, plot_ind = True):
+    """Fit a linear regression model"""
+    
+    # data
+    x_train = x_all[x_all["yyyymm"] < TRAIN_DATE].iloc[:,1:].to_numpy()
+    x_test = x_all[x_all["yyyymm"] >= TRAIN_DATE].iloc[:,1:].to_numpy()
+    y_train = y_all[y_all["yyyymm"] < TRAIN_DATE].iloc[:,1].to_numpy()
+    y_test = y_all[y_all["yyyymm"] >= TRAIN_DATE].iloc[:,1].to_numpy()
+    
+    # Fit model
+    X = sm.add_constant(x_train)
+    lm = sm.OLS(y_train, X).fit()
+    
+    if print_ind:
+        print(lm.summary())
+        print()
+    
+    # test
+    X_test = sm.add_constant(x_test)
+    ypred = lm.predict(X_test)
+    MSE = np.sum((ypred - y_test)**2) / len(y_test)
+
+    # plot
+    if plot_ind:
+        # Residual plot
+        plt.figure(figsize = (10,7))
+        plt.scatter(lm.fittedvalues, lm.resid)
+        plt.xlabel('Fitted Value', fontsize = 15)
+        plt.ylabel('Residual', fontsize = 15)
+        plt.title("Residual plot",  fontsize = 25)
+        plt.axhline(y = 0)
+        plt.show()
+        
+        # QQ plot
+        plt.figure(figsize = (10,7))
+        sm.ProbPlot(lm.resid).qqplot()
+        plt.title("qq-plot",  fontsize = 25)
+        abline(1,0)
+        plt.show()
+    
+    # print
+    if print_ind:
+        print("MSE as % of square mean")
+        print("Test MSE: {:.6f}".format(MSE / (np.mean(y_test) ** 2)))
+    
+    
+    return lm, MSE
 
 
 
+def null_model_MSE(y_all):
+    """Test MSE for null model"""
+    
+    y_train = y_all[y_all["yyyymm"] < TRAIN_DATE].iloc[:,1].to_numpy()
+    y_test = y_all[y_all["yyyymm"] >= TRAIN_DATE].iloc[:,1].to_numpy()
+    
+    MSE = np.sum((np.mean(y_train) - y_test)**2) / len(y_test)
+    print("Null MSE: {:.6f}    (i.e. Predict with mean)".format(MSE / (np.mean(y_test) ** 2)))
+    
 
 
+#%% Intel reddit sentiment vs Return
 
+x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "ret_next_1_intel"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD reddit sentiment vs Return
+
+x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "ret_next_1_amd"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% Intel Amazon sentiment vs Return
+
+x_all = amazon_intel_sentiment
+y_all = df_stock[["yyyymm", "ret_next_1_intel"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD Amazon sentiment vs Return
+
+x_all = amazon_amd_sentiment
+y_all = df_stock[["yyyymm", "ret_next_1_amd"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+###################################################
+#%% Intel reddit sentiment vs Trade volume
+
+x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "volume_next_1_intel"]]
+y_all["volume_next_1_intel"] = y_all["volume_next_1_intel"].apply(lambda x: np.log(x))
+
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD reddit sentiment vs Trade volume
+
+x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "volume_next_1_amd"]]
+y_all["volume_next_1_amd"] = y_all["volume_next_1_amd"].apply(lambda x: np.log(x))
+
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD reddit sentiment vs Trade volume (Reduced model)
+
+x_all = amd_sentiment.iloc[:,[0,5]]
+y_all = df_stock[["yyyymm", "volume_next_1_amd"]]
+y_all["volume_next_1_amd"] = y_all["volume_next_1_amd"].apply(lambda x: np.log(x))
+
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% Intel Amazon sentiment vs Trade volume
+
+x_all = amazon_intel_sentiment
+y_all = df_stock[["yyyymm", "volume_next_1_intel"]]
+y_all["volume_next_1_intel"] = y_all["volume_next_1_intel"].apply(lambda x: np.log(x))
+
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD Amazon sentiment vs Trade volume
+
+x_all = amazon_amd_sentiment
+y_all = df_stock[["yyyymm", "volume_next_1_amd"]]
+y_all["volume_next_1_amd"] = y_all["volume_next_1_amd"].apply(lambda x: np.log(x))
+
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
 
 
 
