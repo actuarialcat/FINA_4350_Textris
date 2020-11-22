@@ -28,7 +28,7 @@ from sklearn import metrics
 FEATURE_PATH_CSV =  "features/"
 
 MAX_DATE = 202009
-MIN_DATE = 201801
+MIN_DATE = 201701
 
 
 ###################################################
@@ -42,6 +42,7 @@ def load_all_features():
     df_stock = df_stock[df_stock["yyyymm"] >= MIN_DATE]
     df_stock = df_stock[df_stock["yyyymm"] <= MAX_DATE]
     
+    
     # Summary
     intel_summary = pd.read_csv(FEATURE_PATH_CSV + "intel_summary.csv", index_col = 0)
     intel_summary = intel_summary[intel_summary["yyyymm"] >= MIN_DATE]
@@ -53,22 +54,22 @@ def load_all_features():
     
     df_summary = intel_summary.merge(amd_summary, on ="yyyymm", suffixes = ["_intel", "_amd"])
     
-# =============================================================================
-#     # Sentiment data
-#     intel_sentiment = pd.read_csv(FEATURE_PATH_CSV + "intel_sentiment.csv", index_col = 0)
-#     intel_sentiment = intel_sentiment[intel_sentiment["yyyymm"] >= MIN_DATE]
-#     intel_sentiment = intel_sentiment[intel_sentiment["yyyymm"] <= MAX_DATE]
-#     
-#     amd_sentiment = pd.read_csv(FEATURE_PATH_CSV + "amd_sentiment.csv", index_col = 0)
-#     amd_sentiment = amd_sentiment[amd_sentiment["yyyymm"] >= MIN_DATE]
-#     amd_sentiment = amd_sentiment[amd_sentiment["yyyymm"] <= MAX_DATE]
-#     
-#     df_sentiment = intel_sentiment.merge(amd_sentiment, on ="yyyymm", suffixes = ["_intel", "_amd"])
-# =============================================================================
     
-
+    # Sentiment data
+    intel_sentiment = pd.read_csv(FEATURE_PATH_CSV + "intel_sentiment.csv")
+    intel_sentiment = intel_sentiment[intel_sentiment["yyyymm"] >= MIN_DATE]
+    intel_sentiment = intel_sentiment[intel_sentiment["yyyymm"] <= MAX_DATE]
+    
+    amd_sentiment = pd.read_csv(FEATURE_PATH_CSV + "AMD_sentiment.csv")
+    amd_sentiment = amd_sentiment[amd_sentiment["yyyymm"] >= MIN_DATE]
+    amd_sentiment = amd_sentiment[amd_sentiment["yyyymm"] <= MAX_DATE]
+    
+    df_sentiment = intel_sentiment.merge(amd_sentiment, on ="yyyymm", suffixes = ["_intel", "_amd"])
+    
+    
     # merge all
-    df = df_summary.merge(df_stock, on ="yyyymm")
+    df = df_summary.merge(df_sentiment, on ="yyyymm")
+    df = df.merge(df_stock, on ="yyyymm")
     
     return df
     
@@ -79,10 +80,17 @@ def load_all_features():
     
 
 
+###################################################
+# Plot Data Summery
+
+
+
 
 #%%###################################################
 # Load
     
+df.columns
+
 df = load_all_features()
 
 
