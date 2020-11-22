@@ -46,7 +46,6 @@ def as_date(inp):
     
     return  out - datetime.timedelta(days = out.day)
     
-    
 
 
 ###################################################
@@ -83,36 +82,36 @@ df_sentiment = intel_sentiment.merge(amd_sentiment, on ="yyyymm", suffixes = ["_
 
 
 # Reddit BoW
-intel_bow = pd.read_csv(FEATURE_PATH_CSV + "Reddit_BoW_Intel_Result.csv")
+intel_bow = pd.read_csv(FEATURE_PATH_CSV + "Reddit_BoW_Intel_Result.csv", index_col = 0)
 intel_bow = intel_bow.rename(columns = {'name': 'yyyymm'})
 intel_bow = intel_bow[intel_bow["yyyymm"] >= MIN_DATE]
 intel_bow = intel_bow[intel_bow["yyyymm"] <= MAX_DATE]
 
-amd_bow = pd.read_csv(FEATURE_PATH_CSV + "Reddit_BoW_AMD_Result.csv")
+amd_bow = pd.read_csv(FEATURE_PATH_CSV + "Reddit_BoW_AMD_Result.csv", index_col = 0)
 amd_bow = amd_bow.rename(columns = {'name': 'yyyymm'})
 amd_bow = amd_bow[amd_bow["yyyymm"] >= MIN_DATE]
 amd_bow = amd_bow[amd_bow["yyyymm"] <= MAX_DATE]
 
 
 # Amazon Sentiment data
-amazon_intel_sentiment = pd.read_csv(FEATURE_PATH_CSV + "Amazon_Sentiment_Intel_Result.csv")
+amazon_intel_sentiment = pd.read_csv(FEATURE_PATH_CSV + "Amazon_Sentiment_Intel_Result.csv", index_col = 0)
 amazon_intel_sentiment = amazon_intel_sentiment.rename(columns = {'Month': 'yyyymm'})
 amazon_intel_sentiment = amazon_intel_sentiment[amazon_intel_sentiment["yyyymm"] >= MIN_DATE]
 amazon_intel_sentiment = amazon_intel_sentiment[amazon_intel_sentiment["yyyymm"] <= MAX_DATE]
 
-amazon_amd_sentiment = pd.read_csv(FEATURE_PATH_CSV + "Amazon_Sentiment_AMD_Result.csv")
+amazon_amd_sentiment = pd.read_csv(FEATURE_PATH_CSV + "Amazon_Sentiment_AMD_Result.csv", index_col = 0)
 amazon_amd_sentiment = amazon_amd_sentiment.rename(columns = {'Month': 'yyyymm'})
 amazon_amd_sentiment = amazon_amd_sentiment[amazon_amd_sentiment["yyyymm"] >= MIN_DATE]
 amazon_amd_sentiment = amazon_amd_sentiment[amazon_amd_sentiment["yyyymm"] <= MAX_DATE]
 
 
 # Amazon BoW
-amazon_intel_bow = pd.read_csv(FEATURE_PATH_CSV + "Amazon_BoW_Intel_Result.csv")
+amazon_intel_bow = pd.read_csv(FEATURE_PATH_CSV + "Amazon_BoW_Intel_Result.csv", index_col = 0)
 amazon_intel_bow = amazon_intel_bow.rename(columns = {'name': 'yyyymm'})
 amazon_intel_bow = amazon_intel_bow[amazon_intel_bow["yyyymm"] >= MIN_DATE]
 amazon_intel_bow = amazon_intel_bow[amazon_intel_bow["yyyymm"] <= MAX_DATE]
 
-amazon_amd_bow = pd.read_csv(FEATURE_PATH_CSV + "Amazon_BoW_AMD_Result.csv")
+amazon_amd_bow = pd.read_csv(FEATURE_PATH_CSV + "Amazon_BoW_AMD_Result.csv", index_col = 0)
 amazon_amd_bow = amazon_amd_bow.rename(columns = {'name': 'yyyymm'})
 amazon_amd_bow = amazon_amd_bow[amazon_amd_bow["yyyymm"] >= MIN_DATE]
 amazon_amd_bow = amazon_amd_bow[amazon_amd_bow["yyyymm"] <= MAX_DATE]
@@ -123,40 +122,6 @@ amazon_amd_bow = amazon_amd_bow[amazon_amd_bow["yyyymm"] <= MAX_DATE]
 # df = df_summary.merge(df_sentiment, on ="yyyymm")
 # df = df.merge(df_stock, on ="yyyymm")
     
-
-
-#%% Naive Bayes
-
-# Data
-x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
-
-x_train = x_all[x_all["yyyymm"] < TRAIN_DATE].iloc[:,1:]
-x_test = x_all[x_all["yyyymm"] >= TRAIN_DATE].iloc[:,1:]
-y_train = y_all[y_all["yyyymm"] < TRAIN_DATE].iloc[:,1].to_numpy()
-y_test = y_all[y_all["yyyymm"] >= TRAIN_DATE].iloc[:,1].to_numpy()
-
-# Model
-nb = MultinomialNB()
-nb.fit(x_train, y_train)
-
-# Result
-print(nb.classes_)
-print(nb.coef_[0])
-
-# Test accuracy
-pred = nb.predict(x_test)
-print(metrics.accuracy_score(y_test, pred))
-print(metrics.confusion_matrix(y_test, pred, labels=[0, 1]))
-
-
-
-#%% 
-    
-
-
-    
-
 
 
 #%% Plot Data Summery
@@ -172,6 +137,98 @@ print(
      + ylab("Word count")
      + geom_line() 
 )
+
+
+
+###################################################
+#%% Naive Bayes
+
+def nb_model(x_all, y_all, print_ind = True):
+    """Fit a navie bayes model"""
+    
+    x_train = x_all[x_all["yyyymm"] < TRAIN_DATE].iloc[:,1:]
+    x_test = x_all[x_all["yyyymm"] >= TRAIN_DATE].iloc[:,1:]
+    y_train = y_all[y_all["yyyymm"] < TRAIN_DATE].iloc[:,1].to_numpy()
+    y_test = y_all[y_all["yyyymm"] >= TRAIN_DATE].iloc[:,1].to_numpy()
+
+    # Model
+    nb = MultinomialNB()
+    nb.fit(x_train, y_train)
+
+    # Test accuracy
+    pred = nb.predict(x_test)
+    test_acc = metrics.accuracy_score(y_test, pred)
+    conf_matrix = metrics.confusion_matrix(y_test, pred, labels=[0, 1])
+    
+    if (print_ind):
+        print("Test accuarcy: " + str(test_acc))
+        print(conf_matrix)
+        print()
+    
+    return nb, test_acc, conf_matrix
+
+
+
+#%% Intel reddit sentiment vs Stock Direction
+
+x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+
+#%% AMD reddit sentiment vs Stock Direction
+
+x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+
+#%% Intel reddit bag of words vs Stock Direction
+
+x_all = intel_bow
+y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+    
+
+#%% AMD reddit bag of words vs Stock Direction
+
+x_all = amd_bow
+y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+
+#%% Intel Amazon sentiment vs Stock Direction
+
+x_all = amazon_intel_sentiment
+y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+
+#%% AMD Amazon sentiment vs Stock Direction
+
+x_all = amazon_amd_sentiment
+y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+
+#%% Intel Amazon bag of words vs Stock Direction
+
+x_all = amazon_intel_bow
+y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+    
+
+#%% AMD Amazon bag of words vs Stock Direction
+
+x_all = amazon_amd_bow
+y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+
+#%%
+
+
+
 
 
 
