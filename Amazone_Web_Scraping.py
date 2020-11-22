@@ -23,7 +23,7 @@ cookies = {
     'session-id-time':'',
     'session-token':''
 }
-f = open("CPU_ASIN.txt", "r")
+f = open("Amazon_Products.txt", "r")
 for line in f:
     name = line.strip().split(",")[0]
     asin = line.strip().split(",")[1]
