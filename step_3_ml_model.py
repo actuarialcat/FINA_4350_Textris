@@ -14,6 +14,7 @@ from pandas.plotting import parallel_coordinates
 import numpy as np
 
 import matplotlib.pyplot as plt
+from matplotlib.ticker import ScalarFormatter
 from plotnine import *
 import datetime
 
@@ -139,6 +140,19 @@ print(
      + geom_line() 
 )
 
+# =============================================================================
+# plt.figure(figsize = (10,7))
+# plt.plot(df_summary["yyyymm"].apply(as_date), df_summary["word_count_intel"], label = "Intel")
+# plt.plot(df_summary["yyyymm"].apply(as_date), df_summary["word_count_amd"], label = "AMD")
+# plt.legend(fontsize = 15)
+# plt.xlabel('Date', fontsize = 15)
+# plt.ylabel('Word count', fontsize = 15)
+# plt.set_major_formatter(ScalarFormatter())
+# plt.ticklabel_format(useOffset = False)
+# plt.yticks(fontsize = 15)
+# plt.xticks(fontsize = 15)
+# 
+# =============================================================================
 
 
 ###################################################
