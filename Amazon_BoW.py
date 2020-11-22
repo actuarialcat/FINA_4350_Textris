@@ -32,8 +32,6 @@ for brand in brands:
 
     for review_file in review_files:
         data = pd.read_csv(directory + review_file)
-        title_total_polarity = []
-        content_total_polarity = []
         for i in data.index:
             title = str(data["title"][i]).strip()
             content = str(data["content"][i]).strip()
