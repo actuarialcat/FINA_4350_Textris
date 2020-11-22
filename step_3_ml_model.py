@@ -9,19 +9,17 @@ Created on Sat Nov 21 23:13:24 2020
 """
 
 import pandas as pd 
+from pandas.plotting import parallel_coordinates
+
 import numpy as np
 
+import matplotlib.pyplot as plt
 from plotnine import *
 import datetime
 
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import GridSearchCV
-
-from sklearn.model_selection import train_test_split
+from sklearn.cluster import KMeans
 from sklearn.naive_bayes import MultinomialNB
-
 from sklearn import metrics
-
 
 
 
@@ -141,6 +139,75 @@ print(
 
 
 ###################################################
+#%% KNN clustering
+
+def knn_model(inp, n_clusters, print_ind = True):
+    """implement knn clusters"""
+    
+    X = inp.iloc[:,1:]
+    kmeans = KMeans(n_clusters).fit(X)
+    
+    labels = inp.iloc[:,0:1]
+    labels.insert(len(labels.columns), "labels", kmeans.labels_)
+    
+    #kmeans.cluster_centers_
+    
+    if (print_ind):
+        print(labels)
+        
+    return kmeans, labels
+
+
+
+def parallel_plot(x_all, labels):
+    """parallel coordinates to visualise knn clusters"""
+    
+    plot_data = x_all.merge(labels, on = "yyyymm")
+    
+    plt.figure(figsize = (15,10))
+    parallel_coordinates(plot_data.drop("yyyymm", axis = 1), "labels", color = ["green", "red", "blue"])
+    plt.xlabel('Words', fontsize = 15)
+    plt.xticks(rotation = 90)
+    plt.ylabel('Word occurrence', fontsize = 15)
+    plt.legend(loc = 1, prop={'size': 15}, frameon = True)
+    plt.show()
+    
+
+
+#%% AMD Reddit bag of words
+
+x_all = intel_bow
+kmeans, labels = knn_model(x_all, 3)
+
+parallel_plot(x_all, labels)
+
+
+#%% AMD Reddit bag of words
+
+x_all = amd_bow
+kmeans, labels = knn_model(x_all, 2)
+
+parallel_plot(x_all, labels)
+
+
+#%% Intel Amazon bag of words
+
+x_all = amazon_intel_bow
+kmeans, labels = knn_model(x_all, 2)
+
+parallel_plot(x_all, labels)
+
+
+#%% AMD Amazon bag of words
+
+x_all = amazon_amd_bow
+kmeans, labels = knn_model(x_all, 2)
+
+parallel_plot(x_all, labels)
+
+
+
+###################################################
 #%% Naive Bayes
 
 def nb_model(x_all, y_all, print_ind = True):
@@ -174,6 +241,8 @@ def nb_model(x_all, y_all, print_ind = True):
 x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
 y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
+
+nb.coef_[0]
 
 
 #%% AMD reddit sentiment vs Stock Direction
@@ -225,7 +294,20 @@ y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
-#%%
+
+###################################################
+#%% Linear Regression
+
+
+
+
+
+
+
+
+
+
+
 
 
 
