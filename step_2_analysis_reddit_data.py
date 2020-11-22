@@ -10,6 +10,7 @@ Anaylsis Reddit data
 
 import pandas as pd 
 from pathlib import Path
+import numpy as np
 
 from tqdm import tqdm                  # for progress bar
 
@@ -70,7 +71,7 @@ def clean_whitespace(txt):
 
 
 def convert_to_monthly(inp_df):
-    """Clean and group text data by month"""
+    """Clean and group text data by month, return a montly df and a df per post"""
 
     # Concat submission and comments
     inp_df["text"] = inp_df[["sub_text", "comm_text"]].fillna("").apply(lambda x: "\n".join(x), axis = 1)    
@@ -83,9 +84,9 @@ def convert_to_monthly(inp_df):
     df["clean_text"] = df["text"].map(clean_whitespace)
     
     # Group
-    df = df[["yyyymm", "clean_text"]].groupby(["yyyymm"])["clean_text"].apply(lambda x: " ".join(x)).reset_index()
+    mthly_df = df[["yyyymm", "clean_text"]].groupby(["yyyymm"])["clean_text"].apply(lambda x: " ".join(x)).reset_index()
     
-    return df
+    return mthly_df, df[["yyyymm", "clean_text"]]
 
 
 
@@ -104,6 +105,20 @@ def text_sentiment_NLTK(inp, sid):
 
 
 
+def summarise_sentiment(inp):
+    """Summerise sentiment scores"""
+    
+    tot_length = len(inp)
+    
+    return pd.Series({
+        "mean": np.mean(inp), 
+        "sd": np.std(inp),
+        "perc_pos": len(list(filter(lambda x: (x > 0.3), inp))) / tot_length,
+        "perc_neg":  len(list(filter(lambda x: (x < -0.3), inp))) / tot_length,
+        "perc_netural": len(list(filter(lambda x: (x <= 0.3 and x >= -0.3), inp))) / tot_length
+        })
+
+
 #%%###################################################
 # Load file
 
@@ -115,24 +130,29 @@ tqdm.pandas()                           # for progress bar
 
 #%% Format
 
-df_intel = convert_to_monthly(red_intel)
-df_amd = convert_to_monthly(red_amd)
+df_intel, df_raw_intel = convert_to_monthly(red_intel)
+df_amd, df_raw_amd  = convert_to_monthly(red_amd)
 
 
 
-#%% Sentiment intel
-
-sid = SentimentIntensityAnalyzer()
-df_intel["sentiment"] = df_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
-output_cvs(df_intel[["yyyymm", "sentiment"]], "intel_sentiment.csv")
-
-
-
-#%% Sentiment AMD
+#%% Sentiment step 1
 
 sid = SentimentIntensityAnalyzer()
-df_amd["sentiment"] = df_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
-output_cvs(df_amd[["yyyymm", "sentiment"]], "AMD_sentiment.csv")
+
+df_raw_intel["sentiment"] = df_raw_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+df_raw_amd["sentiment"] = df_raw_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+
+
+
+#%% Sentiment step 2
+
+intel_sen_summery = df_raw_intel[["yyyymm", "sentiment"]].groupby(["yyyymm"])["sentiment"].apply(summarise_sentiment).reset_index()
+intel_sen_summery = intel_sen_summery.pivot("yyyymm", "level_1")["sentiment"]
+output_cvs(intel_sen_summery, "intel_sentiment.csv")
+
+amd_sen_summery = df_raw_amd[["yyyymm", "sentiment"]].groupby(["yyyymm"])["sentiment"].apply(summarise_sentiment).reset_index()
+amd_sen_summery = amd_sen_summery.pivot("yyyymm", "level_1")["sentiment"]
+output_cvs(intel_sen_summery, "AMD_sentiment.csv")
 
 
 
@@ -149,3 +169,23 @@ output_cvs(df_amd[["yyyymm", "length", "word_count"]], "AMD_summary.csv")
 
 
 
+
+
+
+
+#%% Testing
+
+# =============================================================================
+# #%% Sentiment intel
+# 
+# sid = SentimentIntensityAnalyzer()
+# df_intel["sentiment"] = df_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+# output_cvs(df_intel[["yyyymm", "sentiment"]], "intel_sentiment.csv")
+# 
+# #%% Sentiment AMD
+# 
+# sid = SentimentIntensityAnalyzer()
+# df_amd["sentiment"] = df_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
+# output_cvs(df_amd[["yyyymm", "sentiment"]], "AMD_sentiment.csv")
+# 
+# =============================================================================
