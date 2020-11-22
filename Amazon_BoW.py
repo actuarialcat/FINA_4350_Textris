@@ -131,4 +131,4 @@ for brand in brands:
 
         result = result.append(pd.Series(resultRow, index=columns), ignore_index=True)
 
-    result.to_csv("Amazon_{0}_BoW_Result.csv".format(brand))
+    result.to_csv("Amazon_BoW_{0}_Result.csv".format(brand))

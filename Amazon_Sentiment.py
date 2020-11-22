@@ -50,4 +50,4 @@ for brand in brands:
         content_polarity_avg = content_polarity_sum[key] / content_polarity_count[key]
         result = result.append({'Month': key, 'Title Polarity': title_polarity_avg, 'Content Polarity': content_polarity_avg}, ignore_index=True)
 
-    result.to_csv("Sentiment_Result_{0}.csv".format(brand))
+    result.to_csv("Amazon_Sentiment_{0}_Result.csv".format(brand))
