@@ -185,7 +185,7 @@ def parallel_plot(x_all, labels, is_BoW = True):
     
     plot_data = x_all.merge(labels, on = "yyyymm")
     
-    plt.figure(figsize = (15,10))
+    plt.figure(figsize = (15,6))
     parallel_coordinates(plot_data.drop("yyyymm", axis = 1), "labels", color = ["green", "red", "blue"])
 
     if is_BoW:
@@ -205,9 +205,9 @@ def parallel_plot(x_all, labels, is_BoW = True):
 def scatter_plot(x_all, labels):
     """scatter plot to visualise knn clusters"""
     
-    color = labels.iloc[:,1].apply(lambda x: "green" if x == 0 else "red")
+    color = labels.iloc[:,1].apply(lambda x: "green" if x == 0 else "red" if x == 1 else "blue")
     
-    plt.figure(figsize = (15,10))
+    plt.figure(figsize = (6,4))
     plt.scatter(x_all.iloc[:,1], x_all.iloc[:,2], c = color)
     plt.xlabel('Title Polarity', fontsize = 15)
     plt.ylabel('Content Polarity', fontsize = 15)
@@ -253,7 +253,7 @@ scatter_plot(x_all, labels)
 #%% AMS Amazon sentiment
 
 x_all = amazon_amd_sentiment
-kmeans, labels = knn_model(x_all, 2)
+kmeans, labels = knn_model(x_all, 3)
 scatter_plot(x_all, labels)
 #parallel_plot(x_all, labels, False)
 
@@ -475,8 +475,8 @@ def lm_model(x_all, y_all, print_ind = True, plot_ind = True):
     
     # print
     if print_ind:
-        print("MSE as % of square mean")
-        print("Test MSE: {:.6f}".format(MSE / (np.mean(y_test) ** 2)))
+        print("Test MSE: {:.6f}".format(MSE))
+        print("Test MSE as % of square mean: {:.6f}".format(MSE / (np.mean(y_test) ** 2)))
     
     
     return lm, MSE
@@ -490,7 +490,8 @@ def null_model_MSE(y_all):
     y_test = y_all[y_all["yyyymm"] >= TRAIN_DATE].iloc[:,1].to_numpy()
     
     MSE = np.sum((np.mean(y_train) - y_test)**2) / len(y_test)
-    print("Null MSE: {:.6f}    (i.e. Predict with mean)".format(MSE / (np.mean(y_test) ** 2)))
+    print("Null MSE: {:.6f}".format(MSE))
+    print("Null MSE as % of square mean: {:.6f}    (i.e. Predict with mean)".format(MSE / (np.mean(y_test) ** 2)))
     
 
 
@@ -555,6 +556,15 @@ y_all["volume_next_1_amd"] = y_all["volume_next_1_amd"].apply(lambda x: np.log(x
 
 lm, MSE = lm_model(x_all, y_all)
 null_model_MSE(y_all)
+
+# plot
+plt.figure(figsize = (6,4))
+plt.scatter(x_all.iloc[:,1], y_all.iloc[:,1])
+plt.xlabel('AMD Sentiment SD', fontsize = 15)
+plt.ylabel('Log trade volume', fontsize = 15)
+plt.title("AMD reddit sentiment vs Trade Volume",  fontsize = 15)
+abline(lm.params[1],lm.params[0])
+plt.show()
 
 
 #%% Intel Amazon sentiment vs Trade volume
