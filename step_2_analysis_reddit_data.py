@@ -156,12 +156,15 @@ output_cvs(amd_sen_summery, "Reddit_Sentiment_AMD_Result.csv")
 
 df_intel["length"] = df_intel["clean_text"].progress_apply(len)
 df_intel["word_count"] = df_intel["clean_text"].progress_apply(lambda x: len(x.split()))
-
-output_cvs(df_intel[["yyyymm", "length", "word_count"]], "Reddit_Summary_Intel_Result.csv")
+df_intel_merge = df_intel.merge(df_raw_intel.groupby(["yyyymm"])["yyyymm"].agg(["count"]).reset_index(), on = "yyyymm")
+df_intel_merge = df_intel_merge.rename(columns = {"count": "post_count"})
+output_cvs(df_intel_merge[["yyyymm", "length", "word_count", "post_count"]], "Reddit_Summary_Intel_Result.csv")
 
 df_amd["length"] = df_amd["clean_text"].progress_apply(len)
 df_amd["word_count"] = df_amd["clean_text"].progress_apply(lambda x: len(x.split()))
-output_cvs(df_amd[["yyyymm", "length", "word_count"]], "Reddit_Summary_AMD_Result.csv")
+df_amd_merge = df_amd.merge(df_raw_amd.groupby(["yyyymm"])["yyyymm"].agg(["count"]).reset_index(), on = "yyyymm")
+df_amd_merge = df_amd_merge.rename(columns = {"count": "post_count"})
+output_cvs(df_amd_merge[["yyyymm", "length", "word_count", "post_count"]], "Reddit_Summary_AMD_Result.csv")
 
 
 

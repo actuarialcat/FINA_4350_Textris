@@ -124,7 +124,7 @@ amazon_amd_bow = amazon_amd_bow[amazon_amd_bow["yyyymm"] <= MAX_DATE]
     
 
 
-#%% Plot Data Summery
+#%% Plot Data Word Count
 
 plot_data = pd.melt(df_summary[["yyyymm", "word_count_intel", "word_count_amd"]], id_vars = "yyyymm")
 plot_data["yyyymm"] = plot_data["yyyymm"].apply(as_date)
@@ -140,19 +140,23 @@ print(
      + geom_line() 
 )
 
-# =============================================================================
-# plt.figure(figsize = (10,7))
-# plt.plot(df_summary["yyyymm"].apply(as_date), df_summary["word_count_intel"], label = "Intel")
-# plt.plot(df_summary["yyyymm"].apply(as_date), df_summary["word_count_amd"], label = "AMD")
-# plt.legend(fontsize = 15)
-# plt.xlabel('Date', fontsize = 15)
-# plt.ylabel('Word count', fontsize = 15)
-# plt.set_major_formatter(ScalarFormatter())
-# plt.ticklabel_format(useOffset = False)
-# plt.yticks(fontsize = 15)
-# plt.xticks(fontsize = 15)
-# 
-# =============================================================================
+
+#%% Plot Data Post Count
+
+plot_data = pd.melt(df_summary[["yyyymm", "post_count_intel", "post_count_amd"]], id_vars = "yyyymm")
+plot_data["yyyymm"] = plot_data["yyyymm"].apply(as_date)
+
+plotnine.options.figure_size = (9, 6)
+
+print(
+     ggplot(plot_data)
+     + aes(x = "yyyymm", y = "value", color = "variable") 
+     + ggtitle("Number of reddit post")
+     + xlab("Date")
+     + ylab("Post count")
+     + geom_line() 
+)
+
 
 
 ###################################################
