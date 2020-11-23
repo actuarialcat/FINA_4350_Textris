@@ -135,24 +135,20 @@ df_amd, df_raw_amd  = convert_to_monthly(red_amd)
 
 
 
-#%% Sentiment step 1
+#%% Sentiment
 
 sid = SentimentIntensityAnalyzer()
 
 df_raw_intel["sentiment"] = df_raw_intel["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
 df_raw_amd["sentiment"] = df_raw_amd["clean_text"].progress_apply(lambda x: text_sentiment_NLTK(x, sid))
 
-
-
-#%% Sentiment step 2
-
 intel_sen_summery = df_raw_intel[["yyyymm", "sentiment"]].groupby(["yyyymm"])["sentiment"].apply(summarise_sentiment).reset_index()
 intel_sen_summery = intel_sen_summery.pivot("yyyymm", "level_1")["sentiment"]
-output_cvs(intel_sen_summery, "intel_sentiment.csv")
+output_cvs(intel_sen_summery, "Reddit_Sentiment_intel_Result.csv")
 
 amd_sen_summery = df_raw_amd[["yyyymm", "sentiment"]].groupby(["yyyymm"])["sentiment"].apply(summarise_sentiment).reset_index()
 amd_sen_summery = amd_sen_summery.pivot("yyyymm", "level_1")["sentiment"]
-output_cvs(intel_sen_summery, "AMD_sentiment.csv")
+output_cvs(amd_sen_summery, "Reddit_Sentiment_AMD_Result.csv")
 
 
 
@@ -160,12 +156,15 @@ output_cvs(intel_sen_summery, "AMD_sentiment.csv")
 
 df_intel["length"] = df_intel["clean_text"].progress_apply(len)
 df_intel["word_count"] = df_intel["clean_text"].progress_apply(lambda x: len(x.split()))
-
-output_cvs(df_intel[["yyyymm", "length", "word_count"]], "intel_summary.csv")
+df_intel_merge = df_intel.merge(df_raw_intel.groupby(["yyyymm"])["yyyymm"].agg(["count"]).reset_index(), on = "yyyymm")
+df_intel_merge = df_intel_merge.rename(columns = {"count": "post_count"})
+output_cvs(df_intel_merge[["yyyymm", "length", "word_count", "post_count"]], "Reddit_Summary_Intel_Result.csv")
 
 df_amd["length"] = df_amd["clean_text"].progress_apply(len)
 df_amd["word_count"] = df_amd["clean_text"].progress_apply(lambda x: len(x.split()))
-output_cvs(df_amd[["yyyymm", "length", "word_count"]], "AMD_summary.csv")
+df_amd_merge = df_amd.merge(df_raw_amd.groupby(["yyyymm"])["yyyymm"].agg(["count"]).reset_index(), on = "yyyymm")
+df_amd_merge = df_amd_merge.rename(columns = {"count": "post_count"})
+output_cvs(df_amd_merge[["yyyymm", "length", "word_count", "post_count"]], "Reddit_Summary_AMD_Result.csv")
 
 
 
