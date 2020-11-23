@@ -13,11 +13,13 @@ for brand in brands:
     directory = "Product review data_{0}/".format(brand)
     review_files = os.listdir(directory)
     
-    result = pd.DataFrame(columns=["Month", "Title Polarity", "Content Polarity"])
+    result = pd.DataFrame(columns=["Month", "Title Polarity", "Content Polarity", "Overall Polarity"])
     title_polarity_sum = {}
     title_polarity_count = {}
     content_polarity_sum = {}
     content_polarity_count = {}
+    overall_polarity_sum = {}
+    overall_polarity_count = {}
 
     for review_file in review_files:
         data = pd.read_csv(directory + review_file)
@@ -33,21 +35,27 @@ for brand in brands:
             index = calKey(year, month)
             title_polarity = sid.polarity_scores(title)['compound']
             content_polarity = sid.polarity_scores(content)['compound']
+            overall_polarity = sid.polarity_scores(title + ". " + content)['compound']
 
             if index in title_polarity_sum:
                 title_polarity_sum[index] += title_polarity
                 title_polarity_count[index] += 1
                 content_polarity_sum[index] += content_polarity
                 content_polarity_count[index] += 1
+                overall_polarity_sum[index] += overall_polarity
+                overall_polarity_count[index] += 1
             else:
                 title_polarity_sum[index] = title_polarity
                 title_polarity_count[index] = 1
                 content_polarity_sum[index] = content_polarity
                 content_polarity_count[index] = 1
+                overall_polarity_sum[index] = overall_polarity
+                overall_polarity_count[index] = 1
 
     for key in sorted(title_polarity_sum):
         title_polarity_avg = title_polarity_sum[key] / title_polarity_count[key]
         content_polarity_avg = content_polarity_sum[key] / content_polarity_count[key]
-        result = result.append({'Month': key, 'Title Polarity': title_polarity_avg, 'Content Polarity': content_polarity_avg}, ignore_index=True)
+        overall_polarity_avg = overall_polarity_sum[key] / overall_polarity_count[key]
+        result = result.append({'Month': key, 'Title Polarity': title_polarity_avg, 'Content Polarity': content_polarity_avg, 'Overall Polarity': overall_polarity_avg}, ignore_index=True)
 
     result.to_csv("Amazon_Sentiment_{0}_Result.csv".format(brand))

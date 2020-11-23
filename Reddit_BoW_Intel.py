@@ -28,10 +28,11 @@ bigram_count = {}
 trigram_count = {}
 
 for i in data.index:
+    print(i)
     sub_text = re.sub("(?P<url>http[^\s]+)", "", str(data["sub_text"][i]))
-    sub_text = re.sub("&amp;#x200B;", "", sub_text)
+    sub_text = re.sub("&amp;#x200B;", "", sub_text).strip()
     comment_text = re.sub("(?P<url>http[^\s]+)", "", str(data["comm_text"][i]))
-    comment_text = re.sub("&amp;#x200B;", "", comment_text)
+    comment_text = re.sub("&amp;#x200B;", "", comment_text).strip()
     index = str(data["created"][i])[:6]
 
     #For sub text
