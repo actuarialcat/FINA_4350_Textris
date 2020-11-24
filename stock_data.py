@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 import datetime
 
+import statsmodels.api as sm
 
 ###################################################
 # Global Param
@@ -63,6 +64,12 @@ def pre_process_stock_data(df):
     df["direction_up_next_1"] = df["ret_next_1"].apply(lambda x: x > 0)
     
     
+def pre_process_stock_data_2(df):
+    """Same but for excess returns"""
+    
+    df["excess_direction_up_next_1"] = df["excess_ret_next_1"].apply(lambda x: x > 0)
+    
+    
 def add_volumn_indicator(df, volume_cutoff):
     """Add volumn indicator for larger than median"""
 
@@ -80,9 +87,38 @@ def find_volume_cutoff(df):
     return np.median(df["Volume"])
     
     
-    
 #%%###################################################
-# AMD
+# Load FF 3 factor
+
+df_stock_3f = pd.read_csv(STOCK_DATA_PATH + "ff_3_factor.csv")
+df_stock_3f["yyyymm"] = df_stock_3f["yyyymm"].shift(periods = 1)
+
+
+def cal_excess_return(df, df_stock_3f):
+
+    X = df_stock_3f.iloc[:, 0:4]
+    X = X[X["yyyymm"] >= MIN_DATE]
+    X = X[X["yyyymm"] <= MAX_DATE]
+    X = X.iloc[:,1:4].to_numpy()
+    
+    Y = df[["yyyymm_int", "ret_next_1"]]
+    Y = Y[Y["yyyymm_int"] >= MIN_DATE]
+    Y = Y[Y["yyyymm_int"] <= MAX_DATE]
+    Y_2 = Y.iloc[:,1].to_numpy()
+    
+    X = sm.add_constant(X)
+    lm = sm.OLS(Y_2, X).fit()
+        
+    excess_return = lm.resid
+    
+    Y_3 = pd.concat([Y.reset_index(drop = True), pd.Series(excess_return)], axis = 1)
+    Y_3 = Y_3.rename(columns = {0: "excess_ret_next_1"})
+
+    return df.merge(Y_3[["yyyymm_int", "excess_ret_next_1"]], how = "left", on = "yyyymm_int")
+
+
+
+#%% AMD
     
 df_amd = read_stock_data("AMD.csv")
 pre_process_stock_data(df_amd)
@@ -91,6 +127,9 @@ amd_vol_median = find_volume_cutoff(df_amd)
 print(amd_vol_median)
 
 add_volumn_indicator(df_amd, 1320000000)      # Median is 1321868100, indicator use approx
+
+df_amd = cal_excess_return(df_amd, df_stock_3f)
+pre_process_stock_data_2(df_amd)
 
 
 #%% Intel
@@ -103,11 +142,14 @@ print(intel_vol_median)
 
 add_volumn_indicator(df_intel, 530000000)      # Median is 531366100, indicator use approx
 
+df_intel = cal_excess_return(df_intel, df_stock_3f)
+pre_process_stock_data_2(df_intel)
+
 
 #%% merge
 
-df_amd = df_amd[["yyyymm", "ret_next_1", "direction_up_next_1", "volume_next_1", "volume_large_next_1"]]
-df_intel = df_intel[["yyyymm", "ret_next_1", "direction_up_next_1", "volume_next_1", "volume_large_next_1"]]
+df_amd = df_amd[["yyyymm", "ret_next_1", "direction_up_next_1", "volume_next_1", "volume_large_next_1", "excess_ret_next_1", "excess_direction_up_next_1"]]
+df_intel = df_intel[["yyyymm", "ret_next_1", "direction_up_next_1", "volume_next_1", "volume_large_next_1", "excess_ret_next_1", "excess_direction_up_next_1"]]
 
 df = df_amd.merge(df_intel, on = "yyyymm", suffixes = ["_amd", "_intel"])
 

@@ -305,7 +305,7 @@ def nb_model(x_all, y_all, print_ind = True):
 #%% Intel reddit sentiment vs Stock Direction
 
 x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 #nb.coef_[0]
@@ -314,49 +314,49 @@ nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 #%% AMD reddit sentiment vs Stock Direction
 
 x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% Intel reddit bag of words vs Stock Direction
 
 x_all = intel_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
     
 
 #%% AMD reddit bag of words vs Stock Direction
 
 x_all = amd_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% Intel Amazon sentiment vs Stock Direction
 
 x_all = amazon_intel_sentiment
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% AMD Amazon sentiment vs Stock Direction
 
 x_all = amazon_amd_sentiment
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% Intel Amazon bag of words vs Stock Direction
 
 x_all = amazon_intel_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
     
 
 #%% AMD Amazon bag of words vs Stock Direction
 
 x_all = amazon_amd_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "excess_direction_up_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
@@ -365,7 +365,7 @@ nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 #%% Intel reddit sentiment vs Trade volumn indicator
 
 x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 #nb.coef_[0]
@@ -374,49 +374,49 @@ nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 #%% AMD reddit sentiment vs Trade volumn indicator
 
 x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% Intel reddit bag of words vs Trade volumn indicator
 
 x_all = intel_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
     
 
 #%% AMD reddit bag of words vs Trade volumn indicator
 
 x_all = amd_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% Intel Amazon sentiment vs Trade volumn indicator
 
 x_all = amazon_intel_sentiment
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% AMD Amazon sentiment vs Trade volumn indicator
 
 x_all = amazon_amd_sentiment
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
 #%% Intel Amazon bag of words vs Trade volumn indicator
 
 x_all = amazon_intel_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_intel"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_intel"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
     
 
 #%% AMD Amazon bag of words vs Trade volumn indicator
 
 x_all = amazon_amd_bow
-y_all = df_stock[["yyyymm", "direction_up_next_1_amd"]]
+y_all = df_stock[["yyyymm", "volume_large_next_1_amd"]]
 nb, test_acc, conf_matrix = nb_model(x_all, y_all)
 
 
@@ -525,6 +525,40 @@ x_all = amazon_amd_sentiment
 y_all = df_stock[["yyyymm", "ret_next_1_amd"]]
 lm, MSE = lm_model(x_all, y_all)
 null_model_MSE(y_all)
+
+
+###################################################
+#%% Intel reddit sentiment vs Excess Return
+
+x_all = intel_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "excess_ret_next_1_intel"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD reddit sentiment vs Excess Return
+
+x_all = amd_sentiment.iloc[:,[0,1,2,4,5]]      # Netural is fully correlated with pos and neg, thus not included
+y_all = df_stock[["yyyymm", "excess_ret_next_1_amd"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% Intel Amazon sentiment vs Excess Return
+
+x_all = amazon_intel_sentiment
+y_all = df_stock[["yyyymm", "excess_ret_next_1_intel"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
+
+#%% AMD Amazon sentiment vs Excess Return
+
+x_all = amazon_amd_sentiment
+y_all = df_stock[["yyyymm", "excess_ret_next_1_amd"]]
+lm, MSE = lm_model(x_all, y_all)
+null_model_MSE(y_all)
+
 
 
 ###################################################
